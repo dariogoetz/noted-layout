@@ -1,0 +1,116 @@
+// Bei einem Hochströmen sollte der nächste Abschnitt zu symbols/de hinzugefügt werden
+// und im unteren Teil noted(noted_base) durch de(noted_base) ersetzt werden
+
+partial alphanumeric_keys
+xkb_symbols "noted_base" {
+    include "de(neo_base)"
+
+
+    key.type[Group1] = "EIGHT_LEVEL_LEVEL_FIVE_LOCK";
+    key <AB08> { [ comma,                   endash,                  NoSymbol,                U03F1,                   NoSymbol,                NoSymbol,                U21D2,                   NoSymbol                 ] };
+    key <AB09> { [ period,                  enfilledcircbullet,      NoSymbol,                U03D1,                   NoSymbol,                NoSymbol,                U21A6,                   NoSymbol                 ] };
+
+
+    key.type[Group1] = "EIGHT_LEVEL_ALPHABETIC_LEVEL_FIVE_LOCK";
+    key <AD01> { [ z,                       Z,                       NoSymbol,                Greek_zeta,              NoSymbol,                NoSymbol,                U2124,                   NoSymbol                 ] };
+    key <AD02> { [ w,                       W,                       NoSymbol,                Greek_omega,             NoSymbol,                NoSymbol,                Greek_OMEGA,             NoSymbol                 ] };
+    key <AD03> { [ u,                       U,                       NoSymbol,                NoSymbol,                NoSymbol,                NoSymbol,                includedin,              NoSymbol                 ] };
+    key <AD04> { [ a,                       A,                       NoSymbol,                Greek_alpha,             NoSymbol,                NoSymbol,                U2200,                   NoSymbol                 ] };
+    key <AD05> { [ q,                       Q,                       NoSymbol,                U03D5,                   NoSymbol,                NoSymbol,                U211A,                   NoSymbol                 ] };
+    key <AD06> { [ p,                       P,                       NoSymbol,                Greek_pi,                NoSymbol,                NoSymbol,                Greek_PI,                NoSymbol                 ] };
+    key <AD07> { [ f,                       F,                       NoSymbol,                Greek_phi,               NoSymbol,                NoSymbol,                Greek_PHI,               NoSymbol                 ] };
+    key <AD08> { [ m,                       M,                       NoSymbol,                Greek_mu,                NoSymbol,                NoSymbol,                ifonlyif,                NoSymbol                 ] };
+    key <AD09> { [ l,                       L,                       NoSymbol,                Greek_lambda,            NoSymbol,                NoSymbol,                Greek_LAMBDA,            NoSymbol                 ] };
+    key <AD10> { [ y,                       Y,                       NoSymbol,                Greek_upsilon,           NoSymbol,                NoSymbol,                nabla,                   NoSymbol                 ] };
+    // AD11 receives symbol from neo AC11 in layers 3 and from neo AD11 in layer 4
+    key <AD11> { [ j,                       J,                       at,                      Greek_theta,             U2212,                   NoSymbol,                Greek_THETA,             NoSymbol                 ] };
+    // AD12 recieves symbol from neo AD11 in layers 3 and from neo AB10 in layer 4
+    key <AD12> { [ ssharp,                  U1E9E,                   U017F,                   Greek_finalsmallsigma,   semicolon,               NoSymbol,                jot,                     NoSymbol                 ] };
+
+    key <AC01> { [ c,                       C,                       NoSymbol,                Greek_chi,               NoSymbol,                NoSymbol,                U2102,                   NoSymbol                 ] };
+    key <AC02> { [ s,                       S,                       NoSymbol,                Greek_sigma,             NoSymbol,                NoSymbol,                Greek_SIGMA,             NoSymbol                 ] };
+    key <AC03> { [ i,                       I,                       NoSymbol,                Greek_iota,              NoSymbol,                NoSymbol,                integral,                NoSymbol                 ] };
+    key <AC04> { [ e,                       E,                       NoSymbol,                Greek_epsilon,           NoSymbol,                NoSymbol,                U2203,                   NoSymbol                 ] };
+    key <AC05> { [ o,                       O,                       NoSymbol,                Greek_omicron,           NoSymbol,                NoSymbol,                elementof,               NoSymbol                 ] };
+    key <AC06> { [ d,                       D,                       NoSymbol,                Greek_delta,             NoSymbol,                NoSymbol,                Greek_DELTA,             NoSymbol                 ] };
+    key <AC07> { [ t,                       T,                       NoSymbol,                Greek_tau,               NoSymbol,                NoSymbol,                partialderivative,       NoSymbol                 ] };
+    key <AC08> { [ n,                       N,                       NoSymbol,                Greek_nu,                NoSymbol,                NoSymbol,                U2115,                   NoSymbol                 ] };
+    key <AC09> { [ r,                       R,                       NoSymbol,                Greek_rho,               NoSymbol,                NoSymbol,                U211D,                   NoSymbol                 ] };
+    key <AC10> { [ h,                       H,                       NoSymbol,                Greek_psi,               NoSymbol,                NoSymbol,                Greek_PSI,               NoSymbol                 ] };
+
+    key.type[Group1] = "EIGHT_LEVEL_LEVEL_FIVE_LOCK";
+    // AC12 recieves symbols from neo AD12
+    key <AC12> { [ dead_acute,              dead_tilde,              dead_stroke,             dead_psili,              dead_doubleacute,        NoSymbol,                dead_breve,              NoSymbol                 ] };
+
+    key.type[Group1] = "EIGHT_LEVEL_ALPHABETIC_LEVEL_FIVE_LOCK";
+    key <AB01> { [ v,                       V,                       NoSymbol,                NoSymbol,                NoSymbol,                NoSymbol,                radical,                 NoSymbol                 ] };
+    key <AB02> { [ x,                       X,                       NoSymbol,                Greek_xi,                NoSymbol,                NoSymbol,                Greek_XI,                NoSymbol                 ] };
+    key <AB03> { [ udiaeresis,              Udiaeresis,              NoSymbol,                NoSymbol,                NoSymbol,                NoSymbol,                union,                   NoSymbol                 ] };
+    key <AB04> { [ adiaeresis,              Adiaeresis,              NoSymbol,                Greek_eta,               NoSymbol,                NoSymbol,                U2135,                   NoSymbol                 ] };
+    key <AB05> { [ odiaeresis,              Odiaeresis,              NoSymbol,                U03F5,                   NoSymbol,                NoSymbol,                intersection,            NoSymbol                 ] };
+    key <AB06> { [ b,                       B,                       NoSymbol,                Greek_beta,              NoSymbol,                NoSymbol,                U21D0,                   NoSymbol                 ] };
+    key <AB07> { [ g,                       G,                       NoSymbol,                Greek_gamma,             NoSymbol,                NoSymbol,                Greek_GAMMA,             NoSymbol                 ] };
+    // AB10 receives symbol from neo AC11 in layer 4 and the Pseudoebene
+    key <AB10> { [ k,                       K,                       NoSymbol,                Greek_kappa,             period,                  KP_Decimal,              multiply,                NoSymbol                 ] };
+};
+
+default partial alphanumeric_keys modifier_keys keypad_keys
+xkb_symbols "noted" {
+
+    include "noted(noted_base)"
+
+    name[Group1]= "German (Noted)";
+
+    include "shift(both_capslock)"
+    include "level3(caps_switch)"
+    include "noted(ac11_switch)"
+    include "level5(lsgt_switch_lock)"
+    include "level5(ralt_switch_lock)"
+};
+
+partial alphanumeric_keys modifier_keys keypad_keys
+xkb_symbols "angle_mod" {
+
+    include "noted(noted)"
+
+    key <LSGT> { [ v,                       V,                       numbersign,              NoSymbol,                Escape,                  Escape,                radical,                 NoSymbol                 ] };
+    key <AB01> { [ x,                       X,                       dollar,                  Greek_xi,                Tab,                     Tab,                   Greek_XI,                NoSymbol                 ] };
+    key <AB02> { [ udiaeresis,              Udiaeresis,              bar,                     NoSymbol,                Insert,                  Insert,                union,                   NoSymbol                 ] };
+    key <AB03> { [ adiaeresis,              Adiaeresis,              asciitilde,              Greek_eta,               Return,                  Return,                U2135,                   NoSymbol                 ] };
+    key <AB04> { [ odiaeresis,              Odiaeresis,              grave,                   U03F5,                   Undo,                    Redo,                  intersection,            NoSymbol                 ] };
+
+
+    name[Group1]= "German (Noted - Angle Mod)";
+
+    include "shift(both_capslock)"
+    include "level3(caps_switch)"
+    include "noted(ac11_switch)"
+    include "noted(ab05_switch_lock)"
+    include "level5(ralt_switch_lock)"
+};
+
+// Bei einem Hochströmen sollte der nächste Abschnitt zu symbols/level3 hinzugefügt werden
+// und noted(ac11_switch) durch level3(ac11_switch)
+
+// The Backslash key (while pressed) chooses the third shift level.
+partial modifier_keys
+xkb_symbols "ac11_switch" {
+  key <AC11> {
+    type[Group1]="ONE_LEVEL",
+    symbols[Group1] = [ ISO_Level3_Shift ]
+  };
+};
+
+
+// Bei einem Hochströmen sollte der nächste Abschnitt zu symbols/level5 hinzugefügt werden
+// und noted(ab05_switch_lock) durch level5(ab05_switch_lock)
+
+partial modifier_keys
+xkb_symbols "ab05_switch_lock" {
+  include "level5(lock)"
+  key <AB05> {
+    type[Group1] = "EIGHT_LEVEL",
+    symbols[Group1] = [ ISO_Level5_Shift, ISO_Level5_Shift, ISO_Level5_Shift, ISO_Level5_Shift,
+                        ISO_Level5_Lock, ISO_Level5_Lock, ISO_Level5_Lock, ISO_Level5_Lock ]
+  };
+};
