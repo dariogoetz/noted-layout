@@ -8,7 +8,7 @@ arch=('any')
 url="https://github.com/dariogoetz/noted-layout"
 license=('GPL')
 depends=('xkeyboard-config')
-source=("https://raw.githubusercontent.com/dariogoetz/noted-layout/main/noted")
+source=("https://raw.githubusercontent.com/dariogoetz/noted-layout/main/xkb/noted")
 md5sums=("ac832dfb181ed366ed7873ae335f24e4")
 
 package() {
