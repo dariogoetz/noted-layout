@@ -474,9 +474,9 @@ shift   shiftr  keycode  26 = j
         altgr   keycode  26 = at
 altgr   shiftl  keycode  26 = U+03b8
 altgr   shiftr  keycode  26 = U+03b8
-        ctrll   keycode  26 = minus
-shiftl  ctrll   keycode  26 = U+2212
-shiftr  ctrll   keycode  26 = U+2212
+        ctrll   keycode  26 = U+2212
+shiftl  ctrll   keycode  26 = minus
+shiftr  ctrll   keycode  26 = minus
 altgr   ctrll   keycode  26 = U+0398
 
                 keycode  27 = ssharp
