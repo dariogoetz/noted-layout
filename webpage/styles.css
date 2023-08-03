@@ -1,0 +1,95 @@
+html {
+    background-color: #272C3D;
+    font-family: Open Sans;
+    font-size: 1.3em;
+    line-height: 1.5;
+    color: #EEE;
+}
+
+.lang-link-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 40px;
+  border-right: #666 1px solid;
+  border-bottom: #666 1px solid;
+  border-bottom-right-radius: 10px;
+  font-size: 1em;
+  padding: 10px;
+  background-color: #454E6A;
+}
+
+.lang-link-text {
+  width: fit-content;
+  margin: auto;
+  transform: translate(-5px, 5px);
+  font-weight: bolder;
+}
+
+.lang-link {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+h2 {
+    font-size: 2em;
+    font-weight: bolder;
+    margin: 1vh auto 1vh auto;
+}
+
+section {
+    margin: auto auto 2vh auto;
+}
+
+header {
+    font-weight: bolder;
+    font-size: 2em;
+    margin-top: -1.4vh;
+    margin-bottom: -1.0vh;
+    text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.layout-display {
+    display: block;
+    width: 80vw;
+    max-width: 900px;
+    margin-top: 2vh;
+    margin-bottom: 5vh;
+}
+
+.keyboard {
+    background-color: #e0e9ff;
+    border-radius: 0.5vw;
+}
+
+.attribution {
+  text-align: right;
+}
+
+small {
+  font-size: 0.75em;
+}
+
+article {
+    background-color: #454E6A;
+    width: 90vw;
+    padding: 1vw;
+    /* border-radius: max(1.31vh, 1.5vw); */
+    margin: 1vw auto auto auto;
+    max-width: 1000px;
+}
+
+a:link, a:visited {
+  color: #e0e9ff;
+}
+
+

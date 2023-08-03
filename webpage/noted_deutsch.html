@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+	<meta charset="UTF-8">
+	<title>Noted Layout</title>
+	<link rel="stylesheet" href="./styles.css">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <div class="lang-link-box">
+    <div class="lang-link-text">English</div>
+    <a href="./index.html"><span class="lang-link"></span></a>
+  </div>
+
+	<header>
+		<h1>Noted</h1>
+	</header>
+
+  <div class="layout-display center">
+    <div class="keyboard">
+      <img src="assets/noted-1-tkl.path.svg" alt="Layer 1" width="99%" style="padding: 3px;"/>
+    </div>
+    <div class="attribution">
+      <small><a href="https://git.neo-layout.org/neo/neo-layout/src/branch/master/grafik/bilder-einzeln/flat">Bildvorlage</a> vom <a href="https://www.neo-layout.org">Neo-Projekt</a>, CC-BY-SA 3.0</small>
+    </div>
+  </div>
+
+	<article>
+    <h2>Beschreibung</h2>
+    <section>
+      <p>
+        Das <em>Noted</em> Layout ist ein Tastatur-Layout, das besonders
+        effizientes und komfortables Tippen in Deutsch und Englisch ermöglichen soll.
+        Es hat seine Wurzeln in der <a href="https://www.neo-layout.org">Neo-Familie</a>
+        deutscher alternativer Tastatur-Layouts und versucht Verbesserungen darüber hinaus zu erzielen.
+      </p>
+      <p>
+        Entworfen wurde das <em>Noted</em> Layout mit Hilfe eines neu entwickelten
+        <a href="https://github.com/dariogoetz/keyboard_layout_optimizer">Optimierers</a>
+        basierend auf einem gemischt-sprachigen Korpus (60% Deutsch, 40% Englisch).
+      </p>
+    </section>
+
+    <h2>Ziele</h2>
+    <section>
+      <p>
+        Das Ziel des <em>Noted</em> Layouts ist es, möglichst komfortables Tippen
+        von deutschen und englischen Texten (insbesondere auf ISO-Tastaturen) zu ermöglichen, indem
+        <ul>
+          <li>häufig verwendete Buchstaben auf gut erreichbaren Tasten liegen,</li>
+          <li>unangenehmen Tastenfolgen vermieden werden,</li>
+          <li>ein angenehm "rollender" Tipp-Rhythmus (Handwechsel im zweier-Rhythmus) entsteht,</li>
+          <li>die Shortcut-Buchstaben "cvxz" auf der linken Hand in der Nähe der Strg-Taste liegen
+              (damit die rechte Hand für die Nutzung der Maus frei bleiben kann),</li>
+          <li>Punktuations-Symbole ",." auf den gewohnten (QWERTZ) Tasten liegen,</li>
+          <li>die Verwendung der Shift-Tasten bei der Entwicklung des Layouts ordentlich
+              (Shift-Tasten werden gehalten bis die modifizierte Taste losgelassen wurde) berücksichtigt wird.</li>
+        </ul>
+      </p>
+      <p>
+        Was genau "unangenehme Tastenfolgen" und ein "angenehmer Tipp-Rhythmus" sind, ist häufig schwer
+        zu definieren und hängt zum Teil von persönlichen Präferenzen ab.
+        Das <em>Noted</em> Layout berücksichtigt eine Reihe von Bewertungskriterien, etwa
+        "Anzahl der Fingerwiederholungen", die diese "weichen" Ziele quantifizieren sollen.
+      </p>
+      <p>
+        Diese dem <em>Noted</em> Layout zugrundeliegenden Metriken und Bewertungskriterien sind
+        grundsätzlich nicht neu und kamen bereits bei der Entwicklung von mehreren Tastatur-Layouts zum Einsatz.
+        Für das <em>Noted</em> Layouts wurden sie jedoch im Vergleich zu anderen Layouts
+        weiter differenziert und erweitert.
+      </p>
+      <p>
+        So legt das <em>Noted</em> Layout Wert darauf Fingerwiederholungen auf schwächeren Fingern
+        (z.B. dem kleinen Finger) stärker zu vermeiden als auf starken Fingern (z.B. dem Mittel- oder Zeigefinger).
+        Auch sollen seitliche Fingerwiederholungen (z.B. des Zeigefingers in der mittleren Spalte) eher vermieden werden als
+        vertikalen Varianten und Fingerwiederholungen, die den Finger krümmen sind (leicht) solchen
+        vorzuziehen, die den Finger strecken.
+      </p>
+      <p>
+        Die Bewertung aufeinanderfolgender Tastenanschläge auf der gleichen Hand, die keine
+        Fingerwiederholungen sind, erfolgt für das <em>Noted</em> Layout differenziert darüber,
+        <ul>
+          <li>welche Finger involviert sind (zum Beispiel ist ein eine Abfolge vom Mittelfinger zum Zeigefinger
+            einer Abfolge vom Mittelfinger zum Ringfinger vorzuziehen),</li>
+          <li>wie viele Zeilen übersprungen werden,</li>
+          <li>ob von einem längeren Finger nach oben oder nach unten zu einem kürzeren Finger übergegangen wird
+            und,</li>
+          <li>ob eine der Tasten die Hand aus der Grundhaltung heraus "zieht".</li>
+        </ul>
+      </p>
+      <p>
+        Für die Entwicklung des <em>Noted</em> Layouts entstand ein
+          neuer <a href="https://github.com/dariogoetz/keyboard_layout_optimizer">Tastatur-Layout-Optimierer</a>
+          auf der Grundlage des <a href="https://hg.sr.ht/~arnebab/evolve-keyboard-layout">Optimierers von Arne Babenhauserheide (ArneBab)</a>,
+        der bereits Varianten einiger der verwendeten Metriken enthält und für die Entwicklung des <em>Mine</em> Layouts verwendet wurde.
+      </p>
+    </section>
+
+    <h2>Vergleich mit anderen deutschen Layouts</h2>
+    <section>
+      <p>
+        Bekannte Vertreter alternativer Tastatur-Layouts für die deutsche Sprache auf ISO-Tastaturen sind die Layouts der Neo-Familie
+          <em><a href="https://www.neo-layout.org/Layouts/neo/">Neo2</a></em>,
+          <em><a href="https://www.neo-layout.org/Layouts/bone/">Bone</a></em>,
+          <em><a href="https://www.neo-layout.org/Layouts/mine/">Mine</a></em>
+          und <em><a href="http://www.adnw.de/index.php?n=Main.SeitlicheNachbaranschl%c3%a4ge">KOY</a></em>.
+      </p>
+      <p>
+        Von diesen Layouts ähnelt das <em>Noted</em> Layout
+        am stärksten dem <em>Mine</em> Layout. Es hat den gleichen Vokalblock,
+        die gleichen Positionen für die Shortcut-Tasten "cvxz", sowie "h" und "k" auf dem rechten kleinen Finger.
+        Im Gegensatz zu <em>Mine</em> liegt das "s" statt dem "r" auf der linken Hauptreihe. Damit werden
+        Shift-Kollisionen mit dem "c" beim Tippen von "Sch" vermieden.
+        Außerdem sind die Konsonanten auf der rechten Hand anders sortiert
+        um den Tippkomfort zu erhöhen und das berüchtigte Zeigefinger-"mpf" ("impfen", "empfinden") zu vermeiden.
+      </p>
+
+      <h3>Shortcuts und Punktuation</h3>
+      <p>
+        Sowohl <em>Mine</em> als auch <em>Neo2</em> legen die Shortcut-Tasten "cvxz" auf die linke Hand in "Reichweite"
+        der Strg-Taste, sodass bei der Nutzung solcher Shortcuts die rechte Hand für die Verwendung der Maus frei bleibt.
+        Bei <em>Bone</em> liegt das "x" zwar links, jedoch weit von der linken Strg-Taste entfernt.
+        Das <em>KOY</em> Layout legt sowohl das "c" als auch das "v" auf die rechte Hand, was die Nutzung von Shortcuts umständlicher macht.
+        Außerdem liegen die Tasten für Punkt und Komma beim <em>KOY</em> Layout auf anderen Positionen als üblich.
+      </p>
+
+      <h3>Performance</h3>
+      <p>
+        Die Gesamtbewertung des Optimierers ergibt sich aus der Summe von Kosten verschiedener Metriken. Die Hauptmetriken sind
+        <ul>
+            <li><b>Key Costs</b>
+              <br>Mit welchen Häufigkeiten werden gut erreichbare Tasten verwendet?
+            </li>
+            <li><b>Finger Repeats</b>
+              <br>Wie häufig werden Tasten nacheinander vom gleichen Finger verwendet?
+                Dies wird mit der Stärke der Finger und der Richtung der Bewegung gewichtet.
+            </li>
+            <li><b>Movement Pattern</b>
+              <br>Wie häufig werden "unangenehme" seitliche Anschläge durchgeführt?
+                Hier spielen sowohl die verwendeten Finger (und deren Längen) als auch die Anzahl der übersprungenen Zeilen eine Rolle.
+            </li>
+        </ul>
+        Darüber hinaus gibt es noch eine Reihe weiterer Metriken, die schwächer gewichtet werden und einen geringeren Einfluss auf das Gesamtergebnis haben:
+          <ul>
+            <li><b>Finger Balance</b>
+              <br>Werden die Finger ausgeglichen stark belastet?</li>
+            <li><b>Hand Balance</b>
+              <br>Werden die beiden Hänge gleichmäßig belastet?</li>
+            <li><b>No Handswitch after Unbalancing Key</b>
+              <br>Nach Nutzung von Tasten, die die Hand aus der Grundposition heraus ziehen, sollte ein Handwechsel geschehen.</li>
+            <li><b>No Handswitch in Trigram</b>
+              <br>Wie häufig werden drei Tasten nacheinander von der selben Hand angeschlagen (und beinhalten sie einen Richtungswechsel)?</li>
+            <li><b>Irregularity</b>
+              <br>Wie häufig treten zwei unangenehme Bigramme direkt nacheinander auf?</li>
+            <li><b>Secondary Bigrams</b>
+              <br>Wie häufig liegen die erste und letzte Taste eines Trigramms unangenehm zueinander?</li>
+            <li><b>In- und Outward Rolls</b>
+              <br>Wie häufig geschieht genau ein Handwechsel in einem Trigramm (fördert einen zwei-zwei Rhythmus der beiden Hände und damit ein "flüssigeres" Tipp-Gefühl)? Bilden die beiden aufeinander Folgenden Tasten einer Hand eine Bewegung nach innen oder außen?</li>
+          </ul>
+      </p>
+
+      <img src="assets/comparison_barchart_relative.png" alt="Vergleich der modernen Layouts der Neo-Familie" width="90%" class="center" style="display:block; border-radius: 3px;" />
+
+      <p>
+        Betrachtet man die verschiedenen Metriken des Optimierers in Bezug auf einen gemischt deutsch-englischen Korpus (60%/40%) für die Layouts der Neo-Familie,
+        so fällt zunächst auf, dass die "modernen" Layouts gegenüber ihrem Vorgänger <em>Neo2</em> die Anzahl
+        der Fingerwiederholungen stark reduzieren. Um die damit einhergehende Verzerrung der Skalen zu verhindern taucht
+        das <em>Neo2</em> Layout in den Auswertungen nicht mit auf.
+      </p>
+      <p>
+        Das Balkendiagramm zeigt die relativen Kosten für die einzelnen Metriken in Bezug auf das <em>Noted</em> Layout.
+        Positive Werte (nach oben gerichtete Balken) bedeuten höhere Kosten und damit geringere Performance, negative Werte
+        bedeuten bessere Performance. Das <em>KOY</em> Layout in orange, das <em>Bone</em> Layout in magenta
+        und das <em>Mine</em> Layout in dunkelblau.
+      </p>
+      <p>
+        Unter den "modernen" Varianten erreicht das <em>Noted</em> Layout die geringsten Kosten bei den beiden Hauptmetriken
+        der Fingerwiederholungen ("Finger Repeats") und unangenehmen seitlichen Anschlägen ("Movement Pattern").
+      </p>
+      <p>
+        Das <em>KOY</em> Layout verwendet am häufigsten gut erreichbare Tasten ("Key Costs"), die geschieht jedoch
+        auf Kosten der Fingerwiederholungen und seitlichen Anschläge.
+      </p>
+      <p>
+        Das <em>KOY</em> Layout hat am wenigsten Trigramme ohne Handwechsel, das <em>Mine</em> Layout dagegen am meisten.
+        Das <em>Noted</em> Layout liegt dazwischen.
+      </p>
+      <p>
+        Sowohl <em>Noted</em> als auch <em>Bone</em> rollen gleichermaßen nach außen und nach innen.
+        Das <em>KOY</em> Layout rollt eher nach innen und das <em>Mine</em> Layout dagegen eher nach außen.
+      </p>
+      <p>
+        In der Gesamtbewertung ergibt sich für den gemischt deutsch-englischen Korpus folgendes Bild:
+        <table class="center" style="width: 90%;">
+          <thead>
+            <tr>
+              <th class="blank" width="25%"> </th>
+              <th class="row_heading">Noted</th>
+              <th class="row_heading">KOY</th>
+              <th class="row_heading">Bone</th>
+              <th class="row_heading">Mine</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th class="row_heading">Deutsch/Englisch</th>
+              <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">288.54</td>
+              <td class="data" style="background-color:#e3f1e3; color:#000; text-align:center" bgcolor="#e3f1e3" align="center">296.42</td>
+              <td class="data" style="background-color:#fffafa; color:#000; text-align:center" bgcolor="#fffafa" align="center">308.74</td>
+              <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">325.95</td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+      </p>
+    </section>
+
+    <h3>Performance in reinen deutschen und englischen Korpora</h3>
+    <section>
+      <p>
+        Betrachtet man die Bewertungen für rein deutsche und rein englische Korpora, so zeigt sich,
+        dass das <em>Noted</em> Layout ähnlich gut in beiden Sprachen funktioniert mit leichter Präferenz zum Deutschen.
+      </p>
+      <p>
+        Bei <em>Mine</em> und vor allem bei <em>Bone</em> ist die Tendenz zum Deutschen stärker ausgeprägt.
+        Dies reicht so weit, dass das <em>Bone</em> Layout im Deutschen sogar bessere Werte erzielt als das <em>KOY</em> Layout.
+      </p>
+      <p>
+        Das <em>KOY</em> Layout zeigt dagegen im Englischen eine bessere Performance als im Deutschen (sogar besser, als das <em>Noted</em> Layout).
+        Dies mag zum Einen an dem für die englische Sprache besser passenden Vokalblock liegen, bei dem "e" und "a" nebeneinander auf der Hauptreihe
+        liegen (statt zu einer Fingerwiederholung zu führen, wie bei <em>Noted</em>, <em>Mine</em> und <em>Bone</em>).
+        Zum Anderen kann dies daran liegen, dass das <em>KOY</em> Layout viele Fingerwiederholungen mit Shift-Tasten hat,
+        die in der englischen Sprache jedoch seltener Verwendung finden als im Deutschen.
+      </p>
+      <p>
+        <table class="center" style="width: 90%;">
+          <thead>
+            <th class="blank" width="20%"> </th>
+            <th class="row_heading">Noted</th>
+            <th class="row_heading">KOY</th>
+            <th class="row_heading">Bone</th>
+            <th class="row_heading">Mine</th>
+          </thead>
+          <tbody>
+            <tr>
+              <th class="row_heading">Deutsch</th>
+              <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">276.10</td>
+              <td class="data" style="background-color:#ffe6e6; color:#000; text-align:center" bgcolor="#ffe6e6" align="center">298.63</td>
+              <td class="data" style="background-color:#f1f8f1; color:#000; text-align:center" bgcolor="#f1f8f1" align="center">287.29</td>
+              <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">307.38</td>
+            </tr>
+            <tr>
+              <th class="row_heading">Englisch</th>
+              <td class="data" style="background-color:#d7ebd7; color:#000; text-align:center" bgcolor="#d7ebd7" align="center">282.09</td>
+              <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">277.68</td>
+              <td class="data" style="background-color:#ffe0e0; color:#000; text-align:center" bgcolor="#ffe0e0" align="center">315.17</td>
+              <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">325.28</td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+      </p>
+    </section>
+
+    <h3>Einfluss der Shift-Taste</h3>
+    <section>
+      <p>
+        Die explizite Berücksichtigung der Shift-Taste hatte einen nicht zu vernachlässigen Einfluss auf die Entstehung des <em>Noted</em> Layouts.
+        Ähnliches gilt für das <em>Bone</em> Layout und das <em>Mine</em> Layout, die ebenfalls unter Berücksichtigung der Shift-Taste optimiert wurden.
+        Der Sprung in der Gesamtbewertung beim Ausblenden des Effekts der Shift-Taste hält sich demnach in Grenzen.
+      </p>
+      <p>
+        Das <em>KOY</em> Layout dagegen weist eine erhebliche Anzahl Fingerwiederholungen und unangenehmen Seitenanschlägen mit der
+        linken Shift-Taste auf. Im Englischen kommt es bei Satzanfänge mit "Th" (z.B. "The", "This", "That") zu Fingerwiederholungen mit dem "h".
+        Im Deutschen sind es dann häufiger Kombinationen mit "a" (z.B. "Das", "Was", "Dann") und "o" (z.B. "Wo" oder "So"), die zu unangenehmen
+        Seitenanschlägen führen.
+      </p>
+      <p>
+        Ignoriert man den Effekt der Shift-Taste (dies kann man zum Beispiel mit der Verwendung von Daumen-Shift-Tasten erreichen), erkennt man einen klaren Zugewinn des <em>KOY</em> Layouts:
+        <table class="center" style="width: 90%;">
+          <thead>
+            <tr>
+              <th class="blank" width="25%"> </th>
+              <th class="row_heading">Noted</th>
+              <th class="row_heading">KOY</th>
+              <th class="row_heading">Bone</th>
+              <th class="row_heading">Mine</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th class="row_heading">Deu/Eng (ohne Shift)</th>
+              <td class="data" style="background-color:#f4f9f4; color:#000; text-align:center" bgcolor="#f4f9f4" align="center">255.60</td>
+              <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">231.86</td>
+              <td class="data" style="background-color:#ffe9e9; color:#000; text-align:center" bgcolor="#ffe9e9" align="center">275.14</td>
+              <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">292.83</td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+      </p>
+    </section>
+
+    <h3>Einfluss von Zeilenumbrüchen</h3>
+    <section>
+      <p>
+        Ein Großteil der Kosten der "Movement Pattern" Metrik bei <em>Noted</em> (und in gleichem Maße bei <em>Mine</em> und <em>Bone</em>)
+        kommt durch das Bigramm aus "Punkt" und "Enter" (also einem Zeilenumbruch). Schließt man Zeilenumbrüche aus den Bewertungen aus
+        (dies kann man zum Beispiel mit der Verwendung von Daumen-Enter-Tasten erreichen),
+        kann der Effekt des neu-anordnens der Punktuationssymbole des <em>KOY</em> Layouts auch für die anderen Layouts sichtbar gemacht werden.
+        <table class="center" style="width: 90%;">
+          <thead>
+            <tr>
+              <th class="blank" width="25%"> </th>
+              <th class="row_heading">Noted</th>
+              <th class="row_heading">KOY</th>
+              <th class="row_heading">Bone</th>
+              <th class="row_heading">Mine</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th class="row_heading">Deu/Eng (ohne Enter)</th>
+              <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">269.62</td>
+              <td class="data" style="background-color:#ffecec; color:#000; text-align:center" bgcolor="#ffecec" align="center">296.23</td>
+              <td class="data" style="background-color:#fff7f7; color:#000; text-align:center" bgcolor="#fff7f7" align="center">292.09</td>
+              <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">308.85</td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+      </p>
+    </section>
+
+    <h3>Tastaturen mit Daumentasten</h3>
+    <section>
+      <p>
+        Auch wenn das <em>Noted</em> Layout nicht explizit für Tastaturen mit Daumentasten optimiert wurde,
+        eignet es sich dennoch gut für solche Hardware-Lösungen:
+      </p>
+      <p>
+        Verwendet man Tastaturen mit Daumentasten (oder entsprechende Software-Lösungen), kann man den (negativen) Effekt der Shift- und Enter-Tasten umgehen,
+        indem man die entsprechenden Tasten auf die Daumen legt. Bei der Verwendung von Daumenshifts kann das <em>KOY</em> Layout seine Stärken
+        voll ausspielen (siehe oben "Einfluss der Shift-Taste"). In ähnlichem Maße profitieren <em>Noted</em>, <em>Mine</em> und <em>Bone</em> von der Belegung einer Daumentaste
+        mit Enter (siehe oben "Einfluss von Zeilenumbrüchen").
+      </p>
+    </section>
+
+    <h2>Vergleich zu englischen Layouts</h2>
+    <section>
+      <p>
+        Neben den deutschen Layouts der Neo-Familie gibt es noch eine große Anzahl alternativer Tastatur-Layouts
+        aus dem englisch-sprachigen Raum. Diese werden üblicherweise ohne explizite Berücksichtigung der Shift-Taste
+        entwickelt und schließen häufig auch Zeilenumbrüche bei Bewertungen aus.
+      </p>
+      <p>
+        An dieser Stelle soll das <em>Noted</em> Layout beispielhaft mit den in der englisch-sprachigen Community zur Zeit
+        angesehenen Layouts <a href="https://github.com/Apsu/Canary">Canary</a> und <a href="https://o-x-e-y.github.io/layouts/sturdy/index.html">Sturdy</a> verglichen werden.
+      </p>
+      <p>
+        Es ist klar zu erkennen, dass <em>Canary</em> und <em>Sturdy</em> vorrangig für die englische Sprache entwickelt wurden.
+        Beide Layouts können beim Tippen von deutsch-sprachigen Texten mit den modernen Layouts der Neo-Familie nicht mithalten.
+        Dies gilt insbesondere dann, wenn sowohl die Shift-Taste als auch Zeilenumbrüche berücksichtigt werden.
+        Im englischen Korpus ohne Shift und Enter können sich beide Layouts dagegen dann klar gegen die deutschen Layouts absetzen
+        (mit Ausnahme des <em>KOY</em> Layouts, das hier konkurrenzfähig bleibt):
+        <table class="center" style="width: 90%;">
+          <thead>
+            <tr>
+              <th class="blank" width="30%"> </th>
+              <th class="row_heading">Noted</th>
+              <th class="row_heading">KOY</th>
+              <th class="row_heading">Bone</th>
+              <th class="row_heading">Mine</th>
+              <th class="row_heading">Canary</th>
+              <th class="row_heading">Sturdy</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th class="row_heading">Deutsch</th>
+              <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">276.10</td>
+              <td class="data" style="background-color:#eaf4ea; color:#000; text-align:center" bgcolor="#eaf4ea" align="center">298.63</td>
+              <td class="data" style="background-color:#dbeddb; color:#000; text-align:center" bgcolor="#dbeddb" align="center">287.29</td>
+              <td class="data" style="background-color:#f4f9f4; color:#000; text-align:center" bgcolor="#f4f9f4" align="center">307.38</td>
+              <td class="data" style="background-color:#ffd1d1; color:#000; text-align:center" bgcolor="#ffd1d1" align="center">350.33</td>
+              <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">356.46</td>
+            </tr>
+            <tr>
+              <th class="row_heading">Eng (ohne Shift/Enter)</th>
+              <td class="data" style="background-color:#f9fcf9; color:#000; text-align:center" bgcolor="#f9fcf9" align="center">241.70</td>
+              <td class="data" style="background-color:#e4f1e4; color:#000; text-align:center" bgcolor="#e4f1e4" align="center">223.09</td>
+              <td class="data" style="background-color:#ffd9d9; color:#000; text-align:center" bgcolor="#ffd9d9" align="center">277.48</td>
+              <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">290.63</td>
+              <td class="data" style="background-color:#eaf4ea; color:#000; text-align:center" bgcolor="#eaf4ea" align="center">228.74</td>
+              <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">203.59</td>
+            </tr>
+          </tbody>
+        </table>
+
+      </p>
+    </section>
+
+
+    <br><br><br>
+    <h2>Rohdaten</h2>
+    <h3>Gemischte Texte Deutsch (60%) und Englisch (40%)</h3>
+    <section>
+      <table class="center" style="width: 90%;">
+      <thead>
+          <tr>
+            <th class="blank"> </th>
+            <th class="col_heading" colspan="2">mit shift</th>
+            <th class="col_heading" colspan="2">ohne shift</th>
+          </tr>
+          <tr>
+            <th class="blank"> </th>
+            <th class="col_heading">mit Enter</th>
+            <th class="col_heading">ohne Enter</th>
+            <th class="col_heading">mit Enter</th>
+            <th class="col_heading">ohne Enter</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th class="row_heading">Noted</th>
+            <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">288.54</td>
+            <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">269.62</td>
+            <td class="data" style="background-color:#f4f9f4; color:#000; text-align:center" bgcolor="#f4f9f4" align="center">255.60</td>
+            <td class="data" style="background-color:#d8ecd8; color:#000; text-align:center" bgcolor="#d8ecd8" align="center">236.20</td>
+          </tr>
+          <tr>
+            <th class="row_heading">KOY</th>
+            <td class="data" style="background-color:#ded; color:#000; text-align:center" bgcolor="#ddeedd" align="center">296.42</td>
+            <td class="data" style="background-color:#fefefe; color:#000; text-align:center" bgcolor="#fefefe" align="center">296.23</td>
+            <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">231.86</td>
+            <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">231.36</td>
+          </tr>
+          <tr>
+            <th class="row_heading">Bone</th>
+            <td class="data" style="background-color:#f5faf5; color:#000; text-align:center" bgcolor="#f5faf5" align="center">308.74</td>
+            <td class="data" style="background-color:#f6faf6; color:#000; text-align:center" bgcolor="#f6faf6" align="center">292.09</td>
+            <td class="data" style="background-color:#ffe9e9; color:#000; text-align:center" bgcolor="#ffe9e9" align="center">275.14</td>
+            <td class="data" style="background-color:#fff4f4; color:#000; text-align:center" bgcolor="#fff4f4" align="center">258.11</td>
+          </tr>
+          <tr>
+            <th class="row_heading">Mine</th>
+            <td class="data" style="background-color:#ffe5e5; color:#000; text-align:center" bgcolor="#ffe5e5" align="center">325.95</td>
+            <td class="data" style="background-color:#ffe8e8; color:#000; text-align:center" bgcolor="#ffe8e8" align="center">308.85</td>
+            <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">292.83</td>
+            <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">275.86</td>
+          </tr>
+          <tr>
+            <th class="row_heading">Canary</th>
+            <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">339.45</td>
+            <td class="data" style="background-color:#fcc; color:#000; text-align:center" bgcolor="#ffcccc" align="center">322.64</td>
+            <td class="data" style="background-color:#ffe8e8; color:#000; text-align:center" bgcolor="#ffe8e8" align="center">275.46</td>
+            <td class="data" style="background-color:#fff4f4; color:#000; text-align:center" bgcolor="#fff4f4" align="center">258.45</td>
+          </tr>
+          <tr>
+            <th class="row_heading">Sturdy</th>
+            <td class="data" style="background-color:#ffe6e6; color:#000; text-align:center" bgcolor="#ffe6e6" align="center">325.35</td>
+            <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">324.43</td>
+            <td class="data" style="background-color:#e7f3e7; color:#000; text-align:center" bgcolor="#e7f3e7" align="center">247.54</td>
+            <td class="data" style="background-color:#eff7ef; color:#000; text-align:center" bgcolor="#eff7ef" align="center">246.25</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+
+    <h3>Deutsch</h3>
+    <section>
+      <table class="center" style="width: 90%;">
+      <thead>
+          <tr>
+            <th class="blank"> </th>
+            <th class="col_heading" colspan="2">mit shift</th>
+            <th class="col_heading" colspan="2">ohne shift</th>
+          </tr>
+          <tr>
+            <th class="blank"> </th>
+            <th class="col_heading">mit Enter</th>
+            <th class="col_heading">ohne Enter</th>
+            <th class="col_heading">mit Enter</th>
+            <th class="col_heading">ohne Enter</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th class="row_heading">Noted</th>
+            <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">276.10</td>
+            <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">262.58</td>
+            <td class="data" style="background-color:#d7ebd7; color:#000; text-align:center" bgcolor="#d7ebd7" align="center">240.42</td>
+            <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">226.44</td>
+          </tr>
+          <tr>
+            <th class="row_heading">KOY</th>
+            <td class="data" style="background-color:#eaf4ea; color:#000; text-align:center" bgcolor="#eaf4ea" align="center">298.63</td>
+            <td class="data" style="background-color:#f4f9f4; color:#000; text-align:center" bgcolor="#f4f9f4" align="center">298.61</td>
+            <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">236.09</td>
+            <td class="data" style="background-color:#e2f0e2; color:#000; text-align:center" bgcolor="#e2f0e2" align="center">235.92</td>
+          </tr>
+          <tr>
+            <th class="row_heading">Bone</th>
+            <td class="data" style="background-color:#dbeddb; color:#000; text-align:center" bgcolor="#dbeddb" align="center">287.29</td>
+            <td class="data" style="background-color:#deefde; color:#000; text-align:center" bgcolor="#deefde" align="center">278.13</td>
+            <td class="data" style="background-color:#e4f1e4; color:#000; text-align:center" bgcolor="#e4f1e4" align="center">246.53</td>
+            <td class="data" style="background-color:#e5f2e5; color:#000; text-align:center" bgcolor="#e5f2e5" align="center">237.20</td>
+          </tr>
+          <tr>
+            <th class="row_heading">Mine</th>
+            <td class="data" style="background-color:#f4f9f4; color:#000; text-align:center" bgcolor="#f4f9f4" align="center">307.38</td>
+            <td class="data" style="background-color:#f3f9f3; color:#000; text-align:center" bgcolor="#f3f9f3" align="center">297.75</td>
+            <td class="data" style="background-color:#ffebeb; color:#000; text-align:center" bgcolor="#ffebeb" align="center">267.37</td>
+            <td class="data" style="background-color:#ffebeb; color:#000; text-align:center" bgcolor="#ffebeb" align="center">257.73</td>
+          </tr>
+          <tr>
+            <th class="row_heading">Canary</th>
+            <td class="data" style="background-color:#ffd1d1; color:#000; text-align:center" bgcolor="#ffd1d1" align="center">350.33</td>
+            <td class="data" style="background-color:#ffdada; color:#000; text-align:center" bgcolor="#ffdada" align="center">340.26</td>
+            <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">281.86</td>
+            <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">271.82</td>
+          </tr>
+          <tr>
+            <th class="row_heading">Sturdy</th>
+            <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">356.46</td>
+            <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">355.90</td>
+            <td class="data" style="background-color:#ffe4e4; color:#000; text-align:center" bgcolor="#ffe4e4" align="center">270.19</td>
+            <td class="data" style="background-color:#ffcece; color:#000; text-align:center" bgcolor="#ffcece" align="center">269.37</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+
+    <h3>Englisch</h3>
+    <section>
+      <table class="center" style="width: 90%;">
+       <thead>
+          <tr>
+            <th class="blank"> </th>
+            <th class="col_heading" colspan="2">mit shift</th>
+            <th class="col_heading" colspan="2">ohne shift</th>
+          </tr>
+          <tr>
+            <th class="blank"> </th>
+            <th class="col_heading">mit Enter</th>
+            <th class="col_heading">ohne Enter</th>
+            <th class="col_heading">mit Enter</th>
+            <th class="col_heading">ohne Enter</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th class="row_heading">Noted</th>
+            <td class="data" style="background-color:#f0f7f0; color:#000; text-align:center" bgcolor="#f0f7f0" align="center">282.09</td>
+            <td class="data" style="background-color:#e6f2e6; color:#000; text-align:center" bgcolor="#e6f2e6" align="center">271.69</td>
+            <td class="data" style="background-color:#fefefe; color:#000; text-align:center" bgcolor="#fefefe" align="center">252.17</td>
+            <td class="data" style="background-color:#f9fcf9; color:#000; text-align:center" bgcolor="#f9fcf9" align="center">241.70</td>
+          </tr>
+          <tr>
+            <th class="row_heading">KOY</th>
+            <td class="data" style="background-color:#e9f4e9; color:#000; text-align:center" bgcolor="#e9f4e9" align="center">277.68</td>
+            <td class="data" style="background-color:#eff7ef; color:#000; text-align:center" bgcolor="#eff7ef" align="center">277.04</td>
+            <td class="data" style="background-color:#e1f0e1; color:#000; text-align:center" bgcolor="#e1f0e1" align="center">223.84</td>
+            <td class="data" style="background-color:#e4f1e4; color:#000; text-align:center" bgcolor="#e4f1e4" align="center">223.09</td>
+          </tr>
+          <tr>
+            <th class="row_heading">Bone</th>
+            <td class="data" style="background-color:#ffd9d9; color:#000; text-align:center" bgcolor="#ffd9d9" align="center">315.17</td>
+            <td class="data" style="background-color:#ffdede; color:#000; text-align:center" bgcolor="#ffdede" align="center">302.65</td>
+            <td class="data" style="background-color:#ffd6d6; color:#000; text-align:center" bgcolor="#ffd6d6" align="center">290.07</td>
+            <td class="data" style="background-color:#ffd9d9; color:#000; text-align:center" bgcolor="#ffd9d9" align="center">277.48</td>
+          </tr>
+          <tr>
+            <th class="row_heading">Mine</th>
+            <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">325.28</td>
+            <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">313.13</td>
+            <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">302.46</td>
+            <td class="data" style="background-color:#ffc9c9; color:#000; text-align:center" bgcolor="#ffc9c9" align="center">290.63</td>
+          </tr>
+          <tr>
+            <th class="row_heading">Canary</th>
+            <td class="data" style="background-color:#f2f8f2; color:#000; text-align:center" bgcolor="#f2f8f2" align="center">283.92</td>
+            <td class="data" style="background-color:#e5f2e5; color:#000; text-align:center" bgcolor="#e5f2e5" align="center">271.59</td>
+            <td class="data" style="background-color:#f3f9f3; color:#000; text-align:center" bgcolor="#f3f9f3" align="center">241.02</td>
+            <td class="data" style="background-color:#eaf4ea; color:#000; text-align:center" bgcolor="#eaf4ea" align="center">228.74</td>
+          </tr>
+          <tr>
+            <th class="row_heading">Sturdy</th>
+            <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">259.65</td>
+            <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">258.58</td>
+            <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">204.77</td>
+            <td class="data" style="background-color:#cee7ce; color:#000; text-align:center" bgcolor="#cee7ce" align="center">203.59</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+  </article>
+</body>
