@@ -118,4 +118,7 @@ a:link, a:visited {
   color: #e0e9ff;
 }
 
+pre {
+  display: inline;
+}
 
