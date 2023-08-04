@@ -10,10 +10,8 @@ html {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100px;
+  width: 110px;
   height: 40px;
-  border-right: #666 1px solid;
-  border-bottom: #666 1px solid;
   border-bottom-right-radius: 10px;
   font-size: 1em;
   padding: 10px;
@@ -23,11 +21,39 @@ html {
 .lang-link-text {
   width: fit-content;
   margin: auto;
-  transform: translate(-5px, 5px);
+  transform: translate(-10px, 5px);
   font-weight: bolder;
 }
 
 .lang-link {
+  position: absolute;
+  width: 110px;
+  height: 40px;
+  top: 0;
+  left: 0;
+}
+
+.github-link-box {
+  position: absolute;
+  top: 0;
+  left: 110px;
+  width: 30px;
+  height: 40px;
+  border-left: #e0e9ff 1px solid;
+  border-bottom-right-radius: 10px;
+  font-size: 1em;
+  padding: 10px;
+  background-color: #454E6A;
+}
+
+.github-link-text {
+  width: fit-content;
+  margin: auto;
+  transform: translate(0px, 5px);
+  font-weight: bolder;
+}
+
+.github-link {
   position: absolute;
   width: 100%;
   height: 100%;
