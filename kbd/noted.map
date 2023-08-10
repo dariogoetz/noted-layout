@@ -364,7 +364,7 @@ altgr   shiftr  keycode  17 = U+03c5
         ctrll   keycode  17 = Delete
 shiftl  ctrll   keycode  17 = Delete
 shiftr  ctrll   keycode  17 = Delete
-altgr   ctrll   keycode  17 = U+2207
+altgr   ctrll   keycode  17 = U+2135
 
                 keycode  18 = u
 shift   shiftl  keycode  18 = u
@@ -375,7 +375,7 @@ shift   shiftr  keycode  18 = u
         ctrll   keycode  18 = Up
 shiftl  ctrll   keycode  18 = Up
 shiftr  ctrll   keycode  18 = Up
-altgr   ctrll   keycode  18 = U+2282
+altgr   ctrll   keycode  18 = multiply
 
                 keycode  19 = a
 shift   shiftl  keycode  19 = a
@@ -425,7 +425,7 @@ altgr   shiftr  keycode  22 = U+03b2
         ctrll   keycode  22 = seven
 shiftl  ctrll   keycode  22 = seven
 shiftr  ctrll   keycode  22 = seven
-altgr   ctrll   keycode  22 = U+21D0
+altgr   ctrll   keycode  22 = U+2202
 
                 keycode  23 = m
 shift   shiftl  keycode  23 = m
@@ -438,7 +438,7 @@ altgr   shiftr  keycode  23 = U+03bc
         ctrll   keycode  23 = eight
 shiftl  ctrll   keycode  23 = eight
 shiftr  ctrll   keycode  23 = eight
-altgr   ctrll   keycode  23 = U+21d4
+altgr   ctrll   keycode  23 = U+21A6
 
                 keycode  24 = l
 shift   shiftl  keycode  24 = l
@@ -575,7 +575,7 @@ altgr   shiftr  keycode  36 = U+03c4
         ctrll   keycode  36 = four
 shiftl  ctrll   keycode  36 = four
 shiftr  ctrll   keycode  36 = four
-altgr   ctrll   keycode  36 = U+2202
+altgr   ctrll   keycode  36 = U+2207
 
                 keycode  37 = n
 shift   shiftl  keycode  37 = n
@@ -658,7 +658,7 @@ altgr   shiftr  keycode  47 = U+03b7
         ctrll   keycode  47 = Return
 shiftl  ctrll   keycode  47 = Return
 shiftr  ctrll   keycode  47 = Return
-altgr   ctrll   keycode  47 = U+2135
+altgr   ctrll   keycode  47 = U+2229
 
                 keycode  48 = odiaeresis
         shiftl  keycode  48 = Odiaeresis
@@ -666,7 +666,7 @@ altgr   ctrll   keycode  47 = U+2135
         altgr   keycode  48 = grave
 altgr   shiftl  keycode  48 = U+03F5
 altgr   shiftr  keycode  48 = U+03F5
-altgr   ctrll   keycode  48 = U+2229
+altgr   ctrll   keycode  48 = U+2282
 
                 keycode  49 = w
 shift   shiftl  keycode  49 = w
@@ -701,7 +701,7 @@ altgr   shiftr  keycode  51 = U+03F1
         ctrll   keycode  51 = two
 shiftl  ctrll   keycode  51 = two
 shiftr  ctrll   keycode  51 = two
-altgr   ctrll   keycode  51 = U+21D2
+altgr   ctrll   keycode  51 = U+21D0
 
                 keycode  52 = period
         shiftl  keycode  52 = U+2022
@@ -712,7 +712,7 @@ altgr   shiftr  keycode  52 = U+03D1
         ctrll   keycode  52 = three
 shiftl  ctrll   keycode  52 = three
 shiftr  ctrll   keycode  52 = three
-altgr   ctrll   keycode  52 = U+21A6
+altgr   ctrll   keycode  52 = U+21D4
 
                 keycode  53 = k
 shift   shiftl  keycode  53 = k
@@ -725,7 +725,7 @@ altgr   shiftr  keycode  53 = U+03ba
         ctrll   keycode  53 = U+002c
 shiftl  ctrll   keycode  53 = comma
 shiftr  ctrll   keycode  53 = comma
-altgr   ctrll   keycode  53 = multiply
+altgr   ctrll   keycode  53 = U+21D2
 
 #==========================================================================
 # Keypad
