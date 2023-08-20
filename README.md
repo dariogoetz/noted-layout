@@ -8,7 +8,7 @@ It has its roots in the <a href="https://www.neo-layout.org">Neo family</a> of G
 The design of the <em>Noted</em> layout was supported by a newly developed <a href="https://github.com/dariogoetz/keyboard_layout_optimizer">optimizer</a> based on a mixed-language corpus (60% German, 40% English).
 
 ## Layout on ISO Keyboards
-![Noted Layout](/docs/assets/noted-1-tkl.path.svg)
+![Noted Layout](/images/noted-1-tkl.path.svg)
 
 ## Layout on Ergonomic Keyboards (crkbd or Cantor)
-![Noted Layout](/images/noted-1-crkbd.png)
+![Noted Layout](/images/crkbd/noted-1-tkl.path.svg)
