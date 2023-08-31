@@ -118,8 +118,9 @@ a:link, a:visited {
 pre {
   display: inline;
 }
-
-table {
-  font-size: 0.75em;
+@media (max-width: 850px) {
+  table {
+    font-size: 0.75em;
+  }
 }
 
