@@ -1,7 +1,7 @@
 html {
     background-color: #272C3D;
     font-family: Open Sans;
-    font-size: 1.1em;
+    font-size: 1em;
     line-height: 1.5;
     color: #EEE;
 }
@@ -118,7 +118,7 @@ a:link, a:visited {
 pre {
   display: inline;
 }
-@media (max-width: 850px) {
+@media (max-width: 800px) {
   table {
     font-size: 0.75em;
   }
