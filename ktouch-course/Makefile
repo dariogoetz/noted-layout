@@ -12,4 +12,8 @@ ktouch-course.xml.raw: noted.xml
 		-o > $@
 
 noted.xml: de.neo2.xml
-	cat $< | ./mapping.pl > $@
+	cat $< | ./mapping.pl | \
+		sed \
+			-e 's!Deutsches Neo 2!Noted-Layout (de/eng)!' \
+			-e 's/de(neo)/de(noted)/' \
+		> $@
