@@ -1,541 +1,543 @@
 <?xml version="1.0" encoding="UTF-8"?><course>
-  <id>b0dc8e89-d255-4798-b056-66289c152341</id>
+  <id>25c2699d-d247-404d-85cd-aa2b072bbc6f</id>
   <title>Tippkurs für Noted (generiert von ktgen)</title>
   <description>Generiert von ktgen auf Basis des Neo2-Wikipediaartikels</description>
   <keyboardLayout/>
   <lessons>
     <lesson>
-      <id>5bdd1239-d22f-44a3-adfe-b48468797a2a</id>
+      <id>24f3faaf-24b8-487e-9e89-d835e9621023</id>
       <title>1: et</title>
       <newCharacters>et</newCharacters>
       <text>eee ttt eee ttt eee ttt eee ttt eee ttt eee ttt eee
 ttt et et et et et et et et et et et et et et et et
-et et et et et tett eeet eete ttee eett tete etet
-ette eett ette tt e t e t e t e t e t e t e t e t
+et et et et et eett tttt eeet ttet teee eeet ttee
+teet etet tete te e t e t e t e t e t e t e t e t
 e t e t e t e t e t e t e t e t e t e t e t e t e
 t ete tet ete tet ete tet ete tet ete tet ete tet
-ete tet ette etee ettt tttt eeet ttee tett eeet ttee
-teet ee eee ttt eee ttt eee ttt eee ttt eee ttt eee
+ete tet teet tete ttte ttte ette eeee eeet eeee ttte
+ttet tt eee ttt eee ttt eee ttt eee ttt eee ttt eee
 ttt eee ttt eee ttt</text>
     </lesson>
     <lesson>
-      <id>1c1089a1-04d6-4609-af55-858907824347</id>
+      <id>65fce815-f836-414e-9594-176fc8820021</id>
       <title>2: in</title>
       <newCharacters>in</newCharacters>
       <text>iii nnn iii nnn iii nnn iii nnn iii nnn iii nnn iii
 nnn in in in in in in in in in in in in in in in in
-in in in in in innn nnii nini nnni nnin inni iini
-ninn iinn iiii ii i n i n i n i n i n i n i n i n
+in in in in in iiin nini nnnn nnii niii nnni inni
+nini iiin ninn ii i n i n i n i n i n i n i n i n
 i n i n i n i n i n i n i n i n i n i n i n i n i
 n ini nin ini nin ini nin ini nin ini nin ini nin
-ini nin ninn inin nini inni inni niin iiii nnnn niii
-nini ni iii nnn iii nnn iii nnn iii nnn iii nnn iii
+ini nin niin nnni innn ninn nnin nnni niii iini iiii
+nini ii iii nnn iii nnn iii nnn iii nnn iii nnn iii
 nnn iii nnn iii nnn</text>
     </lesson>
     <lesson>
-      <id>4354c180-f120-4cb6-a9ec-e7990a46edc9</id>
+      <id>e51a4c8f-8c20-481a-a8d6-6188595f9931</id>
       <title>3: sr</title>
       <newCharacters>sr</newCharacters>
       <text>sss rrr sss rrr sss rrr sss rrr sss rrr sss rrr sss
 rrr sr sr sr sr sr sr sr sr sr sr sr sr sr sr sr sr
-sr sr sr sr sr rssr rsrs ssrr sssr srrs srrr rrss
-srrs srrs rssr sr s r s r s r s r s r s r s r s r
+sr sr sr sr sr srss rsrs srrr rssr srrr srrr sssr
+ssrs srsr ssrr rs s r s r s r s r s r s r s r s r
 s r s r s r s r s r s r s r s r s r s r s r s r s
 r srs rsr srs rsr srs rsr srs rsr srs rsr srs rsr
-srs rsr rrrs rrss sssr sssr rrss srss ssrr sssr rrrs
-rrrs rr sss rrr sss rrr sss rrr sss rrr sss rrr sss
+srs rsr srss rsrr rsrs rrrr ssrr srrs ssss srrr rsss
+rsrs sr sss rrr sss rrr sss rrr sss rrr sss rrr sss
 rrr sss rrr sss rrr</text>
     </lesson>
     <lesson>
-      <id>8b7b4946-66ca-4d3b-b66c-98acb400f34e</id>
+      <id>5c1649fc-4c65-49e4-a326-e9344580292e</id>
       <title>4: sr</title>
       <newCharacters/>
-      <text>ist ist ist seine eines sein ist rein ersten es ist
-i ssss rrrr ssss rrrr ssss rrrr ssss rrrr ssss rrrr
-ss ist rein ersten es ist ist es ist rein rein
-einersei sein ist rein ersten es ist ist es ist rein
-rein sein ist seit ist ist ist ist einer sei seit
-eines ist ist sr rr ss ss ss sr rr ss ss rr rs rr
-rr sr rr sr ss sr sr rr ss ist seit ist ist ist ist
-einer sei seit eines ist ist ist ist</text>
+      <text>ist seit seit ist ist ist ist ist ist seine eines
+ist ssss rrrr ssss rrrr ssss rrrr ssss rrrr ssss
+rrrr ss rein einerseits einer ist ist seit ist ist
+ist ist e sein ist rein ersten es ist ist es ist
+rein rein sein seine eines sein ist rein ersten es
+ist ist es ist es sr rr sr ss ss ss sr rs ss rr rs
+rr ss sr sr rr sr rr rs rs rs eines sein ist rein
+ersten es ist ist es ist rein ist ist sei</text>
     </lesson>
     <lesson>
-      <id>1945b4ff-cb01-4e2f-b769-de6e4c343f27</id>
+      <id>b24b376c-9f57-4cff-a108-eb4b04b0f733</id>
       <title>5: Summary etinsr</title>
       <newCharacters/>
       <text>etin sret insr etin sret insr etin sret insr etin
-sr ist eine einen ist ist in ist einen ist eine in
-ein in in eines eine ist seit seit ist ist eine
-einen ist in nr is re nt er rn si ti et ti ti ns se
-en nt si rn re te si rs in ist seit ist in ist ist
-in ist einer in sei seit in e eines sein ist einen
-rein ersten in in einen in es in iere irts irtr estn
-enti nsne tssn nnes tsre riit ir etin sr</text>
+sr ist ist in ist einen ist eine in ein eine seine
+eines seit ist in ist ist in ist einer in sei seit
+in eines e sn st ii en se ie rr re it nn ir rn rs
+tr es it sn is ne et tt in ist seit ist in ist ist
+in ist einer in sei seit in e ein ist eine eine in
+in ist es eine in eine ist ein ein snie trtt enen
+trrs nsst nnre ssei iier iiti ster nr etin sr</text>
     </lesson>
     <lesson>
-      <id>5da28f11-f3a2-447b-b611-9d6a92cd6146</id>
+      <id>4bd8f594-d296-48f9-82ad-62b0d83d6bce</id>
       <title>6: ch</title>
       <newCharacters>ch</newCharacters>
       <text>ccc hhh ccc hhh ccc hhh ccc hhh ccc hhh ccc hhh ccc
 hhh ch ch ch ch ch ch ch ch ch ch ch ch ch ch ch ch
-ch ch ch ch ch cccc cchh cchh chcc hhhh chhh hhhc
-hchh cccc chhh cc c h c h c h c h c h c h c h c h
+ch ch ch ch ch chcc hchc hhhh hhhc chch hhch chcc
+chcc ccch hhch cc c h c h c h c h c h c h c h c h
 c h c h c h c h c h c h c h c h c h c h c h c h c
 h chc hch chc hch chc hch chc hch chc hch chc hch
-chc hch hccc hhch hchh hhhh hchc hhcc chcc ccch ccch
-hhcc ch ccc hhh ccc hhh ccc hhh ccc hhh ccc hhh ccc
+chc hch ccch cchc cccc hhhh chch hhcc cchc hhhh chch
+hchc hh ccc hhh ccc hhh ccc hhh ccc hhh ccc hhh ccc
 hhh ccc hhh ccc hhh</text>
     </lesson>
     <lesson>
-      <id>203cc791-c1e1-4f60-8eb5-82d27d4bbf20</id>
+      <id>60ca37e9-d4a5-4032-9b54-306b8541bf6d</id>
       <title>7: ch</title>
       <newCharacters/>
-      <text>sehr src sich rechts steht stehen sechs sieht sich
+      <text>nicht sich nicht sehr src sich rechts steht stehen
 cccc hhhh cccc hhhh cccc hhhh cccc hhhh cccc hhhh
-cc erreichen erreichen sich steht stehen nicht sich
-nicht sich sechs rechts nicht sich eher nicht sich
-sechs erreicht sich erreichen erreicht sehen src hc
-hh hh cc ch hh ch hc cc ch cc hc cc hc ch hc hc hh
-ch hh cc steht stehen nicht sich nicht sehr src sich
-rechts sehr sr</text>
+cc erreicht sich erreichen erreicht sehen erreicht
+stehen nicht sich nicht sehr src sich rechts steht
+eher nicht erreichen echte sechs erreicht sich er
+hh cc hc hc hc cc hh hh hh cc hc hc ch cc hc cc hh
+hc cc hc hh erreicht sehen erreichen erreichen sich
+steht st nicht s</text>
     </lesson>
     <lesson>
-      <id>1dbb8bd8-29ef-4ee5-b6d8-184412333e1e</id>
+      <id>ef3ed5b4-5d02-4b07-aee2-37b3f6a3dc60</id>
       <title>8: od</title>
       <newCharacters>od</newCharacters>
       <text>ooo ddd ooo ddd ooo ddd ooo ddd ooo ddd ooo ddd ooo
 ddd od od od od od od od od od od od od od od od od
-od od od od od dooo dddo ddod oooo dooo dood dood
-oodd odod dodd dd o d o d o d o d o d o d o d o d
+od od od od od dddd dood oddo oooo dddo oodd ddoo
+dood oddo oodd oo o d o d o d o d o d o d o d o d
 o d o d o d o d o d o d o d o d o d o d o d o d o
 d odo dod odo dod odo dod odo dod odo dod odo dod
-odo dod oddd dooo oooo oddd odod oodo dood dodd oddd
-oodd od ooo ddd ooo ddd ooo ddd ooo ddd ooo ddd ooo
+odo dod dodo ddod oddd oodo odoo ddod oooo dooo oddd
+dodo dd ooo ddd ooo ddd ooo ddd ooo ddd ooo ddd ooo
 ddd ooo ddd ooo ddd</text>
     </lesson>
     <lesson>
-      <id>83edc0e2-1d16-4ad5-aca1-260e5e99248d</id>
+      <id>369682b7-ddca-4947-a838-8b849e06cc4b</id>
       <title>9: od</title>
       <newCharacters/>
-      <text>die tote die der des die der die die sonst oder die
-so oooo dddd oooo dddd oooo dddd oooo dddd oooo dddd
-oo sind die die der den den der des des der der die
-die so die der der der dieses schon des sind der
-die des den der der der der oder die die sind der
-der der der der d od dd dd dd oo od od od oo dd od
-dd od oo dd oo od od oo od oo den die den die oder
-die der die die der der die die de die tot</text>
+      <text>schon des sind der die des den die den die oder die
+de oooo dddd oooo dddd oooo dddd oooo dddd oooo dddd
+oo die diese toten sind drei die die die den den
+die die der der die der der so die die der die die
+toten denen dieses schon des sind der die des den
+die den die des od od od do dd oo do od od oo od oo
+dd oo dd dd dd oo do do od der die des der die die
+die die die der der der dieses schon d</text>
     </lesson>
     <lesson>
-      <id>cb5b07d8-1545-4272-b881-8c7f5d6f4e0b</id>
+      <id>30e07b6b-4e09-4e15-9aa1-8f6f86857c1a</id>
       <title>10: qp</title>
       <newCharacters>qp</newCharacters>
       <text>qqq ppp qqq ppp qqq ppp qqq ppp qqq ppp qqq ppp qqq
 ppp qp qp qp qp qp qp qp qp qp qp qp qp qp qp qp qp
-qp qp qp qp qp ppqq qqpq pqpp ppqq qppp pqqp qpqp
-qqqp qqpp qqpp pq q p q p q p q p q p q p q p q p
+qp qp qp qp qp qqpp qppp ppqq pqpp qqpq qpqp qqqq
+qpqq qppp ppqp pq q p q p q p q p q p q p q p q p
 q p q p q p q p q p q p q p q p q p q p q p q p q
 p qpq pqp qpq pqp qpq pqp qpq pqp qpq pqp qpq pqp
-qpq pqp qpqp ppqq qpqp qqpq pqpq pqqp ppqq qppp pqpp
-pqqq qp qqq ppp qqq ppp qqq ppp qqq ppp qqq ppp qqq
+qpq pqp ppqp pqqq qppq ppqp pppp qppq qqpq ppqq qppq
+qqqq qp qqq ppp qqq ppp qqq ppp qqq ppp qqq ppp qqq
 ppp qqq ppp qqq ppp</text>
     </lesson>
     <lesson>
-      <id>ee6dca44-97ac-4f01-a6f0-f57d97059094</id>
+      <id>ed3619f7-901f-4a61-ab6d-335b243d9601</id>
       <title>11: qp</title>
       <newCharacters/>
-      <text>entspricht entsprechenden phonetischen pro pro qqqq
-pppp qqqq pppp qqqq pppp qqqq pppp qqqq pppp qq
+      <text>position https php entsprechen per entspricht en
+qqqq pppp qqqq pppp qqqq pppp qqqq pppp qqqq pppp
+qq https position https php entsprechen per entspri
 https php entsprechen per entspricht entspricht
-https position https php entsprechen per entspri
-https position https php entsprechen per entspri qp
-qq pq pp qp qq pp pq qq qq pp qp pq pq qq qp pq pp
-pq qp pp position https php entsprechen per entspricht
-en entspr</text>
+phonetischen pro entspricht entspricht entspre pq
+pp pq pq pp pp pq qq qp pp pq qq pp qq pp qp qq qp
+qq qq pq entsprechenden phonetischen pro entspricht
+pro positi</text>
     </lesson>
     <lesson>
-      <id>bc7c3594-90e3-43b9-a133-8685c71d94ce</id>
+      <id>43e4c34b-44f0-484a-9eff-18d24553a6a4</id>
       <title>12: Summary chodqp</title>
       <newCharacters/>
       <text>chod qpch odqp chod qpch odqp chod qpch odqp chod
-qp sieht sich des des der der die die der den ohne
-die so die toten denen toten rechts der entsprechenden
-s oh dh qo qq od dp hc cd do hd pc dc qh hc oo qq
-pc op qp hp pc die tote die der des phonetischen
-die sich eher der die der den ohne die der der sich
-so sich die der oder qpdc dpcp odqc hqoh copc hqcp
-oddo odhq qoch pdhh pq chod qp</text>
+qp den der der der des die die die diese toten sind
+drei sich die der oder die die die der sechs
+entsprechen cp dc do dh hh qd op qp oc ph qd cq cd
+qq oh po pd pq hh oc oc den entsprechenden nicht
+die oder die sich der den dieser sich den der der
+der des die die die diese den qhdo dhpp qoqq hcpc
+qcqh hodc odoh chop codd ppdp cq chod qp</text>
     </lesson>
     <lesson>
-      <id>233f969d-779e-4f16-8a39-3a03e95011c2</id>
+      <id>44a968c6-476d-4aa8-90e0-dba5bf2c6608</id>
       <title>13: äg</title>
       <newCharacters>äg</newCharacters>
       <text>äää ggg äää ggg äää ggg äää ggg äää ggg äää ggg äää
 ggg äg äg äg äg äg äg äg äg äg äg äg äg äg äg äg äg
-äg äg äg äg äg äggg gägä äägg gäää äääg gäää ääää
-gggä gägg gggä gg ä g ä g ä g ä g ä g ä g ä g ä g
+äg äg äg äg äg äägä gägä gggä äägg äägä gägg ggää
+äggä äägg äggä gä ä g ä g ä g ä g ä g ä g ä g ä g
 ä g ä g ä g ä g ä g ä g ä g ä g ä g ä g ä g ä g ä
 g ägä gäg ägä gäg ägä gäg ägä gäg ägä gäg ägä gäg
-ägä gäg äggg äggg ägää gääg äggä äägg äääg ggäg äägg
-ägäg ää äää ggg äää ggg äää ggg äää ggg äää ggg äää
+ägä gäg äääg gääg gägä äggä ggää ggäg äägä gääg ggää
+gääg gg äää ggg äää ggg äää ggg äää ggg äää ggg äää
 ggg äää ggg äää ggg</text>
     </lesson>
     <lesson>
-      <id>e14a9dc5-f2da-47ad-abaa-e61b33cfe974</id>
+      <id>08eab2b0-131d-4389-947a-70b49231b6e6</id>
       <title>14: äg</title>
       <newCharacters/>
-      <text>org org height org springen springen griechische
-ääää gggg ääää gggg ääää gggg ääää gggg ääää gggg
-ää integriert gängigen ergo org org org height org
-sp gängigen griechische eigene griechische eigene
-org height org springen springen griechischen gä gg
-gä gä gg äg gä ää ää gä gä äg äg äg gg gä gä gä gä
-ää gg ää ergo später einige spätere integriert
-gängigen e org org</text>
+      <text>gängigen griechische eigene griechische eigene ääää
+gggg ääää gggg ääää gggg ääää gggg ääää gggg ää org
+org org height org springen springen springen springen
+springen griechischen gängigen eigene eigene
+griechische gängigen griechischen ergo s ää gg gg
+ää äg gg ää gg äg äg gä ää gg äg ää äg gg äg ää äg
+äg gängigen griechischen ergo später einige später
+gängig</text>
     </lesson>
     <lesson>
-      <id>1805e6f1-ca6e-4408-8683-55115d799ebc</id>
+      <id>011d3b70-3e0c-473e-aedb-1d131ead3f24</id>
       <title>15: äg</title>
       <newCharacters/>
-      <text>spätere integriert gängigen ergo org org org height
-org springen springen griechischen gängigen griechische
+      <text>springen springen griechischen gängigen griechische
 eigene griechische gängigen griechischen ergo später
 einige spätere integriert gängigen ergo org org org
 height org springen springen griechischen gängigen
 griechische eigene griechische gängigen griechischen
-ergo später einige height</text>
+ergo später einige spätere integriert gängigen ergo
+org org org height org eigene</text>
     </lesson>
     <lesson>
-      <id>c12019ad-17de-4f50-ab19-215035eb4bc9</id>
+      <id>fab59b80-bb5d-42ae-8987-7b78393d5620</id>
       <title>16: öw</title>
       <newCharacters>öw</newCharacters>
       <text>ööö www ööö www ööö www ööö www ööö www ööö www ööö
 www öw öw öw öw öw öw öw öw öw öw öw öw öw öw öw öw
-öw öw öw öw öw öööw wööö öwöw öwww öwww wöwö wööö
-wwwö öwww ööww öö ö w ö w ö w ö w ö w ö w ö w ö w
+öw öw öw öw öw wööö wöwö öwwö wöww öwww öwöö öööw
+öwww wööw wöwö öw ö w ö w ö w ö w ö w ö w ö w ö w
 ö w ö w ö w ö w ö w ö w ö w ö w ö w ö w ö w ö w ö
 w öwö wöw öwö wöw öwö wöw öwö wöw öwö wöw öwö wöw
-öwö wöw wwöö wööw wwöw wööw wöww wöww öööö öwwö öööö
-wwöw wö ööö www ööö www ööö www ööö www ööö www ööö
+öwö wöw wwöö wwöw wwöw ööww öööö wöww öööw wwwö ööwö
+ööwö ww ööö www ööö www ööö www ööö www ööö www ööö
 www ööö www ööö www</text>
     </lesson>
     <lesson>
-      <id>7f8ebad1-0ad0-4744-b23c-abc6af93cf71</id>
+      <id>9dbbfdf3-69fe-4adb-81a4-c4337aba2c4c</id>
       <title>17: öw</title>
       <newCharacters/>
-      <text>weitere erhöhen höhere wie sowie wie wie werden we
+      <text>wären weitere erhöhen höhere wie sowie wie wie wie
 öööö wwww öööö wwww öööö wwww öööö wwww öööö wwww
-öö width werden werden sowie werden sowie wie werden
-width werden werden sowie werden sowie wie werden
-sowie wie wie werden werden höheren wäre width wie
-öw wö öw öö öw ww ww öö ww öw ww öö öw öö wö öw öö
-wö öw ww wö werden sowie wie werden wichtige wie
-schwieriger weiter</text>
+öö wäre width werden werden sowie werden sowie wie
+we sowie wie werden wichtige wie schwieriger wie
+wie sowie weitere weitere wie sowie werden wären
+wäre wö öw wö wö ww öw ww öö wö öw wö öö öö ww ww
+öw öö öö ww wö öw wie wie werden werden höheren wäre
+width werden we wären w</text>
     </lesson>
     <lesson>
-      <id>ba8436c2-6388-461a-a5ae-2c71add46dad</id>
+      <id>41cc9dec-3014-4f14-a319-81faa93e059a</id>
       <title>18: öw</title>
       <newCharacters/>
-      <text>wie sowie wie wie werden werden höheren wäre width
-werden werden sowie werden sowie wie werden wichtige
-wie schwieriger wie sowie weitere weitere wie sowie
+      <text>width werden werden sowie werden sowie wie werden
+wichtige wie schwieriger wie sowie weitere weitere
+wie sowie werden wären weitere erhöhen höhere wie
+sowie wie wie werden werden höheren wäre width werden
+werden sowie werden sowie wie werden wichtige wie
+schwieriger wie sowie weitere weitere wie sowie
 werden wären weitere erhöhen höhere wie sowie wie
-wie werden werden höheren wäre width werden werden
-sowie werden sowie wie werden wichtige wie schwieriger
-wie sowie weitere weitere wie sowie werden w</text>
+wi</text>
     </lesson>
     <lesson>
-      <id>cd5a3c05-eb9e-4664-b7d6-0bd77e9db5a0</id>
+      <id>82b80e03-45c0-45ce-8d21-0e7082da015b</id>
       <title>19: ab</title>
       <newCharacters>ab</newCharacters>
       <text>aaa bbb aaa bbb aaa bbb aaa bbb aaa bbb aaa bbb aaa
 bbb ab ab ab ab ab ab ab ab ab ab ab ab ab ab ab ab
-ab ab ab ab ab aaba bbab baba bbab bbbb baab aabb
-aabb aaba aaab aa a b a b a b a b a b a b a b a b
+ab ab ab ab ab bbaa bbba bbab aaba baba bbba abab
+bbaa baab aaab aa a b a b a b a b a b a b a b a b
 a b a b a b a b a b a b a b a b a b a b a b a b a
 b aba bab aba bab aba bab aba bab aba bab aba bab
-aba bab abaa aabb bbba baba abaa bbab abab baab bbbb
-aaaa ba aaa bbb aaa bbb aaa bbb aaa bbb aaa bbb aaa
+aba bab abab baaa aaaa bbab baba aabb bbbb abaa baaa
+bbba bb aaa bbb aaa bbb aaa bbb aaa bbb aaa bbb aaa
 bbb aaa bbb aaa bbb</text>
     </lesson>
     <lesson>
-      <id>8d703fb3-5115-4c26-bcdd-ec94f12611d3</id>
+      <id>c85bf8e0-1a9e-4de9-9e6b-0d9807d7a5ad</id>
       <title>20: ab</title>
       <newCharacters/>
-      <text>etwa eingetragene dabei das das entspanntes etwa
+      <text>bisher gibt anderen haben bereits nach bis bisher
 aaaa bbbb aaaa bbbb aaaa bbbb aaaa bbbb aaaa bbbb
-aa an anderen anderen bearbeiten bearbeitet etwa an
-an bearbeiten bester bei added bei start border an
-anordnet bearbeiten dar das benötigten da besser ba
-ab ba ab bb ab ab bb bb aa ab aa ba ab ba ba ba aa
-ba bb aa bei erreichbar dass erreichbar begegnet an
-dass e etwa ei</text>
+aa bisher gibt anderen haben bereits nach bis bisher
+bis bearbeiten stand dabei berechnen bei anderen
+daher besser an bearbeiten bester bei added bei an
+aa ba bb ab ab ba aa ba bb ba ba ba ba ab aa bb aa
+bb ba ab ab geschrieben bereits schreiben bei beide
+anderer bisher</text>
     </lesson>
     <lesson>
-      <id>0c00145a-05d6-47ca-8a32-3ed9b6b968f5</id>
+      <id>2504914b-5d4a-4991-8f65-68ca8aa2742e</id>
       <title>21: ab</title>
       <newCharacters/>
-      <text>bei bisherigen beschreiten beider statistischen
-insbesondere anderen andererseits das begann anordnet
-bearbeiten dar das benötigten da besser erreichbar
-bearbeiten anderer bearbeiten das bei insbesondere
-bereit bearbeiten bearbeiten habe bei bewährt dass
-an erreichbaren bearbeiten bester bearbeiten das
-bearbeiten bessere da anderen daher da</text>
+      <text>anderer bearbeiten das bei insbesondere bereit
+bearbeiten bearbeiten habe bei bewährt dass an
+erreichbaren bearbeiten bester bearbeiten das
+bearbeiten bessere da anderen daher besser an
+bearbeiten bester bei added bei start border bearbeiten
+an anderen anderen bearbeiten bearbeitet etwa
+eingetragene dabei das das entspanntes bearbeiten
+anderer</text>
     </lesson>
     <lesson>
-      <id>edc85506-7497-4b6a-9891-53676cb8d97f</id>
+      <id>9fd696a8-7622-4e4c-8ab0-5202032a8eb5</id>
       <title>22: Summary ägöwab</title>
       <newCharacters/>
       <text>ägöw abäg öwab ägöw abäg öwab ägöw abäg öwab ägöw
-ab berechnen wie bei bisherigen beschreiten beider
-beiden wie bei erreichbar gängigen werden beiden gä
-ää wb gä bb bg aä öö öa aa wg öb äa ög aw ag gä bw
-öw öw wb start width height border org bearbeiten
-an start griechischen benötigte weitere das das
-anordnet aägb äbaö waag ääbö wägä wgwä abaö wggö
-bööö gbww ab ägöw ab</text>
+ab griechischen benötigte weitere das das anordnet
+beider statistischen insbesondere anderen wäre äg
+äw aö äb gb ww öä gb aw aä aö öw gw ag wb ga bö gb
+bö ää öa das das entspanntes sowie bearbeiten
+bearbeiten andere werden wären gängigen das
+standardisiert aööa bägö waäb gbäw gwgw bgöä wabg
+aööa äagw wbbä öä ägöw ab</text>
     </lesson>
     <lesson>
-      <id>e08d1614-4ef1-4ffa-b69e-8824228d78c2</id>
+      <id>6843f366-70f9-46d6-a325-23fd78f0bfa1</id>
       <title>23: um</title>
       <newCharacters>um</newCharacters>
       <text>uuu mmm uuu mmm uuu mmm uuu mmm uuu mmm uuu mmm uuu
 mmm um um um um um um um um um um um um um um um um
-um um um um um uuum mumu uumm mmmu uuum mmmu mumm
-muum uuuu umum mm u m u m u m u m u m u m u m u m
+um um um um um uumm umum ummu mmum muuu muuu muum
+mmmu mumu ummm uu u m u m u m u m u m u m u m u m
 u m u m u m u m u m u m u m u m u m u m u m u m u
 m umu mum umu mum umu mum umu mum umu mum umu mum
-umu mum mumm mmuu mumu ummu uumm ummu uumm uuuu umuu
-mmmu mm uuu mmm uuu mmm uuu mmm uuu mmm uuu mmm uuu
+umu mum umum mmum mmum umuu muum uumu umuu mumu uumm
+mumm mu uuu mmm uuu mmm uuu mmm uuu mmm uuu mmm uuu
 mmm uuu mmm uuu mmm</text>
     </lesson>
     <lesson>
-      <id>1ef832c1-834c-437c-a448-4ae24b7f39f0</id>
+      <id>6262adbd-02e0-442b-ab56-33a9c22a29c9</id>
       <title>24: um</title>
       <newCharacters/>
-      <text>unter und einprägsamen beruht im und durch man mit
+      <text>wurden und beim beim gebraucht unter und und man im
 uuuu mmmm uuuu mmmm uuuu mmmm uuuu mmmm uuuu mmmm
-uu mathematisch und mit basiertem und mitbringt und
-ergonomischen und am dem mit dem dem mit dem möchte
-unter ergonomischen mit und anordnung im anderem mu
-mm um uu uu mm um um um um mm um mu uu uu mm um mu
-uu mm um mehr beim deutschen im beim beim wurden
-deutschen unter u</text>
+uu deutsche wurden unter anderem und und im und und
+im und dem mit modernen ergonomisches mit und und
+und am am ergonomischen und am dem mit dem dem mit
+dem am mm uu mu uu um mm mu mu uu um uu mu um mm mm
+mu mm mm uu mu uu unter und eingebundener im durch
+mit und aus im um d wurden</text>
     </lesson>
     <lesson>
-      <id>c1231c8a-95a9-4631-b19c-63769dcce98a</id>
+      <id>ecabe918-c6aa-4418-987b-f3e12515e2a0</id>
       <title>25: um</title>
       <newCharacters/>
-      <text>und im mehr beim deutschen im beim beim wurden
-mathematischen mit dem auch insgesamt deutschen und
-und unter und und und wurden und beim beim gebraucht
-unter und und man einem nehmen muss dem macht auch
-genau und und mathematisch und mit basiertem und
-mitbringt und und beim mit dem nur und und darunter
-auch neuartige aus dem mit man mit somit deutsche
-wurden und</text>
+      <text>um ergonomischen und ergonomischen nur mathematischen
+und unter und einprägsamen beruht im und durch man
+mit man beim gebraucht und dem mit unter und und
+unter und am und wurden und wurde damit und und
+wurde wurden wurde und baut unterscheidet auch
+deutschen und und unter deutschen unter anderem mit
+mit mit dem dem mit im einem aus dem dem und und
+dem mit beruht</text>
     </lesson>
     <lesson>
-      <id>e7176b55-cf09-4436-a5ff-eb9fbbf168e6</id>
+      <id>320a871e-4420-4954-ad1f-766c779e8f88</id>
       <title>26: ü,</title>
       <newCharacters>ü,</newCharacters>
       <text>üüü ,,, üüü ,,, üüü ,,, üüü ,,, üüü ,,, üüü ,,, üüü
 ,,, ü, ü, ü, ü, ü, ü, ü, ü, ü, ü, ü, ü, ü, ü, ü, ü,
-ü, ü, ü, ü, ü, ü,ü, ü,üü üüüü ü,,, ,,ü, ,,üü ü,,ü
-,,üü üü,, ,,ü, ü, ü , ü , ü , ü , ü , ü , ü , ü ,
+ü, ü, ü, ü, ü, ü,,, ,,,ü ü,,ü ,ü,ü ,,üü ü,üü ü,ü,
+,üüü ,üü, ü,,ü ü, ü , ü , ü , ü , ü , ü , ü , ü ,
 ü , ü , ü , ü , ü , ü , ü , ü , ü , ü , ü , ü , ü
 , ü,ü ,ü, ü,ü ,ü, ü,ü ,ü, ü,ü ,ü, ü,ü ,ü, ü,ü ,ü,
-ü,ü ,ü, ü,üü ,ü,ü ü,ü, ,ü,, ü,ü, ,ü,, üü,ü ü,üü ,,,ü
-üü,ü ,, üüü ,,, üüü ,,, üüü ,,, üüü ,,, üüü ,,, üüü
+ü,ü ,ü, ,üü, ,,,ü ü,üü üü,, ü,ü, üü,ü ,,,ü üüü, ü,ü,
+ü,,, ü, üüü ,,, üüü ,,, üüü ,,, üüü ,,, üüü ,,, üüü
 ,,, üüü ,,, üüü ,,,</text>
     </lesson>
     <lesson>
-      <id>636acc25-eb53-4dbd-970e-ca35cefd2bb9</id>
+      <id>4a7a9cf6-0148-4674-8c47-ca2d1f1f8df8</id>
       <title>27: ü,</title>
       <newCharacters/>
-      <text>würden, über, bemüht, müsste, über, ,über ,übera
+      <text>,über würden, ,über ,bemüht ,müsste über, ,über ,
 üüüü ,,,, üüüü ,,,, üüüü ,,,, üüüü ,,,, üüüü ,,,,
-üü ,über über, ,würden ,über bemüht, müsste, ,über
-, ,würden ,über bemüht, ,müsste über, über, überar
-,würden ,über ,bemüht ,müsste ,über ,über überar üü
-üü ü, ,ü üü üü ü, ,, üü ,, ,ü ü, ,ü ,, ü, ,, ,, ü,
-,ü ü, ü, über, ,bemüht ,müsste über, ,über ,überarbeitet
-würden</text>
+üü ,über überarbeitet, ,über ,über über, würden, üb
+,über ,über ,würden ,über ,bemüht ,müsste ,über ü
+,würden über, ,bemüht müsste, ,über über, überar ,ü
+,, ,, üü ,, üü ü, ,ü ,, ü, üü ü, üü ,, ü, ü, ü, ,ü
+,ü ü, üü überarbeitet, ,über ,über über, würden,
+,über ,b ,über w</text>
     </lesson>
     <lesson>
-      <id>62d994b4-0b86-45dd-b9aa-ac8769e16405</id>
+      <id>50be8d6d-7d09-408f-b197-01264af5518a</id>
       <title>28: yl</title>
       <newCharacters>yl</newCharacters>
       <text>yyy lll yyy lll yyy lll yyy lll yyy lll yyy lll yyy
 lll yl yl yl yl yl yl yl yl yl yl yl yl yl yl yl yl
-yl yl yl yl yl ylly yyyy lyyy llyy ylly ylll ylyl
-llll ylyy llll yy y l y l y l y l y l y l y l y l
+yl yl yl yl yl yyll lyyy yyll lyyl ylll llyy llly
+yyyy yyyl llyl ll y l y l y l y l y l y l y l y l
 y l y l y l y l y l y l y l y l y l y l y l y l y
 l yly lyl yly lyl yly lyl yly lyl yly lyl yly lyl
-yly lyl lyyl yyyl yyly yyyy llll lyll ylyl yyll llly
-yyll yl yyy lll yyy lll yyy lll yyy lll yyy lll yyy
+yly lyl lyyl llll lyyl lyyl llyy llyl lyyy lyll yyyl
+yyyy yl yyy lll yyy lll yyy lll yyy lll yyy lll yyy
 lll yyy lll yyy lll</text>
     </lesson>
     <lesson>
-      <id>20b704d6-f3ce-441c-abc2-38ff23f62055</id>
+      <id>e00f4da7-5d96-4bc0-ba82-634403e864a5</id>
       <title>29: yl</title>
       <newCharacters/>
-      <text>stellt endgültige grundlegende gelegt liegen al yyyy
+      <text>angemeldet erstellen anlegen erstellen anlegen yyyy
 llll yyyy llll yyyy llll yyyy llll yyyy llll yy
-üblichen lässt welche enthält lässt welche lässt
-latein liegen erlauben möglich internationalen alt
-style absolute title oldid angemeldet selbst ll yl
-ll ll ll ly yy yy ll ll ll yy yy ly ly yy ly yy yy
-yl yl alle üblichen alphanumerischen ermöglichen
-als stellt</text>
+herunterladen gleichen unterliegen abwechseln
+abwechseln ausgeglichen sowohl als üblichen als
+lässt welche enthält lässt welche enthält lässt e
+yl ly yl ll yy ll yl ly yy ly ly ll ll yy yy yy ll
+yy yl ll yl style absolute title oldid angemeldet
+erstellen angeme</text>
     </lesson>
     <lesson>
-      <id>596b8bb4-cf5e-4b55-9ee4-7ecc32e6d16c</id>
+      <id>3c05cfbb-e8f2-48d6-befc-e6951b6dc086</id>
       <title>30: yl</title>
       <newCharacters/>
-      <text>also ideale allein lassen üblich schnell welche
-welche stellt endgültige grundlegende gelegt liegen
-algorithmischer allen als enthalten alle herunterladbar
-ermöglicht erhältlich beispielsweise erhältlichen
-leicht also erhält wesentlich als goebel consult
-enthält closing symbols enthält login type alt style
-absolute title oldid angemeldet er</text>
+      <text>ermöglichen selbst als unterstellt alle hinsichtlich
+liegen schnellen lassen aller durchschnittlichen
+üblichen sollen möglichst abwechseln ausgeglichen
+sowohl als üblichen lässt welche enthält lässt welche
+enthält lässt enthalten ermöglicht aller latein
+liegen erlauben möglich internationalen ausgelegt
+gelegt üblichen lässt hinsichtlich</text>
     </lesson>
     <lesson>
-      <id>0cbcbcb5-a36e-48d0-b216-ea7640101173</id>
+      <id>de8cbd9b-ac4d-4272-9026-08e17658e1ed</id>
       <title>31: Summary umü,yl</title>
       <newCharacters/>
       <text>umü, ylum ü,yl umü, ylum ü,yl umü, ylum ü,yl umü,
-yl ,und hinsichtlich, möchte, beim, ,liegen ,und sc
-,genau und, ,enthalten ,und ,mathematisch ,und e lm
-yy lü ül ,l y, lu ,u ül ,u lm y, üm üy yu ym um ,m
-um ü, üu ergonomisch, optimiert, ,wurden um, optimiert,
-,angemeldet erstellen, anlegen, ,erstellen am, ,ymm
-yl,ü yuüy yl,l ymyu üüuu mlmu mulm ul,, ü,l, üü umü,
-yl</text>
+yl basiertem, ,über und, mitbringt, ,liegen und, ,u
+,und und, über, im, ,und ,erhält ,wesentlich als,
+lu ül üu lü uy yü mu ,l üy mu ym mu ,l ym y, m, lm
+,ü lu ,ü ,y und, ,durchschnittlichen ,wurde auch,
+sowohl, , ,optimiert ,wurden ,um ,ergonomischen und,
+und, mm,u ,ü,l l,ly uüyy uymü lyül mm,l uüü, ,uüm
+uymy ul umü, yl</text>
     </lesson>
     <lesson>
-      <id>77c8f90f-c4fb-4a1d-bc7c-ab9921ca3f60</id>
+      <id>9ed246a9-fa4d-402a-80e4-f3dd621fd3e5</id>
       <title>32: x.</title>
       <newCharacters>x.</newCharacters>
       <text>xxx ... xxx ... xxx ... xxx ... xxx ... xxx ... xxx
 ... x. x. x. x. x. x. x. x. x. x. x. x. x. x. x. x.
-x. x. x. x. x. x.xx ...x .x.. xxxx xx.. .x.x x.x.
-...x x..x x... xx x . x . x . x . x . x . x . x .
+x. x. x. x. x. ..x. x.xx ..x. .x.. .... .xx. x.xx
+xxx. xxx. .xxx .x x . x . x . x . x . x . x . x .
 x . x . x . x . x . x . x . x . x . x . x . x . x
 . x.x .x. x.x .x. x.x .x. x.x .x. x.x .x. x.x .x.
-x.x .x. .xxx xx.x .x.. ..x. x..x ..x. .x.. .x.. xxx.
-xx.x xx xxx ... xxx ... xxx ... xxx ... xxx ... xxx
+x.x .x. .xxx .... xxxx .... .x.. xx.. .x.x .xxx x..x
+x.x. xx xxx ... xxx ... xxx ... xxx ... xxx ... xxx
 ... xxx ... xxx ...</text>
     </lesson>
     <lesson>
-      <id>6c9c86e6-36ac-4e44-a835-1b867c0fac0b</id>
+      <id>cee369b0-7ac9-4e8c-a4bf-21e8092e83ca</id>
       <title>33: x.</title>
       <newCharacters/>
-      <text>experimentellen. externen. .index exportieren xxxx
+      <text>.externen index. exportieren. experimentellen xxxx
 .... xxxx .... xxxx .... xxxx .... xxxx .... xx
-.experimentellen externen. index. .exportiere index.
-.exportieren experimentellen. experime .index
-exportieren. .experimentellen experime x. .x .. ..
-x. xx .x xx .. .x .. xx x. .x x. x. x. xx x. .x .x
-.experimentellen .externen .index .exportiere expe
-ri</text>
+experimentellen. .experimentellen .externen i
+experimentellen. externen. .index exportieren
+experimentellen. .externen index. exportieren x. .x
+.. xx .x xx x. x. .x .x .. xx .x .. .x x. .. xx x.
+.x x. .experimentellen .externen .index .exportiere
+.exter</text>
     </lesson>
     <lesson>
-      <id>c5c5c5da-0f39-4908-a0a3-72f6dab13a2a</id>
+      <id>4caf757d-e239-4718-b303-e8dbea8d2529</id>
       <title>34: zf</title>
       <newCharacters>zf</newCharacters>
       <text>zzz fff zzz fff zzz fff zzz fff zzz fff zzz fff zzz
 fff zf zf zf zf zf zf zf zf zf zf zf zf zf zf zf zf
-zf zf zf zf zf fzff fzfz fzff zzzz zzfz ffff zzzf
-ffzz zfff fzfz zz z f z f z f z f z f z f z f z f
+zf zf zf zf zf zfzf zfff fzff zzff zzzf zfzz zzfz
+zfff fzzf zzff zf z f z f z f z f z f z f z f z f
 z f z f z f z f z f z f z f z f z f z f z f z f z
 f zfz fzf zfz fzf zfz fzf zfz fzf zfz fzf zfz fzf
-zfz fzf ffzf ffzf fzzz fzzf zfff zzfz zzff fzzz zfff
-zffz zz zzz fff zzz fff zzz fff zzz fff zzz fff zzz
+zfz fzf ffzf zfzz zzfz zzff zfzf zffz fzfz ffff zzfz
+fzzf zf zzz fff zzz fff zzz fff zzz fff zzz fff zzz
 fff zzz fff zzz fff</text>
     </lesson>
     <lesson>
-      <id>908c2513-2d7b-4114-8723-6bf70624adbc</id>
+      <id>bc19e9ad-a4ed-4345-bbfa-df16e51f0e30</id>
       <title>35: zf</title>
       <newCharacters/>
-      <text>erzeugen geschützte geschützten findet für fünf zzzz
-ffff zzzz ffff zzzz ffff zzzz ffff zzzz ffff zz zur
-häufig auf zu führt zahlreiche auf häufig für a zum
-auf benutzbar zweite fünf wissenschaftliche zahlreiche
-für zum für erzeugen folgende zufolge zz zf zz zz
-fz zf fz zz ff fz fz ff ff fz zz ff fz fz zz ff ff
-abgerufen zur für auf abgerufen fd config fd auf fd
-erzeug</text>
+      <text>häufige häufig zum auf benutzbar zweite fünf fünf
+zzzz ffff zzzz ffff zzzz ffff zzzz ffff zzzz ffff
+zz abgerufen abgerufen abgerufen abgerufen für für
+häufigsten auf zu zu zu oft zu zu besitzt häufige
+zu softwaretechnisch auf auf aufgrund offizieller
+zz zf fz zf fz ff ff zf zf ff fz fz zz zz fz fz zf
+zf zf fz zf folgende angefertigte auf fast für zu
+zu zuletzt e häufig</text>
     </lesson>
     <lesson>
-      <id>aca96991-7bd5-4d60-b6b0-3c7cefebbf02</id>
+      <id>95dc1636-1d0a-44f9-abb0-e9788ade3d5a</id>
       <title>36: zf</title>
       <newCharacters/>
-      <text>folgende grafische zu wissenschaftliche zum zufolge
-zwei auf für auf festgelegt zu zu greift auf auf
-auf zur häufig auf zu führt zahlreiche auf häufig
-für auf zugehörigen eingeführt softwaretechnisch
-auf auf aufgrund grundsätzlich für für auf freie
-für zur offizieller zu finden folgende angefertigte
-auf fast für zu zu zuletzt einfacher ff für zu
-zufolge</text>
+      <text>zu freien häufigsten auf zu zu zu oft zu zu besitzt
+häufige häufig zum auf benutzbar zweite fünf
+naturwissenschaftliche zusätzliche zahlreiche darauf
+folgende zu zahlreiche zum erzeugt fünften erzeugen
+auf für empfiehlt auf für einfach zu häufig fünf
+zahlreiche für zum für erzeugen folgende grafische
+zu wissenschaftliche zum zufolge zwei auf für auf
+f</text>
     </lesson>
     <lesson>
-      <id>8b7ea186-8172-4035-bee3-2d833aee1e0f</id>
+      <id>ed749f30-ff0b-4600-95e3-25e5dea7db34</id>
       <title>37: vk</title>
       <newCharacters>vk</newCharacters>
       <text>vvv kkk vvv kkk vvv kkk vvv kkk vvv kkk vvv kkk vvv
 kkk vk vk vk vk vk vk vk vk vk vk vk vk vk vk vk vk
-vk vk vk vk vk vkkk kvkk vkvv vkkk kvvk vvvk kvvk
-vvvv kkkk vvkv vk v k v k v k v k v k v k v k v k
+vk vk vk vk vk vkkv vkkk kvvv vkkv vvkv kkkk vkkk
+kkvv kvvv kvvv vk v k v k v k v k v k v k v k v k
 v k v k v k v k v k v k v k v k v k v k v k v k v
 k vkv kvk vkv kvk vkv kvk vkv kvk vkv kvk vkv kvk
-vkv kvk kvvv vvkv vvkk kvkv vvkk kkkk kvvk kkvv vvvk
-vkkk kv vvv kkk vvv kkk vvv kkk vvv kkk vvv kkk vvv
+vkv kvk vvvv vkvv kvkk kkkv kvvv kkvk kkkk kvvk vkvv
+kkvv vk vvv kkk vvv kkk vvv kkk vvv kkk vvv kkk vvv
 kkk vvv kkk vvv kkk</text>
     </lesson>
     <lesson>
-      <id>cb4a0c0f-f93a-4280-935e-3f83614135f0</id>
+      <id>faf4d140-5ace-475c-8298-6f6c04a55499</id>
       <title>38: vk</title>
       <newCharacters/>
-      <text>linkslastig berücksichtigt kombiniert verbess vvvv
+      <text>von wikipedia verbessern verlinkten verfügbar k vvvv
 kkkk vvvv kkkk vvvv kkkk vvvv kkkk vvvv kkkk vv
-keine verschiedener von vergleichbare keinen vo
-verfolgt von verkürzen können verlassen verteil
-vielen kommt viel könne verteilt von viel kleine k
-kk kk vv vv kk vv kk kk vk kv vk vk vv vv vv kv kk
-kk kv kv vv von entwickelt von aktuellen verfügbare
-kommerz linksl</text>
+nachzudenken veröffentlichte zyklisch vertaus von
+viel kleine kürzer kommt archiviert vom kommt kommt
+archiviert vom archiviert vom archiviert v kk kv vv
+kk vv kv kv vk kv vk vk vk vk vv kv vk kk vk vv kk
+kv stark linkslastig berücksichtigt kombiniert ve
+von wik</text>
     </lesson>
     <lesson>
-      <id>3513df9c-f97b-46ff-b41e-6e49c35e24a5</id>
+      <id>82de8022-fee4-4492-8bdd-0b934c3d2a48</id>
       <title>39: vk</title>
       <newCharacters/>
-      <text>veröffentlichte zyklisch vertauscht linke komplett
-von entwickelt von aktuellen verfügbare kommerziell
-vonnöten kommt vielen kommt viel könne verteilt von
-viel kleine kürzer kommt archiviert vom archiviert
-vom archiviert vom von archiviert vom archiviert
-vom von freedesktop xkeyboard freedesktop wikimedia
-wiki von wikipedia verbessern vielen</text>
+      <text>archiviert vom von freedesktop xkeyboard freedesktop
+wikimedia wiki von wikipedia verbessern verlinkten
+verfügbar können erklären einverstanden verschiedene
+von verwendete von hervorgehoben vier links inklusive
+viele entwickelte verfolgt von verkürzen können
+verlassen verteilt stark linkslastig berücksichtigt
+kombiniert verbessern wiki</text>
     </lesson>
     <lesson>
-      <id>b42f0f59-1ac3-4dde-91b3-cb1b4fd493aa</id>
+      <id>e3cfce29-940b-49b3-badb-07a1e8e3b4b0</id>
       <title>40: Summary x.zfvk</title>
       <newCharacters/>
       <text>x.zf vkx. zfvk x.zf vkx. zfvk x.zf vkx. zfvk x.zf
-vk .einfacher könne. ff. .verteilt für. von. zu.
-ff. .erzeugen folgende. .verfügbar physikalische.
-zk f. xf xk vf vf .x kz vv kv kz f. vz .z .x vz ..
-xf kf xk xz festgelegt. .von zu. experimentellen.
-.zu .fast .für von. zu. viel. häufigere. kleine.
-kürzer. ko z.vk zzvf xxzk kzfz .k.z vfv. xxvf kv.k
-xxvx ff.f k. x.zf vk</text>
+vk zu. oft. .verteilt .stark linkslastig. .besitzt
+führt. zahlreiche. zyklisch. vertauscht. .auf . kz
+.. kz xv vk .f fx kk z. fx .f zf zf x. xf .v vz vv
+xx kv zk .findet viele. für. naturwissenschaftlichen.
+. .vom .abgerufen .von .archiviert vom. zitieren.
+v.k. zkzx ffvx fvfk kfzz ..zk vkvk vf.. x.xf vxxz
+zx x.zf vk</text>
     </lesson>
     <lesson>
-      <id>089cb86f-50c9-42db-a379-17c7e22326bc</id>
+      <id>7efa2b7c-eeb5-4498-8dd6-073519c5e8d4</id>
       <title>41: j</title>
       <newCharacters>j</newCharacters>
       <text>jjj jjj jjj jjj jjj jjj jjj jjj jjj jjj jjj jjj jjj
@@ -549,600 +551,609 @@ jjjj jj jjj jjj jjj jjj jjj jjj jjj jjj jjj jjj jjj
 jjj jjj jjj jjj jjj</text>
     </lesson>
     <lesson>
-      <id>1af2b94f-5062-4743-832a-b0a82594abb7</id>
+      <id>1a221383-ffd9-4d21-b3b1-07539276f30c</id>
       <title>42: 2-</title>
       <newCharacters>2-</newCharacters>
       <text>222 --- 222 --- 222 --- 222 --- 222 --- 222 --- 222
 --- 2- 2- 2- 2- 2- 2- 2- 2- 2- 2- 2- 2- 2- 2- 2- 2-
-2- 2- 2- 2- 2- -2-2 -2-2 2-22 ---- ---2 -2-2 -2-2
-22-2 -22- 2222 -- 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 -
+2- 2- 2- 2- 2- --2- 222- 22-- 2--2 2222 2-2- ----
+-22- 22-- --22 -2 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 -
 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2 - 2
 - 2-2 -2- 2-2 -2- 2-2 -2- 2-2 -2- 2-2 -2- 2-2 -2-
-2-2 -2- 222- ---2 22-- 222- ---- -22- ---- 222- 2222
----2 22 222 --- 222 --- 222 --- 222 --- 222 --- 222
+2-2 -2- -22- --2- -222 --2- 2--2 22-2 -2-2 -22- -2--
+2222 -- 222 --- 222 --- 222 --- 222 --- 222 --- 222
 --- 222 --- 222 ---</text>
     </lesson>
     <lesson>
-      <id>5c49712f-a749-469c-881c-ae2d98f8fdf6</id>
+      <id>9fb6aed0-fb1e-4086-9cc6-932bf7e5aa6b</id>
       <title>43: 2-</title>
       <newCharacters/>
-      <text>und- der- entspricht- -und der- welche- -unter de
-2222 ---- 2222 ---- 2222 ---- 2222 ---- 2222 ----
-22 und- -möglich -darunter -auch die- -neuartige -t
-sind- -wie -bei üblichen- -per -erreichbar sind-
-und- sechs- -erreicht man- -die -griechischen -u --
-22 2- -2 2- 2- 2- 2- -- 22 22 -2 -- 22 2- -- -- 2-
--2 22 -2 auf- -die bezeichnen- die- die- -im -benutzt
-auf- und- de</text>
+      <text>üblich- nur- einen- -rein mathematischen- -oder 2222
+---- 2222 ---- 2222 ---- 2222 ---- 2222 ---- 22
+häufigsten- -liegen -daher -auf -der -und -den -s
+-auf -ergonomisch -optimiert -festgelegt eine- -an
+die- untere- -kommt -bearbeiten -zu consult- -2 22
+-- -- 2- -2 -- -2 22 2- -2 -- -2 -- -2 -2 22 22 22
+22 -- ein- angenehmes- -und entspanntes- -sowie
+-eine üblich</text>
     </lesson>
     <lesson>
-      <id>8eb3181e-0804-48c3-81cf-b6e21983f17d</id>
+      <id>6c899062-627d-4069-b54d-38f9fb0264e7</id>
       <title>44: 2-</title>
       <newCharacters/>
-      <text>sich- seit- bei- -vielen -bewährt -in -der -kommt
--zu dem- -dass -nicht -zuletzt die- -an -leicht
--erreichbaren die- mit- modernen- -also -sehr -viel
-einfacher- -könne -bearbeiten ergonomisches- ff-
--verteilt -mit -und -bester -und für- unter- und-
-bearbeiten- von- und- -der -eines -über das-
-bearbeiten- im- -zu -und viel- häufigere- erhält-
--eine b</text>
+      <text>die- mit- -modernen also- sehr- -viel einfacher-
+könne- -bearbeiten ergonomisches- ff- -verteilt -mit
+-und -bester und- -für -unter und- -bearbeiten -von
+-und der- -eines -über -das -bearbeiten -im zu- und-
+viel- -häufigere -erhält eine- bessere- -da der-
+-kleine wesentlich- kürzer- als- die- -anderen ist-
+-und -daher -besser an- -die untere- also-</text>
     </lesson>
     <lesson>
-      <id>445e0a86-0368-4f4b-b103-8a53dbab8154</id>
+      <id>ca134773-0303-4fe7-af9d-b3745196b4da</id>
       <title>45: 1`</title>
       <newCharacters>1`</newCharacters>
       <text>111 ``` 111 ``` 111 ``` 111 ``` 111 ``` 111 ``` 111
 ``` 1` 1` 1` 1` 1` 1` 1` 1` 1` 1` 1` 1` 1` 1` 1` 1`
-1` 1` 1` 1` 1` `111 `11` ``11 `111 1``1 111` `11`
-`1`1 ``1` ```` 1` 1 ` 1 ` 1 ` 1 ` 1 ` 1 ` 1 ` 1 `
+1` 1` 1` 1` 1` `1`` 1`1` `111 1``` 11`1 ```1 1`11
+1``` `111 1`1` `1 1 ` 1 ` 1 ` 1 ` 1 ` 1 ` 1 ` 1 `
 1 ` 1 ` 1 ` 1 ` 1 ` 1 ` 1 ` 1 ` 1 ` 1 ` 1 ` 1 ` 1
 ` 1`1 `1` 1`1 `1` 1`1 `1` 1`1 `1` 1`1 `1` 1`1 `1`
-1`1 `1` 1`1` `1`1 `1`1 ``11 1`11 1``1 11`` ``1` `11`
-11`` 1` 111 ``` 111 ``` 111 ``` 111 ``` 111 ``` 111
+1`1 `1` 1`11 111` ```1 ```1 111` `111 ```` 1`1` `11`
+```1 11 111 ``` 111 ``` 111 ``` 111 ``` 111 ``` 111
 ``` 111 ``` 111 ```</text>
     </lesson>
     <lesson>
-      <id>bae54f73-1fd2-47cb-be34-1783ec677d81</id>
+      <id>4980221a-1262-4329-86db-0910434b2af3</id>
       <title>46: 1`</title>
       <newCharacters/>
-      <text>`später wurde` `die auf` `ergonomisch anordnet` 1111
-```` 1111 ```` 1111 ```` 1111 ```` 1111 ```` 11
-`endgültige `des `dar `und `führt zahlreiche` gr
-`von archiviert` vom` am` abgerufen` `am `bester
-mit` der` `fünften kann` man` mit` `somit `andere
-11 `1 `` `1 `` 11 11 `` `` 1` 1` 1` `1 `1 11 11 11
-`` `` 1` `1 sechs` enthalten` griechische` und`
-sowie` und` `späte</text>
+      <text>`erlauben beim` `der `das `darauf `folgende `mit
+1111 ```` 1111 ```` 1111 ```` 1111 ```` 1111 ````
+11 bearbeiten` zu` `archiviert vom` am` abgerufen`
+über` `die toten` und` `zusätzliche von` `denen `
+`border `none position` `absolute `von `https de 1`
+`` `` 11 11 `` 1` 1` `1 1` 11 `1 `1 `` `` `1 `1 11
+11 11 `` sollen` sich` bei` beide` beim` `möglichst
+oft` a `erlau</text>
     </lesson>
     <lesson>
-      <id>0e9930d4-78bc-4769-8883-53f8cf26434c</id>
+      <id>5782aecb-2067-483a-b012-89710e3cf4d9</id>
       <title>47: 1`</title>
       <newCharacters/>
-      <text>wurde` auch` `das verfolgt` die` zu` erhöhen` `gibt
-`es `bisher jedoch` keine` `wissenschaftliche `gibt
-`sowohl verschiedener` `die mit` eine` `höhere
-erreichen` `als `auch `von `solchen `die mit` `anderen
-wie` zum` `oder vergleichbare` `erreicht haben` und`
-keinen` `in sehen` zufolge` erreichen` `neue eine`
-`von pro` `bereits nach` zwei` bis` dr</text>
+      <text>enthält` seit` dem` mit` dem` `added de` `neo closing`
+`fd `xkeyboard config` `symbols de` `bei freedesktop`
+`org enthält` `seit dem` `mit dem` updated` `de neo`
+`fd und` `img src` https` login` `wikimedia `org
+wiki` `start type` `alt `width `height `style border`
+`none `position absolute` `von `https de` wikipedia`
+org` `index `php `title oldid` dem`</text>
     </lesson>
     <lesson>
-      <id>92c5a9fd-5a39-4bd8-8f8b-31db63811721</id>
+      <id>62f6d6e6-a742-48f0-b6db-8d55d01736de</id>
       <title>48: Summary j2-1`</title>
       <newCharacters/>
       <text>j2-1 `j2- 1`j2 -1`j 2-1` j2-1 `j2- 1`j2 -1`j 2-1`
-j2 -jedoch jeweils- jedoch- `jedoch -jedoch jeweil
-jedoch- jedoch- jeweils` -jedoch jedoch- jedoch -1
-2- `- j2 22 11 `- 11 j` j2 -j `2 `1 -2 jj 12 2` jj
--` j1 -` jedoch` `jedoch jedoch` -jeweils jedoch`
-`jedoc jedoch` `jeweils `jedoch `jedoch jedoch`
-`jewei 1`-1 2-j- j1-2 j1-` -``2 -1`2 j`1` j211 jj`2
--j22 j2 j2-1 `j</text>
+j2 `jedoch jeweils` jedoch` -jedoch `jedoch jeweil
+-jedoch -jedoch -jeweils jedoch` -jedoch -jedoc -j
+1- -1 2j 2` `2 11 22 1j j` `- `2 `2 -` 21 j- 2j -j
+j1 j1 `- jedoch` jedoch` jedoch` jeweils` jedoch`
+jedoch `jedoch jedoch` jeweils- `jedoch `jedoch
+jedoch 2``` 1--2 j12- `j21 `-`2 1-jj j`j` jj-- 2122
+-121 j1 j2-1 `j</text>
     </lesson>
     <lesson>
-      <id>d9e67ed2-f8ce-4227-9082-176d030e3b66</id>
+      <id>7341de61-d515-443b-a3eb-bad8f208a706</id>
       <title>49: 30</title>
       <newCharacters>30</newCharacters>
       <text>333 000 333 000 333 000 333 000 333 000 333 000 333
 000 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30 30
-30 30 30 30 30 3300 3030 0003 0300 3033 3300 3030
-0033 0033 3033 03 3 0 3 0 3 0 3 0 3 0 3 0 3 0 3 0
+30 30 30 30 30 0333 3303 0303 0300 0300 3000 3030
+3333 0030 3000 33 3 0 3 0 3 0 3 0 3 0 3 0 3 0 3 0
 3 0 3 0 3 0 3 0 3 0 3 0 3 0 3 0 3 0 3 0 3 0 3 0 3
 0 303 030 303 030 303 030 303 030 303 030 303 030
-303 030 3300 0003 3003 3003 0030 3303 3303 0333 0300
-0033 03 333 000 333 000 333 000 333 000 333 000 333
+303 030 0030 3330 3030 0003 3333 0300 3300 0033 3033
+3030 00 333 000 333 000 333 000 333 000 333 000 333
 000 333 000 333 000</text>
     </lesson>
     <lesson>
-      <id>037834fd-7cd8-4feb-b647-db75d2aaab90</id>
+      <id>855eb3c6-43e1-4b89-a6de-2742f0b3b6e0</id>
       <title>50: 49</title>
       <newCharacters>49</newCharacters>
       <text>444 999 444 999 444 999 444 999 444 999 444 999 444
 999 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49 49
-49 49 49 49 49 4494 4994 4494 9499 9494 4494 9999
-9499 9494 4944 94 4 9 4 9 4 9 4 9 4 9 4 9 4 9 4 9
+49 49 49 49 49 9449 4944 9494 9449 4499 4494 9499
+4999 4499 4499 94 4 9 4 9 4 9 4 9 4 9 4 9 4 9 4 9
 4 9 4 9 4 9 4 9 4 9 4 9 4 9 4 9 4 9 4 9 4 9 4 9 4
 9 494 949 494 949 494 949 494 949 494 949 494 949
-494 949 9944 9499 9449 9449 4449 4949 4999 4499 4494
-4499 94 444 999 444 999 444 999 444 999 444 999 444
+494 949 9949 4494 9949 9944 9444 9499 4494 9949 4994
+4499 44 444 999 444 999 444 999 444 999 444 999 444
 999 444 999 444 999</text>
     </lesson>
     <lesson>
-      <id>3e34e329-bfeb-402a-8c75-28259b4aef1a</id>
+      <id>5d2704d9-b7f6-4e3c-b683-59f81a55425a</id>
       <title>51: 58</title>
       <newCharacters>58</newCharacters>
       <text>555 888 555 888 555 888 555 888 555 888 555 888 555
 888 58 58 58 58 58 58 58 58 58 58 58 58 58 58 58 58
-58 58 58 58 58 5555 5558 5858 5585 8858 8858 8885
-8555 5888 8858 58 5 8 5 8 5 8 5 8 5 8 5 8 5 8 5 8
+58 58 58 58 58 5858 5858 8858 5588 8558 5558 5588
+8585 5558 8888 55 5 8 5 8 5 8 5 8 5 8 5 8 5 8 5 8
 5 8 5 8 5 8 5 8 5 8 5 8 5 8 5 8 5 8 5 8 5 8 5 8 5
 8 585 858 585 858 585 858 585 858 585 858 585 858
-585 858 5885 8588 8555 5555 5888 8858 8858 5885 8585
-5855 58 555 888 555 888 555 888 555 888 555 888 555
+585 858 5855 8558 5885 8885 8555 5858 5558 5885 8555
+8888 88 555 888 555 888 555 888 555 888 555 888 555
 888 555 888 555 888</text>
     </lesson>
     <lesson>
-      <id>d561d766-f671-4ba1-a3c0-cd5eb782e004</id>
+      <id>32c26b7f-ac7e-4336-bd77-fc7b7f0714a6</id>
       <title>52: Summary 304958</title>
       <newCharacters/>
       <text>3049 5830 4958 3049 5830 4958 3049 5830 4958 3049
-58 49 49 88 43 30 98 03 84 90 03 95 85 55 48 08 39
-35 04 34 05 95 3950 0544 9534 4908 9893 5053 8354
-8598 0494 3080 38 3049 5830 4958 3049 5830 4958 3049
-5830 4958 3049 58 49 49 88 43 30 98 03 84 90 03 95
-85 55 48 08 39 35 04 34 05 95 3950 0544 9534 4908
-9893 5053 8354 8598 0494 3080 38 3049 5830 4958 3049
-5830 4958 3049 5830 4958 3049 58 49 49 88</text>
+58 80 40 94 45 39 53 59 05 83 49 85 43 38 80 30 09
+93 49 45 85 80 9003 8499 9445 8358 9094 3053 3834
+0485 8030 5459 58 3049 5830 4958 3049 5830 4958 3049
+5830 4958 3049 58 80 40 94 45 39 53 59 05 83 49 85
+43 38 80 30 09 93 49 45 85 80 9003 8499 9445 8358
+9094 3053 3834 0485 8030 5459 58 3049 5830 4958 3049
+5830 4958 3049 5830 4958 3049 58 80 40 94</text>
     </lesson>
     <lesson>
-      <id>63efc270-685d-409d-97d9-1c59377528a8</id>
+      <id>3c364415-1ca3-467a-b81c-d515958e6243</id>
       <title>53: 67</title>
       <newCharacters>67</newCharacters>
       <text>666 777 666 777 666 777 666 777 666 777 666 777 666
 777 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67 67
-67 67 67 67 67 6676 6777 7677 7777 6676 7677 6666
-6767 6667 7676 67 6 7 6 7 6 7 6 7 6 7 6 7 6 7 6 7
+67 67 67 67 67 7777 6777 7767 6666 7776 7667 6677
+7767 6666 6667 66 6 7 6 7 6 7 6 7 6 7 6 7 6 7 6 7
 6 7 6 7 6 7 6 7 6 7 6 7 6 7 6 7 6 7 6 7 6 7 6 7 6
 7 676 767 676 767 676 767 676 767 676 767 676 767
-676 767 6667 6777 7776 7666 7667 7766 7677 6766 7667
-7776 66 666 777 666 777 666 777 666 777 666 777 666
+676 767 6777 7666 6666 7667 6777 6777 7776 6776 7766
+6666 77 666 777 666 777 666 777 666 777 666 777 666
 777 666 777 666 777</text>
     </lesson>
     <lesson>
-      <id>a2f7da67-d0a7-4708-8471-f8e63cea2fcb</id>
+      <id>8133353e-6da8-4c6c-8fc2-30504113f597</id>
       <title>54: ET</title>
       <newCharacters>ET</newCharacters>
       <text>EEE TTT EEE TTT EEE TTT EEE TTT EEE TTT EEE TTT EEE
 TTT ET ET ET ET ET ET ET ET ET ET ET ET ET ET ET ET
-ET ET ET ET ET ETET EEEE TEET ETTE TETT TTET EETE
-EEET TEET TTTT ET E T E T E T E T E T E T E T E T
+ET ET ET ET ET ETEE ETTT ETTT ETEE ETET EEET ETET
+TETT EETT EETT TE E T E T E T E T E T E T E T E T
 E T E T E T E T E T E T E T E T E T E T E T E T E
 T ETE TET ETE TET ETE TET ETE TET ETE TET ETE TET
-ETE TET EETT TEET TEET EETE ETTT EETE ETTT TTTT TEEE
-TTEE EE EEE TTT EEE TTT EEE TTT EEE TTT EEE TTT EEE
+ETE TET TTTE ETET ETTE TEET EETE TETE ETTT TTTE ETET
+EEET EE EEE TTT EEE TTT EEE TTT EEE TTT EEE TTT EEE
 TTT EEE TTT EEE TTT</text>
     </lesson>
     <lesson>
-      <id>8d882e31-4e38-4637-b135-466ac36047b1</id>
+      <id>0e7a9f5e-a19e-4a3b-ad6b-72dc55fc38a4</id>
       <title>55: ET</title>
       <newCharacters/>
-      <text>Textes Tastaturbelegung Entwurf Erfahrungen Es EEEE
-TTTT EEEE TTTT EEEE TTTT EEEE TTTT EEEE TTTT EE
-Ergonomie Themenportale English Text Ergonomie
-Ergonomie Tastaturbelegung Tastaturbelegung T
-Einzelnachweise Erleichtern Ergonomie Entwurf ET EE
-TE TT TE TE ET TT EE ET TE ET EE ET TT TE ET ET ET
-TE ET Ebenen Ebene Entwurf Ebene Trigramme Ebene
-Taste Textes</text>
+      <text>Tastaturbelegungen Tippen Textes Erkenntnisse EEEE
+TTTT EEEE TTTT EEEE TTTT EEEE TTTT EEEE TTTT EE Eine
+Tastatur Eine Tastatur Tasten Tastatur Eine Tasten
+Ebene Tastaturbelegung Tastenanzahl Ein
+Entstehungsgeschichte Tastatur Ergonomic Ende TT EE
+EE TT EE EE ET TE TT TE TE EE TE TT ET TE ET TT EE
+TT TE Textes Tastaturbelegung Entwurf Erfahrungen
+Es Tastat</text>
     </lesson>
     <lesson>
-      <id>6fc7db0c-c996-4f10-8b48-e5f3a9baa9d1</id>
+      <id>3b729d5c-4fb1-4fdd-8424-b20013a849a9</id>
       <title>56: ET</title>
       <newCharacters/>
-      <text>Ebene Ebenen Typografie Tasten Tasten Taste Taste
-Ebene Trotzdem Tastatur Typografien Ebenen Taste
-Teilmengensymbol Tastaturbelegung Tippgeschwindigkeit
-Es Tastaturbelegungen Erfahrungsberichten
-Tippgeschwindigkeit Entstehungsgeschichte Tastatur
-Ergonomic Erfahrungen Tastaturbelegung Erkenntnisse
-Ergonomie Tasten Erhebungen Ein</text>
+      <text>Tastatur Tasten Tastatur Tastatur Ein Ein Tastaturlayout
+Ergonomischeres Tastaturlayout Trautmann Ergonomie
+Tastaturbelegung Tastaturbelegung Tastaturlayout
+Einzelnachweise Tote Tasten Erfahrungsberichte
+Eggenstein Technologie Tastaturbelegung Tastaturbelegung
+Tastatur Trautmann Ergonomie Tastaturbelegung
+Tastaturbelegung Ein</text>
     </lesson>
     <lesson>
-      <id>fd96ae26-f1ce-42bb-bd3b-6cc90dccf528</id>
+      <id>6edb7882-d0e5-405c-8590-8b9ff3c5f4eb</id>
       <title>57: Summary 67jET</title>
       <newCharacters/>
       <text>67jE T67j ET67 jET6 7jET 67jE T67j ET67 jET6 7jET
-67 Tastaturbelegung Teilen Tastenanordnung Ebene
-Erfahrungsberichte Eggenstein Technologie Ein Ej 6E
-jj 67 TE T7 7j TT 76 ET 67 67 TE EE 6j 67 7j 6T jT
-6E 7j Tastaturlayouts Ende Treiber Tastaturbelegung
-Tastenanzahl Erleichtern Ebenen Typografie Ein Ej67
-7jjj j6E7 T676 TjE6 TEET 6Ej6 77E7 TTET T776 j6 67jE
+67 Es Tastaturbelegungen Erfahrungsberichten Ein
+Eggenstein Technologie Tastaturbelegung Ebene 6E E7
+7E 6T 7T T7 6j TE j6 67 7j Tj 6j 6T jE EE j6 jE 6T
+7T 77 Tastaturbelegung Tastaturbelegungen Tippen Es
+Tastaturbelegung Tastaturbelegung Eggenstein 6j7T
+7ET7 j6E6 T7E6 EEjj 7T7E jj66 ETjj 676T E77T 6T 67jE
 T6</text>
     </lesson>
     <lesson>
-      <id>ff786522-587a-4733-acd6-2e963fc67112</id>
+      <id>74814b29-f034-4a71-a1fb-df2619ea6661</id>
       <title>58: IN</title>
       <newCharacters>IN</newCharacters>
       <text>III NNN III NNN III NNN III NNN III NNN III NNN III
 NNN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN IN
-IN IN IN IN IN NNIN INNN IINI NIIN IIII INNI NNNI
-NINI NINN INII NI I N I N I N I N I N I N I N I N
+IN IN IN IN IN ININ IIIN NNNN INNN NNII NNIN IINI
+INNI NNII INII II I N I N I N I N I N I N I N I N
 I N I N I N I N I N I N I N I N I N I N I N I N I
 N INI NIN INI NIN INI NIN INI NIN INI NIN INI NIN
-INI NIN NIIN IIIN INII NIII NNII NIIN NINN NIIN NNNN
-ININ IN III NNN III NNN III NNN III NNN III NNN III
+INI NIN IINN NNIN IIIN NIIN IINI NINI NNNN NNIN NIIN
+IIII IN III NNN III NNN III NNN III NNN III NNN III
 NNN III NNN III NNN</text>
     </lesson>
     <lesson>
-      <id>43fbdc61-523a-4953-94db-f1d06163f8c5</id>
+      <id>3892f2e0-885f-4103-8937-2f7d8d2648bd</id>
       <title>59: IN</title>
       <newCharacters/>
-      <text>In Neo In In Neo Neo In Neo In Neo Navigationsmenü
-In IIII NNNN IIII NNNN IIII NNNN IIII NNNN IIII NNNN
-II Neo In Neo In Neo In Neo In Neo In In Neo Neo In
-Neo In In Nutzung Neo Neo Neo Neo In Neu In Neo In
-In Neo In Neo I Neo In Neo In Neo In Neo In Neo In
-In Neo Neo In Neo In In NI NI NI II NN IN IN II IN
-NI IN IN IN NI II NN IN NI IN NI NN Neo Neo Navigation
-Neo Neo Navigationsblock Name In Neo I</text>
+      <text>Neo Neo Navigationsblock Navigationstasten Neo IIII
+NNNN IIII NNNN IIII NNNN IIII NNNN IIII NNNN II Neo
+Neo Neo Neo Nutzung Neo Neo Neo Neo In Neu In Neo
+I Navigieren Indem Neo Navigationstasten Neo Neo N
+Namensnennung Informationen Inhalte Nutzung In NI
+NN NI NN NI NN NN NI NN NI IN II IN II NN II II II
+NN II II Neo Nutzer Neo Neo Nutzer Name Neo Neo Neo
+Neo Nicht Neo Neo</text>
     </lesson>
     <lesson>
-      <id>bbd9a825-c80b-484e-a709-73191d7c1a93</id>
+      <id>1104a2dd-33c5-4647-b2d4-d95a2adaabc6</id>
       <title>60: IN</title>
       <newCharacters/>
-      <text>Inc Impressum Neo Neo Navigation Neo Neo Navigationsblock
-Navigationstasten Neo Neo Inhaltsverzeichnis Neo
-Neo Neo Neo Neo Navigationstasten Navigieren Indem
-Neo Navigationstasten Neo Neo Neo Neo Neo Nutzer
-Neo Neo Nutzer Name Neo Neo Neo Neo Institut Neo
-Neo In Neo Neo Nutzergemeinschaft Neo Neo In Neo
-Neo Neo Neo Nutzung Neo Neo Neo Neo In Neu In Neo
-In In</text>
+      <text>Navigation Neo Neo Navigationsblock Navigationstasten
+Neo Neo Inhaltsverzeichnis Neo Neo Neo Neo Neo
+Navigationstasten Navigieren Indem Neo Navigationstasten
+Neo Neo Neo Neo Neo Nutzer Neo Neo Nutzer Name Neo
+Neo Neo Neo Institut Neo Neo In Neo Neo Nutzergemeinschaft
+Neo Neo In Neo Neo Neo Neo Nutzung Neo Neo Neo Neo
+In Neu In Neo In In Neo In Neo Internet In</text>
     </lesson>
     <lesson>
-      <id>0d25e7b7-5f56-4731-bf23-e066e49c4acf</id>
+      <id>aa299020-937e-457c-b040-392505aa9279</id>
       <title>61: SR</title>
       <newCharacters>SR</newCharacters>
       <text>SSS RRR SSS RRR SSS RRR SSS RRR SSS RRR SSS RRR SSS
 RRR SR SR SR SR SR SR SR SR SR SR SR SR SR SR SR SR
-SR SR SR SR SR SSSR RRSS RRRR RSSS SSSR RSSR SSSS
-SSRR RRRR RRRS SR S R S R S R S R S R S R S R S R
+SR SR SR SR SR SRRS SSRS SSRS RRSS RSRR RRSS SRSS
+RRRS RRSR SSRS RR S R S R S R S R S R S R S R S R
 S R S R S R S R S R S R S R S R S R S R S R S R S
 R SRS RSR SRS RSR SRS RSR SRS RSR SRS RSR SRS RSR
-SRS RSR RSRS RRRS RSSR SSSR SSSR SSRS RRRR RSRR SSRS
-RRRS SS SSS RRR SSS RRR SSS RRR SSS RRR SSS RRR SSS
+SRS RSR SRSS SSSS SSSS RSRR RSRS RSRR RSSS SRSR RRRR
+SRRR RR SSS RRR SSS RRR SSS RRR SSS RRR SSS RRR SSS
 RRR SSS RRR SSS RRR</text>
     </lesson>
     <lesson>
-      <id>e26a67fa-06df-4e88-b386-a04177f1fa83</id>
+      <id>0808a954-0c66-4ed4-802c-4173f79c74e2</id>
       <title>62: SR</title>
       <newCharacters/>
-      <text>Rohmert Schreibmaschinentastaturen Reihe Satz SSSS
+      <text>Sprachen Seite Regelfall Sie Statistiken Sprung SSSS
 RRRR SSSS RRRR SSSS RRRR SSSS RRRR SSSS RRRR SS
-Schreibgeschwindigkeit Schreibgeschwindigke Sprachen
-Rohmert Sonderzeichen Rautetaste Strg Schreibgeschwindigkeit
-Schreibgeschwindigke SR RS RS SR RS RR SR SS SS RR
-RS SS RR RR RS SR SS SR RR RS SS Schreibgeschwindigkeit
-Schreibgeschwindigke Rohmer</text>
+Sonderzeichen Sprung Schlosssymbol Sie Source S
+Spezialzeichen Schreibgeschwindigkeit System Regelfall
+Sie Statistiken Stellungnahme Suche S RS RS RR RS
+RS SR SS RS RS RS RR RS RS SR SR RR SS SS SS SR RR
+Spezialseiten Seiteninformationen Sprachen So Spra
+ch</text>
     </lesson>
     <lesson>
-      <id>11a322b8-cec9-4d55-9c86-50e608bbbe58</id>
+      <id>7b0d4319-58e5-4830-91a5-578527557bde</id>
       <title>63: SR</title>
       <newCharacters/>
-      <text>Satz Sonderzeichen Reformtastaturen Schreiben Sprachen
-So Ringakzent Sprache Spezialzeichen Symbole Symbole
-Schreibgeschwindigkeit Schreibgeschwindigkeiten
-Statt Somit Sprachen Rohmert Sonderzeichen Rautetaste
-Strg Strg Strg Sonderzeichenebene Seit System Seit
-Solaris Spracheinstellungen Rezeption Schluss
-Sonderzeichen Stähr Statt</text>
+      <text>Special Suche Spenden Seite Seiten Spezialseiten
+Seiteninformationen Sprachen Seite Regelfall Sie
+Statistiken Stellungnahme Suche Sonderzeichen Sprung
+Schlosssymbol Sie Source Software Spezialzeichen
+Schreibgeschwindigkeit Rezeption Sprache Schreiben
+Schreiben Reformtastaturen Satz Sonderzeichen
+Reformtastaturen Schreiben Special</text>
     </lesson>
     <lesson>
-      <id>ec328791-05a4-4ffd-b53b-90e5f7a1abfe</id>
+      <id>8381b188-556a-4159-807d-627bb58fd813</id>
       <title>64: CH</title>
       <newCharacters>CH</newCharacters>
       <text>CCC HHH CCC HHH CCC HHH CCC HHH CCC HHH CCC HHH CCC
 HHH CH CH CH CH CH CH CH CH CH CH CH CH CH CH CH CH
-CH CH CH CH CH CHHH CHHC HCHC CHCH HCCH HHHH CCHH
-HCCC HCCC CCCH HC C H C H C H C H C H C H C H C H
+CH CH CH CH CH CHCH HCCC CHCC CHHC HCHH CHCH HCCH
+HHCH CHHC HHCC CH C H C H C H C H C H C H C H C H
 C H C H C H C H C H C H C H C H C H C H C H C H C
 H CHC HCH CHC HCH CHC HCH CHC HCH CHC HCH CHC HCH
-CHC HCH HCHH HCCC HCCH CHCH HHCH HHCH CHHC CCHC CHHH
-CCCH CC CCC HHH CCC HHH CCC HHH CCC HHH CCC HHH CCC
+CHC HCH HHCC HCCC HCHC HHHC CHHH CHCC CCHH HHHC CCCH
+HHCC HC CCC HHH CCC HHH CCC HHH CCC HHH CCC HHH CCC
 HHH CCC HHH CCC HHH</text>
     </lesson>
     <lesson>
-      <id>dc2db8b0-d6ae-4327-a0f8-b3ad0e98f58b</id>
+      <id>634b2c41-fb04-4f08-8114-3747d147da81</id>
       <title>65: CH</title>
       <newCharacters/>
-      <text>Hauptfeld Compose Hilfe Compose Compose Hanno He
-CCCC HHHH CCCC HHHH CCCC HHHH CCCC HHHH CCCC HHHH
-CC Hilfe Commons Commons Cookies Hauptebene Helmut
-Heidsiek Christian Commons Christoph Compose Ha
-Hardwaremarkt Handel Heidsiek Christian Handel HH
-CH HH CH HH CC CH CC CC CH HH HC CH CH HC CC CC HH
-CC CH HH Compose Hilfe Compose Compose Hanno Helmut
-Hilfe Hauptf</text>
+      <text>Hauptfeld Hauptfeld Compose Hilfe Compose Hilfe CCCC
+HHHH CCCC HHHH CCCC HHHH CCCC HHHH CCCC HHHH CC
+Helper Hardwaremarkt Handel Heidsiek Christian Handel
+Heidsiek Christian Commons Christoph Com Computertastaturen
+Hände Chatten Hände Chatten CC HC HH HC CC HH HC CH
+HH HH CC HC CC CH CH HC CH CC HH HH CC Compose
+Compose Hanno Helmut Hauptfeld Hilfe Hau Hauptf</text>
     </lesson>
     <lesson>
-      <id>144d89cd-fc4d-4af1-a2e1-419021ff430a</id>
+      <id>16c4d952-3686-465e-9f3b-14e78ca1f420</id>
       <title>66: CH</title>
       <newCharacters/>
-      <text>Hanno Consult Handgeschnitzte Heidsiek Christian
-Hauptseite Hilfe Commons Commons Cookies Hauptebene
-Compose Computertastaturen Hände Chatten Hände
-Hauptfeld Hauptfeld Compose Hilfe Compose Compose
-Hanno Helmut Hauptfeld Hilfe Hauptebene Hand Hand
-Helper Hardwaremarkt Handel Heidsiek Christian
-Commons Christoph Compose Hanno Consult Hand</text>
+      <text>Compose Hanno Consult Handgeschnitzte Heidsiek
+Christian Hauptseite Hilfe Commons Commons Cookies
+Hauptebene Compose Computertastaturen Hände Chatten
+Hände Hauptfeld Hauptfeld Compose Hilfe Compose
+Compose Hanno Helmut Hauptfeld Hilfe Hauptebene Hand
+Hand Helper Hardwaremarkt Handel Heidsiek Christian
+Commons Christoph Compose Hanno Hand</text>
     </lesson>
     <lesson>
-      <id>11b44754-3ca5-496c-8292-d802dd9b214f</id>
+      <id>fbe83192-6352-4afb-940f-d8023ba5a5b4</id>
       <title>67: Summary INSRCH</title>
       <newCharacters/>
       <text>INSR CHIN SRCH INSR CHIN SRCH INSR CHIN SRCH INSR
-CH Commons In Sprachen Seite November Commons Seite
-Stellungnahme Cookies Neo Neo Navigation Suche N IH
-IC RC HR NI SH CN SS HN HH IR CR IS NI SI CS CR CR
-NR NS HN Navigationstasten Hauptfeld Reformtastaturen
-Sprachen Seite November Commons Namensnennung I CSNI
-SRSC CIHR CRSI NRCN NNSN RSRH CIHH IHSR IHIH CN INSR
-CH</text>
+CH Sonderzeichen Compose Navigationsblock Sprung
+Schreibgeschwindigkeiten Neo Nutzer Hanno Name RN
+CS CH II SH NC CI SN RN II HI SC RN SC NN HR HH HR
+RR SI SC Seit Neo Solaris Neo Neo Spracheinstellungen
+Neo Seit In Neo System Seit Neo Solaris Neo Neo
+Solaris HHHI CNSH IRRR HCIS NRSC SRNS SIHI NISN CNCC
+RICH RN INSR CH</text>
     </lesson>
     <lesson>
-      <id>233a44aa-cb31-4743-a8ac-a370f9383dc0</id>
+      <id>d23dcf6b-807f-4c4d-87cd-564db7d3de2b</id>
       <title>68: OD</title>
       <newCharacters>OD</newCharacters>
       <text>OOO DDD OOO DDD OOO DDD OOO DDD OOO DDD OOO DDD OOO
 DDD OD OD OD OD OD OD OD OD OD OD OD OD OD OD OD OD
-OD OD OD OD OD DODO ODOD DDDD OOOD ODOD ODOO DDOO
-DDOD OODO OODD OD O D O D O D O D O D O D O D O D
+OD OD OD OD OD DDOO DOOD DDDD OODO ODDO DOOO DDOO
+ODOO DODD DDDO OO O D O D O D O D O D O D O D O D
 O D O D O D O D O D O D O D O D O D O D O D O D O
 D ODO DOD ODO DOD ODO DOD ODO DOD ODO DOD ODO DOD
-ODO DOD OODO ODOD ODDD ODDD ODOO ODOD OODD DDDD DODO
-ODOO OO OOO DDD OOO DDD OOO DDD OOO DDD OOO DDD OOO
+ODO DOD DODO DDOD ODOD OODD ODDD DDOO ODOD OODO ODDD
+DOOO OO OOO DDD OOO DDD OOO DDD OOO DDD OOO DDD OOO
 DDD OOO DDD OOO DDD</text>
     </lesson>
     <lesson>
-      <id>1a3e1c90-13d3-4f8f-8ee5-71bf8e9667d9</id>
+      <id>6f834ced-f6fa-4919-8489-9085ca2cbb7a</id>
       <title>69: OD</title>
       <newCharacters/>
-      <text>Die Dabei Die Die Die Org Distributionen Org OS OS
-C OOOO DDDD OOOO DDDD OOOO DDDD OOOO DDDD OOOO DDDD
-OO Das Open Die Dadurch Dabei Die Doppelkreuztaste
-D Das Open Die Dadurch Dabei Die Doppelkreuztaste
-D Diakritikum Diakritika Dazu Dvorak Die De Der NEO
-DD OO DO DD DD OO OD OO DO OD OD DD OO OD OO OO DD
-DD OD OD DO Original Online Dez Dölle Dennis Die
-Datenobjekt Die Dab</text>
+      <text>Die Die Die Org Distributionen Org OS OS ChromeOS
+N OOOO DDDD OOOO DDDD OOOO DDDD OOOO DDDD OOOO DDDD
+OO Dennis Die macOS Das Original Oktober Original
+De Online Dez Dölle Dennis Die Diskussionsseite Dez
+Distributionen Org OS OS ChromeOS NEO Die NEO Open
+OO DO OD OO OO DD DD DO OD DO OO DD OD OD DO OD OD
+OD DO DD OD Deutung Dvorak Deutschen Darin Die Dabei
+Die Die D Die Die</text>
     </lesson>
     <lesson>
-      <id>43f60e91-3a87-4e29-a870-cec58228cf4a</id>
+      <id>d718a848-17b4-4cd7-a1d7-f590325c6dd6</id>
       <title>70: OD</title>
       <newCharacters/>
-      <text>Diese Der Durch Datenschutzrichtlinie Datenschutz
-Die Die Diakritikum Die Die Die Die Die Deutschland
-Das Open Die Dadurch Dabei Die Doppelkreuztaste Die
-Diese Die Die Diakritikum Diakritika Dazu Dvorak
-Die De Der NEO Oops Deutung Dvorak Deutschen Darin
-Die Dabei Die Die Die Org Distributionen Org OS OS
-ChromeOS NEO Die NEO Dennis Die macOS Das Original
-O</text>
+      <text>macOS Das Original Oktober Original Oktober Original
+Oktober Original Oktober macOS NEO Original Online
+Dez Dölle Dennis Die Diskussionsseite Diskussion
+Deutsch Datenobjekt Drucken Druckversion Diese Der
+Durch Datenschutzrichtlinie Datenschutz Die Die
+Diakritikum Die Die Die Die Die Deutschland Das Open
+Die Dadurch Dabei Die Doppelkreuztaste D</text>
     </lesson>
     <lesson>
-      <id>3e762e9d-3cfa-4cf9-9b5e-7b649dc01b67</id>
+      <id>ab58b2a2-5e69-4d4f-a9fd-02fa1af60751</id>
       <title>71: QP</title>
       <newCharacters>QP</newCharacters>
       <text>QQQ PPP QQQ PPP QQQ PPP QQQ PPP QQQ PPP QQQ PPP QQQ
 PPP QP QP QP QP QP QP QP QP QP QP QP QP QP QP QP QP
-QP QP QP QP QP PPPQ QPQP PPPP QPQP QQPP PPQP QQQQ
-QQQP PQPQ PPQQ QQ Q P Q P Q P Q P Q P Q P Q P Q P
+QP QP QP QP QP QPPQ QQPP PQQQ QQQQ PQQP PQQQ PPQP
+QPPQ PPPP PQPP PQ Q P Q P Q P Q P Q P Q P Q P Q P
 Q P Q P Q P Q P Q P Q P Q P Q P Q P Q P Q P Q P Q
 P QPQ PQP QPQ PQP QPQ PQP QPQ PQP QPQ PQP QPQ PQP
-QPQ PQP QPPP QQPP QQPP QQPP PPQQ QPQP QPQP QQPQ PPQQ
-PQPQ QP QQQ PPP QQQ PPP QQQ PPP QQQ PPP QQQ PPP QQQ
+QPQ PQP QQPQ PQQP PPQQ QPQP QPQQ PPPQ PQQP QQQP QPPP
+PPPQ PQ QQQ PPP QQQ PPP QQQ PPP QQQ PPP QQQ PPP QQQ
 PPP QQQ PPP QQQ PPP</text>
     </lesson>
     <lesson>
-      <id>5913f646-f328-4b93-82bd-af8f68522142</id>
+      <id>9feda324-2247-4e5e-ac60-0b68d94cf238</id>
       <title>72: QP</title>
       <newCharacters/>
-      <text>Plattformen Quelltext Plattformen Plattformen QQQQ
+      <text>Programmieren Quelltext Quelltext Plattformen QQQQ
 PPPP QQQQ PPPP QQQQ PPPP QQQQ PPPP QQQQ PPPP QQ
-Quelltext Permanenter Projekten Projekts Pratl
-Philipp Poll Quelltext Präsenz Prokop Pratl Poll
-Quelltext Projekt Quelltext Publikation Prokop PQ
-PQ QP PQ QQ QQ QQ PQ PP PQ PQ PP PQ PQ PP QP PP PQ
-QP PQ QQ Programmierung Position Projekt Projekt
-Pfeile Plattf</text>
+Quelltext Quelltext Pfeile Quelltext Quelltext
+Quelltext Quelltext Plattformen Quelltext Poll Pro
+Quelltext Projekt Quelltext Publikation Pro PQ PQ
+QQ QP QP PQ QQ QP QQ PP PQ PQ QQ QP QP PP QP PP PQ
+QP PP Quelltext Pfeile Quelltext Quelltext Quelltext
+Progra</text>
     </lesson>
     <lesson>
-      <id>4683252e-4b2e-4b12-87e9-af5488afca0d</id>
+      <id>da550e7e-6e5f-4576-bec1-6f9cf39c551e</id>
       <title>73: QP</title>
       <newCharacters/>
-      <text>Pratl Quelltext Position Quelltext Projektseite
-Projektseite Projektseite Projektseite Projekts
-Quelltext Permanenter Projekten Projekts Programmierung
-Position Projekt Projekt Plattformen Quelltext
+      <text>Quelltext Programmieren Quelltext Quelltext Pfeile
 Quelltext Quelltext Programmieren Quelltext Quelltext
-Pfeile Quelltext Quelltext Programmieren Quelltext
-Quelltext Plattformen Pratl</text>
+Plattformen Quelltext Plattformen Projektseite
+Projektes Pro Quelltext Projekt Quelltext Publikation
+Quelltext Philipp Poll Quelltext Präsenz Prokop
+Pratl Quelltext Position Quelltext Projektseite
+Projektseite Projektseite Pratl</text>
     </lesson>
     <lesson>
-      <id>9efaa996-c95c-49dd-b24c-f686153c6779</id>
+      <id>359125dd-ae11-4efb-9223-e62756e62ce5</id>
       <title>74: ÄG</title>
       <newCharacters>ÄG</newCharacters>
       <text>ÄÄÄ GGG ÄÄÄ GGG ÄÄÄ GGG ÄÄÄ GGG ÄÄÄ GGG ÄÄÄ GGG ÄÄÄ
 GGG ÄG ÄG ÄG ÄG ÄG ÄG ÄG ÄG ÄG ÄG ÄG ÄG ÄG ÄG ÄG ÄG
-ÄG ÄG ÄG ÄG ÄG GGÄÄ GGÄG GGÄG ÄGGÄ GÄGÄ ÄGÄÄ GÄGÄ
-GÄÄÄ ÄÄGÄ ÄGGÄ GG Ä G Ä G Ä G Ä G Ä G Ä G Ä G Ä G
+ÄG ÄG ÄG ÄG ÄG ÄÄGÄ ÄGGÄ GÄGG ÄÄÄG GGGG GGÄG GGÄG
+ÄÄÄÄ ÄGÄÄ ÄÄGG GÄ Ä G Ä G Ä G Ä G Ä G Ä G Ä G Ä G
 Ä G Ä G Ä G Ä G Ä G Ä G Ä G Ä G Ä G Ä G Ä G Ä G Ä
 G ÄGÄ GÄG ÄGÄ GÄG ÄGÄ GÄG ÄGÄ GÄG ÄGÄ GÄG ÄGÄ GÄG
-ÄGÄ GÄG ÄÄGG ÄGÄG GGGG GGÄG GÄGG ÄGÄÄ ÄÄÄG ÄÄGÄ GGGÄ
-GÄÄÄ ÄÄ ÄÄÄ GGG ÄÄÄ GGG ÄÄÄ GGG ÄÄÄ GGG ÄÄÄ GGG ÄÄÄ
+ÄGÄ GÄG ÄGGG ÄGÄG ÄGGÄ ÄGGÄ GÄÄÄ GÄGÄ GGÄG GÄÄÄ GÄÄG
+ÄGÄG GÄ ÄÄÄ GGG ÄÄÄ GGG ÄÄÄ GGG ÄÄÄ GGG ÄÄÄ GGG ÄÄÄ
 GGG ÄÄÄ GGG ÄÄÄ GGG</text>
     </lesson>
     <lesson>
-      <id>8fe1329d-64df-47da-9451-cd82386dd60c</id>
+      <id>47fc4639-9195-4785-b182-86c418a17ebd</id>
       <title>75: ÄG</title>
       <newCharacters/>
-      <text>Grazer Goebel Gestaltung Änderungen Änderungen ÄÄÄÄ
+      <text>Guillemets Gleichheit Geschwindigkeit Geschwi ÄÄÄÄ
 GGGG ÄÄÄÄ GGGG ÄÄÄÄ GGGG ÄÄÄÄ GGGG ÄÄÄÄ GGGG ÄÄ
-Goebel Gestaltung Änderungen Änderungen Goebel
 Grundlinie Grundlinie Grundhaltung Gegensatz G
-Gleichheit Geschwindigkeit Geschwindigkeitsv GG ÄÄ
-GÄ GÄ ÄÄ ÄG ÄG ÄÄ ÄG GÄ GG ÄG GÄ ÄG GÄ GÄ GG ÄG GÄ
-ÄG ÄG Änderungen Grundlagen Gboard Grazer Goebel
-Gest Grazer</text>
+Grundhaltung Gegensatz Gr Gravis Gedankenstric Gr
+Gravis Gedankenstrich Guillemets Gleichheit GÄ GG
+GG ÄÄ ÄG GÄ ÄG ÄÄ GG ÄG GÄ GG ÄÄ ÄÄ GG GÄ ÄÄ GG ÄÄ
+ÄÄ GG Grundhaltung Gegensatz Gr Gravis Gedankenstric
+Guille</text>
     </lesson>
     <lesson>
-      <id>7f6f4cf4-5d65-40fc-884d-8eb0589bc6da</id>
-      <title>76: Summary ODQPÄG</title>
+      <id>1ffa299e-4356-47fa-8b4a-39490b8f05ec</id>
+      <title>76: ÄG</title>
+      <newCharacters/>
+      <text>Gegensatz Gr Gravis Gedankenstrich Guillemets
+Gleichheit Geschwindigkeit Geschwindigkeitsvorteil
+Gr Änderungen Grundlagen Gboard Grazer Goebel
+Gestaltung Änderungen Änderungen Gesichtspunkten
+Grundlinie Grundlinie Grundhaltung Gegensatz Gr
+Gravis Gedankenstrich Guillemets Gleichheit
+Geschwindigkeit Geschwindigkeitsvorteil Gr Änd</text>
+    </lesson>
+    <lesson>
+      <id>7694526c-3dff-462b-b573-2880da930114</id>
+      <title>77: Summary ODQPÄG</title>
       <newCharacters/>
       <text>ODQP ÄGOD QPÄG ODQP ÄGOD QPÄG ODQP ÄGOD QPÄG ODQP
-ÄG Die Die Quelltext Die Grundlagen Plattformen Die
-Die Programmierung Position Die Die Die Position QG
-GO GD ÄP PD QD PO QÄ GÄ GÄ PG QP OD DÄ OD OÄ OP PQ
-OD QÄ GQ Die Quelltext Die Diakritikum Gravis
-Diakritika Quelltext Philipp Poll NEO Dennis Die
-macOS macOS DPPG DÄÄG ÄOQG DGOO OGQQ PÄDG POGQ DÄQÄ
-QDOD OPÄQ PP ODQP ÄG</text>
+ÄG Quelltext Gleichheit Pfeile Quelltext Dazu Dazu
+NEO Goebel Original Gestaltung Online Projekts D DO
+ÄP GD QG OQ QÄ OÄ ÄG PQ OP QÄ OD GG PÄ OP QQ DP ÄD
+GO DD GP OS Projektseite OS Projektes ChromeOS Pro
+Gboard Dadurch Grundlinie Grundhaltung Gegensatz
+Dazu GGGG OÄQG ÄDPÄ PQQP PDOP QODD GOQO PÄÄD QÄDD
+PQGO OÄ ODQP ÄG</text>
     </lesson>
     <lesson>
-      <id>55cbd336-7b5f-4d3e-8e8c-20803182de66</id>
-      <title>77: ÖW</title>
+      <id>18d61f69-68bc-493d-b2db-b1d23a6c5aa1</id>
+      <title>78: ÖW</title>
       <newCharacters>ÖW</newCharacters>
       <text>ÖÖÖ WWW ÖÖÖ WWW ÖÖÖ WWW ÖÖÖ WWW ÖÖÖ WWW ÖÖÖ WWW ÖÖÖ
 WWW ÖW ÖW ÖW ÖW ÖW ÖW ÖW ÖW ÖW ÖW ÖW ÖW ÖW ÖW ÖW ÖW
-ÖW ÖW ÖW ÖW ÖW WÖÖÖ WÖWW ÖÖÖW WÖWW WÖÖÖ WWWW WÖWW
-ÖWÖÖ ÖÖÖÖ WWÖÖ WW Ö W Ö W Ö W Ö W Ö W Ö W Ö W Ö W
+ÖW ÖW ÖW ÖW ÖW WÖWÖ ÖWWW ÖWWW WÖÖÖ ÖÖÖÖ ÖÖÖÖ WÖWÖ
+ÖWWW WÖÖW ÖWWW WW Ö W Ö W Ö W Ö W Ö W Ö W Ö W Ö W
 Ö W Ö W Ö W Ö W Ö W Ö W Ö W Ö W Ö W Ö W Ö W Ö W Ö
 W ÖWÖ WÖW ÖWÖ WÖW ÖWÖ WÖW ÖWÖ WÖW ÖWÖ WÖW ÖWÖ WÖW
-ÖWÖ WÖW ÖÖWW WWWW ÖWWÖ ÖÖÖW ÖÖÖÖ ÖWÖW ÖÖÖW ÖWÖÖ WWWÖ
-WWÖW WW ÖÖÖ WWW ÖÖÖ WWW ÖÖÖ WWW ÖÖÖ WWW ÖÖÖ WWW ÖÖÖ
+ÖWÖ WÖW WWÖÖ ÖÖÖW WWÖW WÖWW WWWW ÖÖÖW WÖÖW WÖÖÖ WÖWÖ
+WWÖÖ ÖÖ ÖÖÖ WWW ÖÖÖ WWW ÖÖÖ WWW ÖÖÖ WWW ÖÖÖ WWW ÖÖÖ
 WWW ÖÖÖ WWW ÖÖÖ WWW</text>
     </lesson>
     <lesson>
-      <id>1f2c1f18-aae3-4e7b-a228-2bb92a671128</id>
-      <title>78: ÖW</title>
-      <newCharacters/>
-      <text>Wochen Weg Walter Window Windows Windows Windows
-ÖÖÖÖ WWWW ÖÖÖÖ WWWW ÖÖÖÖ WWWW ÖÖÖÖ WWWW ÖÖÖÖ WWWW
-ÖÖ Weblinks Windows Walter Website Werkzeuge Wikis
-Wege Wikis Weiterhin Wochen Weg Walter Window Weg
-Weg Walter Window Windows Windows Windows Walter ÖW
-WÖ WÖ ÖÖ WW WW ÖÖ WW ÖW WÖ WW WÖ WÖ WÖ WW ÖW ÖÖ WÖ
-ÖÖ ÖÖ WÖ Weitere Werkzeuge Wikidata Weitergabe
-Website W Wochen</text>
-    </lesson>
-    <lesson>
-      <id>2e9f4db6-5eca-4233-ba18-b77cf1e2c564</id>
+      <id>74915127-bcf7-4f95-bf64-0c453caad88f</id>
       <title>79: ÖW</title>
       <newCharacters/>
-      <text>Weg Wege Wikis Weiterhin Wochen Weg Walter Window
-Windows Windows Windows Weblinks Windows Walter
-Website Werkzeuge Weitere Werkzeuge Wikidata Weitergabe
-Website Wikimedia Wikipedia Wikipedia Wikipedia
-Weblinks Wörter Weg Wege Wikis Weiterhin Wochen Weg
-Walter Window Windows Windows Windows Weblinks
-Windows Walter Website Werkzeuge Weitere We</text>
+      <text>Website Wikimedia Wikipedia Wikipedia Weblinks ÖÖÖÖ
+WWWW ÖÖÖÖ WWWW ÖÖÖÖ WWWW ÖÖÖÖ WWWW ÖÖÖÖ WWWW ÖÖ
+Wikidata Weitergabe Website Wikimedia Wikidata Walter
+Website Werkzeuge Weitere Werkzeuge Wege Windows
+Weblinks Windows Walter Website Windows ÖW ÖW ÖW WW
+WW ÖÖ WW ÖÖ ÖÖ WW WÖ WW ÖÖ ÖÖ ÖÖ WÖ ÖÖ ÖW WW ÖW WW
+Weblinks Windows Walter Website Werkzeuge Wikis
+Websit</text>
     </lesson>
     <lesson>
-      <id>2bfe4471-64ed-483f-8a55-e819fb75ee00</id>
-      <title>80: AB</title>
+      <id>59350b44-554d-4109-b57e-13b5dafc1e16</id>
+      <title>80: ÖW</title>
+      <newCharacters/>
+      <text>Windows Weblinks Windows Walter Website Werkzeuge
+Weitere Werkzeuge Wikidata Weitergabe Website
+Wikimedia Wikipedia Wikipedia Wikipedia Weblinks
+Wörter Weg Wege Wikis Weiterhin Wochen Weg Walter
+Window Windows Windows Windows Weblinks Windows
+Walter Website Werkzeuge Weitere Werkzeuge Wikidata
+Weitergabe Website Wikimedia Wikipedia Walter</text>
+    </lesson>
+    <lesson>
+      <id>dff5a304-badf-4a57-9935-ea30f4cb3e6a</id>
+      <title>81: AB</title>
       <newCharacters>AB</newCharacters>
       <text>AAA BBB AAA BBB AAA BBB AAA BBB AAA BBB AAA BBB AAA
 BBB AB AB AB AB AB AB AB AB AB AB AB AB AB AB AB AB
-AB AB AB AB AB BBBB AAAA BBBA BAAB ABAB ABBB AAAB
-BABB BAAB ABAA AA A B A B A B A B A B A B A B A B
+AB AB AB AB AB BBAB BBAA BABB BAAB BABA BBAA AABA
+ABAA ABBB BAAA BA A B A B A B A B A B A B A B A B
 A B A B A B A B A B A B A B A B A B A B A B A B A
 B ABA BAB ABA BAB ABA BAB ABA BAB ABA BAB ABA BAB
-ABA BAB AABB BABB BAAA ABAB BABA BBBB BAAB AABA BAAB
-AAAB BA AAA BBB AAA BBB AAA BBB AAA BBB AAA BBB AAA
+ABA BAB BBAB BAAB AABA BBAA BBAB AAAB BAAA ABAA BBBA
+AABB BB AAA BBB AAA BBB AAA BBB AAA BBB AAA BBB AAA
 BBB AAA BBB AAA BBB</text>
     </lesson>
     <lesson>
-      <id>c4361de2-691d-4176-ad43-b20674215de9</id>
-      <title>81: AB</title>
-      <newCharacters/>
-      <text>Belegungen Behrens Archiv Bundesministerium Bi AAAA
-BBBB AAAA BBBB AAAA BBBB AAAA BBBB AAAA BBBB AA
-Android Arno Abgerufen Beiträge Benutzerkonto A
-Bearbeiten BSD Bestandteil Auch Android Android
-Biologische Bearbeiten Berichte Beispiel Arten AA
-BB AA AA BB BB AB AB AB BB AA AB AA AB BB BB AA AA
-BB BA AB Autoren Bilder Anklicken Bedingungen Ansicht
-Bi Belegu</text>
-    </lesson>
-    <lesson>
-      <id>cc687d6b-851b-4e37-9ec7-65bba1ecf68b</id>
+      <id>2bf6284d-31ab-486c-9115-afe5cf11c236</id>
       <title>82: AB</title>
       <newCharacters/>
-      <text>Abrufstatistik Autoren Bilder Anklicken Bedingungen
-Ansicht Arten Bild Anfang Bindestrich Auf Bereich
-AdNW Anmerkungen Bearbeiten Bearbeiten Anhand
-Buchstaben Buchstaben Aus Buchstaben Beim
-Buchstabenpositionen Anstatt Bearbeiten Beim Bi
-Betriebssysteme Alt Bearbeiten Alphabet Anschlagen
-Akut Breve Beispiel Alphabets Belegung Anklicken</text>
+      <text>Anmerkungen Bearbeiten Bearbeiten Belegung Als AAAA
+BBBB AAAA BBBB AAAA BBBB AAAA BBBB AAAA BBBB AA
+Anhand Buchstaben Buchstaben Aus Buchstaben Aus Anm
+AdNW Bearbeiten AdNW Bearbeiten BSD Belegung Buch
+Als Abrufstatistik Autoren Bilder Alphabet AB BA BA
+AB BB BA AB AA BA AA AA BA BA AB BB BB AB BA BB AA
+BA Ableitungen Biologische Bearbeiten Berichte Bi
+Anmerk</text>
     </lesson>
     <lesson>
-      <id>29029674-855a-4057-8fcc-d893e6b9492b</id>
-      <title>83: UM</title>
+      <id>18641f97-e274-44b6-a332-7356a544e734</id>
+      <title>83: AB</title>
+      <newCharacters/>
+      <text>Bedarf Aufklebern Bearbeiten Breuninger Beitrag
+Anwendern Artikel Anzahl Arbeit Bearbeiten Arno
+Breuninger AdNW Alternative Belegungen Bearbeiten
+Bildern Audiodateien Anmerkungen Bearbeiten Bearbeiten
+Belegung Breuninger AdNW Alternative Belegungen
+Behrens Archiv Bundesministerium Android Arno
+Abgerufen Beiträge Benutzerkonto Bedarf</text>
+    </lesson>
+    <lesson>
+      <id>5242893a-3b88-4f16-b745-9c780c92841e</id>
+      <title>84: UM</title>
       <newCharacters>UM</newCharacters>
       <text>UUU MMM UUU MMM UUU MMM UUU MMM UUU MMM UUU MMM UUU
 MMM UM UM UM UM UM UM UM UM UM UM UM UM UM UM UM UM
-UM UM UM UM UM MMMU UMMU UUMM MUMU MUMU UUUM MUUM
-MUMU UMUU UMMM MU U M U M U M U M U M U M U M U M
+UM UM UM UM UM UUMU MUMM MMMU UUUU MUUM UMMU UMUM
+MMUM MMUU MMUU MU U M U M U M U M U M U M U M U M
 U M U M U M U M U M U M U M U M U M U M U M U M U
 M UMU MUM UMU MUM UMU MUM UMU MUM UMU MUM UMU MUM
-UMU MUM MMUM MUUU UMMU MUUM UMMM UUUU MUMM UMUM MMMU
-MUUU MU UUU MMM UUU MMM UUU MMM UUU MMM UUU MMM UUU
+UMU MUM MUMM MUUU UMMU MUMU UUMU MUMU UUMM MMUU MUMU
+UMUM MM UUU MMM UUU MMM UUU MMM UUU MMM UUU MMM UUU
 MMM UUU MMM UUU MMM</text>
     </lesson>
     <lesson>
-      <id>3d57ee93-10f4-45ad-bac2-bf2a591995e3</id>
-      <title>84: UM</title>
-      <newCharacters/>
-      <text>Mittelfingern Umschalt Umschalt Makron Unicode UUUU
-MMMM UUUU MMMM UUUU MMMM UUUU MMMM UUUU MMMM UU
-Mailinglisten Mai Mirko Mayer Meine Mitmachen Uh
-Umbeschriftung freiesMagazin Mayer Umsteigern Mai
-Mirko Mayer Meine Mitmachen Uhr Urhebern Malt UU MM
-MM MU UM UU MM UU UU MM MU UM MU MM UU MM UU UU MM
-MU UM März Umschalttasten Mac Mac Multiling Multiling
-Mittel</text>
-    </lesson>
-    <lesson>
-      <id>726b8615-b293-4405-bda7-b35f34c341ac</id>
+      <id>ce06dfe8-1bba-48ff-af25-6d8ebbb6bad7</id>
       <title>85: UM</title>
       <newCharacters/>
-      <text>Minute Mailingliste Meier Untersuchungen Untersuchungen
-MARSAN Malt März Umschalttasten Mac Mac Multiling
-Umbeschriftung freiesMagazin Mayer Umsteigern
-Mailinglisten Mai Mirko Mayer Meine Mitmachen Uhr
-Urhebern Mediendateien Möglicherweise Marke Mobile
-Mathematik Untersuchungen Mittelfingern Umschalt
-Umschalt Makron Umstellung Minute</text>
+      <text>Mitmachen Uhr Urhebern Mediendateien Mitmachen UUUU
+MMMM UUUU MMMM UUUU MMMM UUUU MMMM UUUU MMMM UU
+Mediendateien Möglicherweise Marke Mobile Malt
+Mailingliste Meier Untersuchungen Untersuchun Mai
+Mirko Mayer Meine Mitmachen Uhr Urhebern Malt MM UU
+MU UM UU UM UM MM UM UM UU MM UM MM UM UU UM MM UU
+MU MU MARSAN Malt März Umschalttasten Mac Mac Urhebern
+Mitmac</text>
     </lesson>
     <lesson>
-      <id>339f0579-9fe0-4615-912d-7a66a80dfd53</id>
-      <title>86: Summary ÖWABUM</title>
+      <id>d608d950-567b-4e27-8913-bd0a97ab7ae8</id>
+      <title>86: UM</title>
+      <newCharacters/>
+      <text>Mediendateien Möglicherweise Marke Mobile Mathematik
+Untersuchungen Mittelfingern Umschalt Umschalt Makron
+Umstellung Unicode Unter Mathematik Mengen Mit Mit
+Untersuchung Minute Mailingliste Meier Untersuchungen
+Untersuchungen MARSAN Malt März Umschalttasten Mac
+Mac Multiling Umbeschriftung freiesMagazin Mayer
+Umsteigern Mailinglist</text>
+    </lesson>
+    <lesson>
+      <id>ae8332e8-2222-471c-8090-d79f2f9bdae9</id>
+      <title>87: Summary ÖWABUM</title>
       <newCharacters/>
       <text>ÖWAB UMÖW ABUM ÖWAB UMÖW ABUM ÖWAB UMÖW ABUM ÖWAB
-UM Anwendern Artikel Anzahl Arbeit Bearbeiten Arno
-Website Mai Mirko Android Arno Mayer Abgerufen Bi
-MU AB WA AÖ BW WM UU AM BÖ AA BÖ WM UW MM BB WÖ AU
-UB UÖ ÖW ÖM Wege Bearbeiten Umschalt Beim Bi Wikis
-Alphabets Autorenportal Werkzeuge Artikel Wikidata
-Buch A BBWA UMAU AUMA ÖAÖB UMWA ÖMUU ÖWBÖ WABU ÖMWW
-MÖBB WM ÖWAB UM</text>
+UM Belegung Weiterhin Unicode Unter freiesMagazin
+Anschlagen Akut Breve Makron Beispiel Alphabets MU
+MU WÖ BÖ WB BM ÖB MA BÖ UM UW UW WA ÖU AB UA BM ÖA
+WA ÖM AW Berichte Beispiel Anschlägen Minute Wochen
+Malt Umbeschriftung Aufklebern Bearbeiten Weblinks
+AUUB BBAÖ WÖAÖ UUWA AWÖU BMBM MBÖA MMUU MÖAM WÖBW
+WW ÖWAB UM</text>
     </lesson>
     <lesson>
-      <id>95e0f5f5-5b50-40ba-bc8c-97d515ceedaa</id>
-      <title>87: Ü</title>
+      <id>d99914c4-24b1-4f9b-92d0-2b0a03c3224c</id>
+      <title>88: Ü</title>
       <newCharacters>Ü</newCharacters>
       <text>ÜÜÜ ÜÜÜ ÜÜÜ ÜÜÜ ÜÜÜ ÜÜÜ ÜÜÜ ÜÜÜ ÜÜÜ ÜÜÜ ÜÜÜ ÜÜÜ ÜÜÜ
 ÜÜÜ ÜÜ ÜÜ ÜÜ ÜÜ ÜÜ ÜÜ ÜÜ ÜÜ ÜÜ ÜÜ ÜÜ ÜÜ ÜÜ ÜÜ ÜÜ ÜÜ
@@ -1155,47 +1166,47 @@ MÖBB WM ÖWAB UM</text>
 ÜÜÜ ÜÜÜ ÜÜÜ ÜÜÜ ÜÜÜ</text>
     </lesson>
     <lesson>
-      <id>5b783e72-4c24-4b38-8f63-7088221eb1ef</id>
-      <title>88: YL</title>
+      <id>3a94ce9e-319f-4db6-afb6-55deb575c6fd</id>
+      <title>89: YL</title>
       <newCharacters>YL</newCharacters>
       <text>YYY LLL YYY LLL YYY LLL YYY LLL YYY LLL YYY LLL YYY
 LLL YL YL YL YL YL YL YL YL YL YL YL YL YL YL YL YL
-YL YL YL YL YL LYLL LLYL YYYY YLLY YLLL YYLY YYYL
-YYLL LYYL LLLL YY Y L Y L Y L Y L Y L Y L Y L Y L
+YL YL YL YL YL YYYY LLLL LYLY LYYL YYYL YYYL LYYY
+LLLL YLYL YLYL LL Y L Y L Y L Y L Y L Y L Y L Y L
 Y L Y L Y L Y L Y L Y L Y L Y L Y L Y L Y L Y L Y
 L YLY LYL YLY LYL YLY LYL YLY LYL YLY LYL YLY LYL
-YLY LYL LLYY YYYL YYYY YYLL LLLY YYYL YYLY LLLY LYYL
-LLLL LL YYY LLL YYY LLL YYY LLL YYY LLL YYY LLL YYY
+YLY LYL LYLL LYYY LLLY LLLY YYYY LYLL LYYL YYYL LLLY
+LYYY LY YYY LLL YYY LLL YYY LLL YYY LLL YYY LLL YYY
 LLL YYY LLL YYY LLL</text>
     </lesson>
     <lesson>
-      <id>37e5f9c6-f136-4136-846c-75a7c1b5d46f</id>
-      <title>89: YL</title>
-      <newCharacters/>
-      <text>Leopoldshafen CentralAutoLogin Lesen Letzte Li YYYY
-LLLL YYYY LLLL YYYY LLLL YYYY LLLL YYYY LLLL YY
-Layout QWERTY Literatur LinuxUser Lage Linux Luk
-Logo Löschen Leerzeichen Libre Lizenzen Löschen
-Layouts Logik Layouts Layout Linux Linux Linux Le
-LY YY LL LL YL YL LY YY YL YY LY LL LY YY YY LL YL
-YY LL LL LY Letzte Links Link Links Lizenz Lizenzstatus
-Logo Leopol</text>
-    </lesson>
-    <lesson>
-      <id>f117c59d-da85-4754-a7b4-4a4987686646</id>
+      <id>5ead658d-ddca-4d8e-b2c1-accd29f706df</id>
       <title>90: YL</title>
       <newCharacters/>
-      <text>Linuxtage Lizenzinformationen Lage Linux Layout
-Leopoldshafen CentralAutoLogin Lesen Letzte Links
-Link Links Lizenz Lizenzstatus Logo Löschen Leerzeichen
-Libre Lizenzen Literatur Layout Layouts Logik Layouts
-Layout Linux Linux Linux Lernsoftware Linux Lernsoftware
-Layout QWERTY Literatur LinuxUser Lage Linux Lukas
-Linuxtage Leopoldshafen</text>
+      <text>Layout Linux Linux Linux Lernsoftware Linux Lage
+YYYY LLLL YYYY LLLL YYYY LLLL YYYY LLLL YYYY LLLL
+YY Links Lizenz Lizenzstatus Logo Löschen Lizenzen
+Linuxtage Lizenzinformationen Lage Linux Linux Logik
+Layouts Layout Linux Linux Linux Literatur YL LL LL
+YL LL LY YY LL LL YL YY LY LL YL LY YY YY LY YY YY
+YL Literatur LinuxUser Lage Linux Lukas Linuxtage
+L Layout</text>
     </lesson>
     <lesson>
-      <id>409d11d4-e3d4-46bb-9d11-b21df730cc39</id>
-      <title>91: X</title>
+      <id>ff30d227-9da8-4eeb-aae8-830b5a635c1e</id>
+      <title>91: YL</title>
+      <newCharacters/>
+      <text>QWERTY Literatur LinuxUser Lage Linux Lukas Linuxtage
+Lizenzinformationen Lage Linux Layout Leopoldshafen
+CentralAutoLogin Lesen Letzte Links Link Links Lizenz
+Lizenzstatus Logo Löschen Leerzeichen Libre Lizenzen
+Literatur Layout Layouts Logik Layouts Layout Linux
+Linux Linux Lernsoftware Linux Lernsoftware Layout
+QWERTY Literatur Löschen</text>
+    </lesson>
+    <lesson>
+      <id>d89d14ac-64fa-4ee0-9f60-79901ee7c44b</id>
+      <title>92: X</title>
       <newCharacters>X</newCharacters>
       <text>XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
 XXX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX XX
@@ -1208,99 +1219,99 @@ XXXX XX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
 XXX XXX XXX XXX XXX</text>
     </lesson>
     <lesson>
-      <id>30245c65-ae78-45f8-ad73-4fd7143e7dd3</id>
-      <title>92: Summary ÜYLX</title>
+      <id>0789cb02-9f7b-4f70-a6ea-bfea3e72aca8</id>
+      <title>93: Summary ÜYLX</title>
       <newCharacters/>
       <text>ÜYLX ÜYLX ÜYLX ÜYLX ÜYLX ÜYLX ÜYLX ÜYLX ÜYLX ÜYLX
-ÜY Literatur LinuxUser XeLaTeX TeXnische Lage Lage
-Layout Linux Linux Linux Lernsoftware Linux Lage LL
-LL ÜX XX YÜ XL YY ÜL ÜL XY YL XL YÜ YÜ YÜ ÜX XÜ LÜ
-XY YX YÜ TeXnische TeX Literatur LinuxUser XeLaTeX
-Linux TeX Literatur LinuxUser XeLaTeX TeXnische Lage
-L YXYÜ YYLÜ YXLX XLÜX LLYY YÜLL XYÜX XÜXL LÜYL ÜÜXÜ
+ÜY Lernsoftware Linux Lernsoftware Layout QWERTY T
+Lizenzstatus Über Logo Löschen Leerzeichen Über XY
+ÜÜ YL XY YY XÜ XY XÜ ÜL XÜ ÜY LY YL XÜ LL LY XÜ XL
+LÜ XL YÜ Linux Linux Linux Lernsoftware Linux
+Lernsoftwa Lage Linux Lukas Linuxtage Lizenzinformationen
+XYYÜ ÜYLY XXYX LXXY LLÜÜ XXÜX YÜÜL XLÜL ÜÜLL YYYL
 YÜ ÜYLX ÜY</text>
     </lesson>
     <lesson>
-      <id>23a4b2f7-3825-4560-ad26-1b278eb76595</id>
-      <title>93: ZF</title>
+      <id>1289d2f3-3e1d-45a9-b581-2c39f1ee34df</id>
+      <title>94: ZF</title>
       <newCharacters>ZF</newCharacters>
       <text>ZZZ FFF ZZZ FFF ZZZ FFF ZZZ FFF ZZZ FFF ZZZ FFF ZZZ
 FFF ZF ZF ZF ZF ZF ZF ZF ZF ZF ZF ZF ZF ZF ZF ZF ZF
-ZF ZF ZF ZF ZF FFZZ ZFZZ FFZZ FZFF FFZZ ZZZZ ZZFZ
-ZFZF FFFF FFZF FZ Z F Z F Z F Z F Z F Z F Z F Z F
+ZF ZF ZF ZF ZF ZFZZ ZZFF FFFF FZFF ZZFF ZZZZ ZFZF
+FFZZ FFZF ZZZF FZ Z F Z F Z F Z F Z F Z F Z F Z F
 Z F Z F Z F Z F Z F Z F Z F Z F Z F Z F Z F Z F Z
 F ZFZ FZF ZFZ FZF ZFZ FZF ZFZ FZF ZFZ FZF ZFZ FZF
-ZFZ FZF ZZZZ FFFF FZFZ ZZZF ZZFF ZZFF ZFFF FZFZ FZFF
-ZFZZ ZF ZZZ FFF ZZZ FFF ZZZ FFF ZZZ FFF ZZZ FFF ZZZ
+ZFZ FZF ZZZZ FFFF FZZZ ZFFZ ZZFZ FFFF ZFZF ZZZZ FFFF
+FZZF ZF ZZZ FFF ZZZ FFF ZZZ FFF ZZZ FFF ZZZ FFF ZZZ
 FFF ZZZ FFF ZZZ FFF</text>
     </lesson>
     <lesson>
-      <id>a671e927-6393-4350-b8b3-534e14b13de9</id>
-      <title>94: ZF</title>
+      <id>efff7011-065c-4489-a566-e8f136523efe</id>
+      <title>95: ZF</title>
       <newCharacters/>
-      <text>Zeichenvielfalt FLOSS Free Zehnfingerschreibe ZZZZ
+      <text>Zeichentabelle Zeichen Zeitungen Formelsatz Ze ZZZZ
 FFFF ZZZZ FFFF ZZZZ FFFF ZZZZ FFFF ZZZZ FFFF ZZ
-Fingerbewegungen Zeige Finger QWERTZ QWERTZ Für
-Frank Zeichenvielfalt Finger Zehnfingersystem Finger
-Forschungsbericht Forschung Zufälliger ZZ ZF ZF ZF
-FF ZZ ZF ZF ZZ FF ZF ZF FF ZZ FZ FF FF FZ ZZ ZF ZF
-Zeichen Folge Zusätzlich Zeichen Zeichen QWERTZ
+Zeile Zeichen Formelsatz Ziel Zehnfingertippen
+Formelsatz Zeichen Folge Zusätzlich Zeichen Für Zur
+Zeichen Fontane Farben Finger Zehnfingersys ZF FF
+ZF ZF FZ FF ZF ZZ FZ FZ ZZ ZF ZF ZZ FZ ZZ FF FF ZZ
+FF ZF FlorisBoard QWERTZ Fachzeitschrift Fazit Frank
 Zeiche</text>
     </lesson>
     <lesson>
-      <id>94fb178d-15b7-4e57-90a3-c5e33e0aebd5</id>
-      <title>95: ZF</title>
+      <id>53e8cc19-960c-48a8-985a-60f3a0754521</id>
+      <title>96: ZF</title>
       <newCharacters/>
-      <text>Finger QWERTZ QWERTZ Ziel QWERTZ Feststelltaste
-QWERTZ Ziffernblock Zeichen Zeichenvielfalt Zeichen
-Zirkumflex Zeichen Zusammen Zeichen Zeichen
-Zeichentabelle Zeichen Zeitungen Formelsatz Zeichen
-Folge Zusätzlich Zeichen Zeichen Fingerbewegung Ziel
-QWERTZ QWERTZ Feststelltaste QWERTZ Zusätzlich Für
-FlorisBoard QWERTZ Fachzeitschrift F</text>
+      <text>Zehnfingerschreibens Zeichenvielfalt Zehnfingerschreibens
+Fingerbewegungen Zeige Finger QWERTZ QWERTZ Ziel
+QWERTZ Feststelltaste QWERTZ Ziffernblock Zeichen
+Zeichenvielfalt Zeichen Zirkumflex Zeichen Zusammen
+Zeichen Zeichen Zeichentabelle Zeichen Zeitungen
+Formelsatz Zeichen Folge Zusätzlich Zeichen Zeichen
+Fingerbewegung Ziel QW</text>
     </lesson>
     <lesson>
-      <id>9e078bbe-7f76-4b07-8747-59d6a5d0d757</id>
-      <title>96: VK</title>
+      <id>dcc6c44a-8430-4d0c-bf8a-733d9cf0a1ad</id>
+      <title>97: VK</title>
       <newCharacters>VK</newCharacters>
       <text>VVV KKK VVV KKK VVV KKK VVV KKK VVV KKK VVV KKK VVV
 KKK VK VK VK VK VK VK VK VK VK VK VK VK VK VK VK VK
-VK VK VK VK VK VKVV VVKV KKKV KVKK KKVV KVVV VKKV
-VKKV VVVK KKKK VK V K V K V K V K V K V K V K V K
+VK VK VK VK VK KKVK KKVK KKKV KVKV VKKV VVVV KVKV
+VVKV VVKK KVVK KV V K V K V K V K V K V K V K V K
 V K V K V K V K V K V K V K V K V K V K V K V K V
 K VKV KVK VKV KVK VKV KVK VKV KVK VKV KVK VKV KVK
-VKV KVK VKVV KVKV VKKV KKVK KKKV KVKV VVVK VKVV VKKK
+VKV KVK KKVK VVVK VVVK VVVK KVKK KKKV KVVV KKVK KVVK
 VKKK VV VVV KKK VVV KKK VVV KKK VVV KKK VVV KKK VVV
 KKK VVV KKK VVV KKK</text>
     </lesson>
     <lesson>
-      <id>ad6aca8b-7dc5-45f5-9d0e-b19c9c2b586b</id>
-      <title>97: VK</title>
-      <newCharacters/>
-      <text>Videos Video Vortrags Vergleich Vorteile DV Vers
-VVVV KKKK VVVV KKKK VVVV KKKK VVVV KKKK VVVV KKKK
-VV Variante Verfügung KTouch AnySoftKeyboard Keyb
-Verfügung KTouch AnySoftKeyboard Keyboard Keyb
-Verfügung KTouch AnySoftKeyboard Keyboard Keyb KV
-VV VK KK VK KV VK VK KV KV VK KV KK KV KV VK VK VV
-KK VK VV Version Version Variante Verfügung KTouch
-Kluge Videos</text>
-    </lesson>
-    <lesson>
-      <id>2d7936f8-deb2-442b-b915-b5f6958e05c2</id>
+      <id>24eda1c9-5e74-4baf-adec-3120d681786e</id>
       <title>98: VK</title>
       <newCharacters/>
-      <text>Veröffentlichungen Konzept Verfügbarkeit Konzept
-Verteilung Vergleich Klein Kommandozeile Kritik Vim
-Klein Kombinationen Konstanten Verkürzung Version
-Versuche Klammern Version Version Variante Verfügung
-KTouch AnySoftKeyboard Keyboard Keyboard Verfügbarkeit
-Komödie Varianten Kluge Komödie Videos Video Vortrags
-Vergleich Vorteile DV V</text>
+      <text>Kluge Komödie Videos Video Vortrags Vergleich DV
+VVVV KKKK VVVV KKKK VVVV KKKK VVVV KKKK VVVV KKKK
+VV Keyboard Keyboard Verfügbarkeit Komödie Videos
+Komödie Varianten Kluge Komödie Videos Video Vim
+Vorteile DV Versionsverwaltung Kommentar Kluge KV
+VK VV KK KK KK KK KK VV VV VV VK KK VV VK VK VK KV
+VK VV KV Klein Kombinationen Konstanten Verkürzung
+Vers Kluge K</text>
     </lesson>
     <lesson>
-      <id>55212c8a-550f-4140-82dc-f8eb0add853b</id>
-      <title>99: J</title>
+      <id>a94e04ef-a568-4a40-9195-197813ac73ad</id>
+      <title>99: VK</title>
+      <newCharacters/>
+      <text>Version Variante Verfügung KTouch AnySoftKeyboard
+Keyboard Keyboard Verfügbarkeit Komödie Varianten
+Kluge Komödie Videos Video Vortrags Vergleich Vorteile
+DV Versionsverwaltung Kommentar Versionsverwaltung
+Kommentar Kluge Komödie Kategorien Versionsgeschichte
+Kontakt Kurzlink Videos Verhaltenskodex Kreis Klammern
+Kleinbuchstaben DV</text>
+    </lesson>
+    <lesson>
+      <id>9d261383-0088-4e89-bc91-48851c862981</id>
+      <title>100: J</title>
       <newCharacters>J</newCharacters>
       <text>JJJ JJJ JJJ JJJ JJJ JJJ JJJ JJJ JJJ JJJ JJJ JJJ JJJ
 JJJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ JJ
@@ -1313,554 +1324,554 @@ JJJJ JJ JJJ JJJ JJJ JJJ JJJ JJJ JJJ JJJ JJJ JJJ JJJ
 JJJ JJJ JJJ JJJ JJJ</text>
     </lesson>
     <lesson>
-      <id>36f2ca97-8e81-43ac-b60c-edbcd9a0f310</id>
-      <title>100: Summary ZFVKJ</title>
+      <id>4d3e4329-2b93-4045-9ecc-2b4c8eab82ea</id>
+      <title>101: Summary ZFVKJ</title>
       <newCharacters/>
       <text>ZFVK JZFV KJZF VKJZ FVKJ ZFVK JZFV KJZF VKJZ FVKJ
-ZF Für AnySoftKeyboard Keyboard FlorisBoard Jurek
-Fachzeitschrift Jahr Fazit Jahren Komödie Fazit KV
-FJ KV ZZ FV VV FV JJ ZK ZJ JF ZJ KJ FZ VZ FK ZF KV
-KK FZ FJ Vorteile Januar Januar Januar Jurek Juli
-Juli PDF Fazit Jahren Komödie Varianten Frank Kluge
-Fazit FFZK VFJK KKZF VZFJ ZVFJ KKZJ KJFV FVZV ZZJV
-VJZK JF ZFVK JZ</text>
+ZF Kreis Klammern Ziffernblock Zeile Ziffernblock
+Kreis Klammern Ziffernblock Zeile Ziffernblock ZV
+KF ZZ JK KV JZ VZ VF ZK ZK JV VF ZV FF FK FJ VF ZF
+KJ JJ JK Forschung Forschungsbericht DV Feststelltaste
+Zur Zur Zeichen Fontane Farben Finger Formelsatz
+JKVZ FZJJ JFFV JVVK ZVFF KFJZ FZKK JVFF KZKZ VJKV
+ZZ ZFVK JZ</text>
     </lesson>
     <lesson>
-      <id>46caba72-a4bc-45cd-afb5-1a72f05ab593</id>
-      <title>101: }(</title>
+      <id>75b15503-617d-4d0d-91b9-86d7737af538</id>
+      <title>102: }(</title>
       <newCharacters>}(</newCharacters>
       <text>}}} ((( }}} ((( }}} ((( }}} ((( }}} ((( }}} ((( }}}
 ((( }( }( }( }( }( }( }( }( }( }( }( }( }( }( }( }(
-}( }( }( }( }( (((} }}}} }(}( }}(} }((} (((( }}}(
-}((( }((} (}(} }( } ( } ( } ( } ( } ( } ( } ( } (
+}( }( }( }( }( }}}( }(}( (((} (}(( }}}( }((( }}((
+}}(} (((} }}}( }( } ( } ( } ( } ( } ( } ( } ( } (
 } ( } ( } ( } ( } ( } ( } ( } ( } ( } ( } ( } ( }
 ( }(} (}( }(} (}( }(} (}( }(} (}( }(} (}( }(} (}(
-}(} (}( }}(( }}}} }((( (((} ((}} }}(( }}}} }((( }(((
-}(}} (( }}} ((( }}} ((( }}} ((( }}} ((( }}} ((( }}}
+}(} (}( (}(( }(}( }}}( }}(} (}(( ((}( }}}} }(}} (}(}
+(((( }( }}} ((( }}} ((( }}} ((( }}} ((( }}} ((( }}}
 ((( }}} ((( }}} (((</text>
     </lesson>
     <lesson>
-      <id>405c6657-8484-410f-99b8-afb86d515eb9</id>
-      <title>102: }(</title>
-      <newCharacters/>
-      <text>}Tastaturbelegung Ergonomie( (Abrufstatistik }}}}
-(((( }}}} (((( }}}} (((( }}}} (((( }}}} (((( }} (Neo
-Belegung( In} Neo} Projektseite( Belegung( (als
-FLOSS( Projekt( }Free }Libre }Open }Source S
-}bearbeiten Neo( (besitzt insgesamt( }sechs }Bi }(
-(} }} (( (} }( }( }} (( }( }} (( }} (( (( }} }} }(
-(} }( (( (Tastaturbelegung Wikipedia} (Neo Navigation(
-}Tasta</text>
-    </lesson>
-    <lesson>
-      <id>bf4cf7a6-3039-443f-81e0-1af4d1bef733</id>
+      <id>0aabe21a-8d8d-4e40-b747-03e4ed3bfe46</id>
       <title>103: }(</title>
       <newCharacters/>
-      <text>einen( Ziffernblock} und( wichtige} Navigationstasten}
-so} dass} man} die} }Hände zum( Navigieren} in}
-(einem }Textdokument nicht( }vom (Hauptfeld (nehmen
-(muss Indem} (Neo }die }Navigationstasten auf( (dem
-Hauptfeld( erreichbar( }macht begegnet} (es (auch
-der( (an }Reformtastaturen (Kritik dass} }Texteditoren
-wie} Vim( schwieriger( einen(</text>
+      <text>(Keyboard }Helper Pro( ermöglicht} }die }Helper }}}}
+(((( }}}} (((( }}}} (((( }}}} (((( }}}} (((( }}
+(Nutzergemeinschaft entwickelt} (und (baut }in
+}Zeichen ein( }erzeugt Zusammen( (mit }der (kann
+(auch (das }Ziel verfolgt} (die }Berücksichtigt }(
+(( (} (( }( (} }} }( (( (} }} (} }( (( }( (} }} }}
+(( }} (} Klammern} und( Sonderzeichen( auf} dem}
+}welche (Keybo</text>
     </lesson>
     <lesson>
-      <id>90861c09-75cc-437a-82cc-48556308c2cb</id>
-      <title>104: {)</title>
+      <id>c06dcb85-be8f-456b-b6e8-119375048684</id>
+      <title>104: }(</title>
+      <newCharacters/>
+      <text>alle} seine( }Veröffentlichungen (freien (Lizenzen
+Inhaltsverzeichnis( Konzept} Erleichtern( des(
+Zehnfingerschreibens} }Ebenen (Zeichenvielfalt }und
+}Typografie (Mathematik und( Spezialzeichen(
+Schreibgeschwindigkeit} Entstehungsgeschichte( Neo(
+}AdNW }Plattformen }Verfügbarkeit Rezeption} }Literatur
+Weblinks} Anmerkungen( }</text>
+    </lesson>
+    <lesson>
+      <id>85f6398e-daa5-4b1e-85b2-27c397a8d5fe</id>
+      <title>105: {)</title>
       <newCharacters>{)</newCharacters>
       <text>{{{ ))) {{{ ))) {{{ ))) {{{ ))) {{{ ))) {{{ ))) {{{
 ))) {) {) {) {) {) {) {) {) {) {) {) {) {) {) {) {)
-{) {) {) {) {) )))) ){{{ {{)) ){{{ ){){ {{)) ){){
-{))) {)){ {){{ {) { ) { ) { ) { ) { ) { ) { ) { )
+{) {) {) {) {) {){{ {{){ {){) {)){ {){{ {))) ))))
+))){ {{{{ ){{) )) { ) { ) { ) { ) { ) { ) { ) { )
 { ) { ) { ) { ) { ) { ) { ) { ) { ) { ) { ) { ) {
 ) {){ ){) {){ ){) {){ ){) {){ ){) {){ ){) {){ ){)
-{){ ){) )){) {))) {{{) ){{{ {)){ ){){ )))) ){{) {){{
-{)){ {{ {{{ ))) {{{ ))) {{{ ))) {{{ ))) {{{ ))) {{{
+{){ ){) {{)) ){){ ){{) )))) {{{) )){{ {){) {))) {{){
+){){ {{ {{{ ))) {{{ ))) {{{ ))) {{{ ))) {{{ ))) {{{
 ))) {{{ ))) {{{ )))</text>
     </lesson>
     <lesson>
-      <id>d44dfc70-2b0c-443c-8df2-31a1934b2144</id>
-      <title>105: {)</title>
-      <newCharacters/>
-      <text>Schreiben) {praktisch )aller Sprachen) mit) zu) {{{{
-)))) {{{{ )))) {{{{ )))) {{{{ )))) {{{{ )))) {{
-{Informationen zu{ den{ Urhebern{ und{ {zum den{
-Das) Neo) )Projekt )sieht )sich selbst) )als Das)
-entspricht) und{ {der )Taste welche) unter{ und{ ){
-)) {{ ){ ){ {) {) {{ {) {{ ){ )) {{ {{ )) )) )) {{
-{) )) {) {auch )die Einprägsamkeit) der{ )Sonderzeichen
-Schrei</text>
-    </lesson>
-    <lesson>
-      <id>341a961b-3485-4d9c-af27-610dc90b8276</id>
+      <id>1f397542-6ebb-4460-b223-e4e57e06662d</id>
       <title>106: {)</title>
       <newCharacters/>
-      <text>)von Umsteigern) )In {Neo )Projektseite archiviert)
-)vom Original) am) {Januar )abgerufen {am Oktober{
-)Jurek )Breuninger In{ bester{ {Lage Neo) und{ )AdNW
-{Alternative Belegungen{ )für Standardtastaturen)
-{unter Windows{ )Linux und{ macOS{ )In Hanno{ {Behrens
-NEO) )Layout {In {Mailinglisten )Archiv )de {ergo
-Goebel) )Consult {Juli Original)</text>
+      <text>Neo) Projektseite) )archiviert vom) )Original ) {{{{
+)))) {{{{ )))) {{{{ )))) {{{{ )))) {{{{ )))) {{
+)schnell )einprägsamen {Anordnung der) )Tasten
+)Umstellung )der Belegung) )Weiterhin {wurden s
+)eine )ideale )Belegung {allein über) )Belegung {)
+)) )) ){ )) {{ {) {{ {) )) {{ {{ )) {{ {{ {{ ){ {{
+)) )) )) {Nutzung )mit {externen {Tastaturen )Multiling
+Neo) Pr</text>
     </lesson>
     <lesson>
-      <id>812a729d-d022-4cd2-ae52-72ede33f216a</id>
-      <title>107: /-</title>
+      <id>02db00c3-0578-4542-a62f-7545c17a8f72</id>
+      <title>107: {)</title>
+      <newCharacters/>
+      <text>einen) Ziffernblock) {und wichtige) )Navigationstasten
+{so )dass man) die{ Hände{ zum{ Navigieren) {in
+einem{ Textdokument{ {nicht vom{ )Hauptfeld )nehmen
+muss) {Indem {Neo die{ )Navigationstasten auf) dem)
+)Hauptfeld erreichbar{ {macht )begegnet {es auch{
+{der )an Reformtastaturen{ Kritik{ dass{ )Texteditoren
+)wie {Vim schwieriger) einen)</text>
+    </lesson>
+    <lesson>
+      <id>06bf4c3f-fccd-4caa-bc73-45b965242e8a</id>
+      <title>108: /-</title>
       <newCharacters>/</newCharacters>
       <text>/// --- /// --- /// --- /// --- /// --- /// --- ///
 --- /- /- /- /- /- /- /- /- /- /- /- /- /- /- /- /-
-/- /- /- /- /- -/// -/-- /--/ /--/ ///- -/// -//-
----- -/-- /-// -/ / - / - / - / - / - / - / - / -
+/- /- /- /- /- --/- ---- //-/ ///- /-// -/-/ --//
+-/-/ /-/- ---/ // / - / - / - / - / - / - / - / -
 / - / - / - / - / - / - / - / - / - / - / - / - /
 - /-/ -/- /-/ -/- /-/ -/- /-/ -/- /-/ -/- /-/ -/-
-/-/ -/- /--/ -//- -/// ---- ///- -/-- //// --// /---
-/-/- /- /// --- /// --- /// --- /// --- /// --- ///
+/-/ -/- --// /-/- -/-- -/// ---/ /--- -/// /--/ //--
+//// -- /// --- /// --- /// --- /// --- /// --- ///
 --- /// --- /// ---</text>
     </lesson>
     <lesson>
-      <id>4ee4a0ad-e0b8-4d7d-a067-7719134863da</id>
-      <title>108: /-</title>
-      <newCharacters/>
-      <text>/dieser /Ebene wurden- /Bi und- Trigramme- /beim
-//// ---- //// ---- //// ---- //// ---- //// ----
-// häufig/ /gebraucht /werden Die/ -vierte -Ebene
-- /ermöglicht -die -Nutzung mit/ externen/ /nicht
-/Tippgeschwindigkeit -von Anschlägen- pro/ De/ -/
--/ -- // -- /- // -/ -/ // -/ // /- -/ // /- -- --
--- -/ /- /beschreiten -greift Neo- Erkenntnisse/
--diese /diese</text>
-    </lesson>
-    <lesson>
-      <id>21e31dca-f8c4-41f7-b15b-59382ddb283d</id>
+      <id>ba3b869a-9589-40f7-9dee-69c3053aba1b</id>
       <title>109: /-</title>
       <newCharacters/>
-      <text>/Bearbeiten /Quelltext bearbeiten/ -Die /Tastaturbelegung
-AdNW- der- -Neo wurde- -von Teilen- /der -Neo
-Nutzergemeinschaft- entwickelt- -und baut-
--softwaretechnisch /auf Neo- auf/ -unterscheidet
-sich- /in /der /Tastenanordnung -aufgrund -anderer
--algorithmischer Grundlagen/ jedoch/ grundsätzlich/
-von/ Neo- /Seit /ist /auch dieses- -Die</text>
+      <text>später- /wurde die/ /Deutung auf/ -Neo Belegung-
+//// ---- //// ---- //// ---- //// ---- //// ----
+// /bis /drei /Wochen Entstehungsgeschichte- /bis
+/Ergonomie und- Zeichenvielfalt- /In /Die /Lage
+-Eine kommerziell- angefertigte/ Tastatur- im/ //
+// // -- /- /- -/ -- -- /- -/ -/ /- -/ // /- /- -/
+-- // -- fünf- -und /sechs /erreicht man/ die/
+benötigte/ später</text>
     </lesson>
     <lesson>
-      <id>ae4239e1-4985-4d84-98b4-e1f9b9ce25b2</id>
-      <title>110: Summary }({)/-</title>
+      <id>39917611-597a-424b-8b80-381127950d0d</id>
+      <title>110: /-</title>
+      <newCharacters/>
+      <text>kombiniert/ Neo/ -die Erkenntnisse/ beider- /Wege
+mit/ -dem -Ziel sowohl/ -die -Ergonomie als/ /auch
+/die /Einprägsamkeit /der -Tastaturbelegung zu/
+verbessern/ Ebenen/ Bearbeiten- Quelltext/ bearbeiten-
+Neo- besitzt- insgesamt/ /sechs Ebenen- -Dabei
+/entsprechen /die ersten- beiden- -Ebenen den/
+-deutschen /Klein und/ und- /sind wie/ bei- ü</text>
+    </lesson>
+    <lesson>
+      <id>81c79cba-2051-48ef-aa37-3856327681b8</id>
+      <title>111: Summary }({)/-</title>
       <newCharacters/>
       <text>}({) /-}( {)/- }({) /-}( {)/- }({) /-}( {)/- }({)
-/- mit- /Neo somit- {griechische sowie( Zeichen} de
-}Rautetaste {entspricht )und )der }Taste }Taste }-
-}- /( )/ {/ }( }) -{ ){ }) -) ({ // (( }/ )- (/ -(
-}{ ){ -{ {Zehnfingertippen sowie/ }eine Verfügbarkeit}
-Sonderzeichen/ /die -Arbeit }mit modernen) TeX- (/))
-}-{/ (/{- )-{{ /{(} /)-- -}-} (({/ }){} )((} )/ }({)
-/-</text>
+/- /Projekts )Versionsverwaltung bei/ Kommentar{
+bisher/ (jedoch }keine (wissenschaftliche {die }}
+)- {) -/ // }) }- }( /{ )- )} {( {( (- }- /( {) /)
+{- (/ {( archiviert- vom/ Original) )am Januar{
+(Oktober allein) über} /Algorithmen berechnen/ (zu
+über} ()-( }/({ //}) {/() {){( -}/( })}- }-/- {-)(
+}/{- ){ }({) /-</text>
     </lesson>
     <lesson>
-      <id>dda61c90-e41b-4835-9d8b-5c0bfec56b27</id>
-      <title>111: \:</title>
+      <id>09686673-e72f-4efe-a0a1-c4091d7b5e61</id>
+      <title>112: \:</title>
       <newCharacters>\:</newCharacters>
       <text>\\\ ::: \\\ ::: \\\ ::: \\\ ::: \\\ ::: \\\ ::: \\\
 ::: \: \: \: \: \: \: \: \: \: \: \: \: \: \: \: \:
-\: \: \: \: \: ::\: :\\\ \\\\ \:\: ::\: :\:\ ::\\
-\::\ \\:: ::\: :\ \ : \ : \ : \ : \ : \ : \ : \ :
+\: \: \: \: \: \\\\ :::: ::\: :::\ :\:\ \\\\ ::::
+\\:: \\\\ ::\: \\ \ : \ : \ : \ : \ : \ : \ : \ :
 \ : \ : \ : \ : \ : \ : \ : \ : \ : \ : \ : \ : \
 : \:\ :\: \:\ :\: \:\ :\: \:\ :\: \:\ :\: \:\ :\:
-\:\ :\: \\:\ \\\: \::: \::\ :\:: \:\\ :\\\ ::\: \\::
-\:\: :: \\\ ::: \\\ ::: \\\ ::: \\\ ::: \\\ ::: \\\
+\:\ :\: \\:: :\\: :::: ::\\ :\\\ \\\\ \\\: :::: :\:\
+::\\ :\ \\\ ::: \\\ ::: \\\ ::: \\\ ::: \\\ ::: \\\
 ::: \\\ ::: \\\ :::</text>
     </lesson>
     <lesson>
-      <id>1248be3b-d364-440e-ae74-2a1943b434c2</id>
-      <title>112: \:</title>
-      <newCharacters/>
-      <text>Name: \Neo :ist ein: rekursives: Akronym\ und\ \s
-\\\\ :::: \\\\ :::: \\\\ :::: \\\\ :::: \\\\ ::::
-\\ Tastenanordnung: :aufgrund anderer: :aufgrund
-:sollen sich: \bei :Neo beide\ Hände: :beim sich:
-Bestandteil\ :des \KTouch Projektes: \Auch :des \\
-:\ :\ \\ :: \: \: \: :\ \: \\ :: :\ :: :\ \: \: \:
-\: \: :\ unter\ QWERTZ: :der :Taste \Alt Gr: und\
-der\ :der Name: \</text>
-    </lesson>
-    <lesson>
-      <id>efc7bbd4-f04c-4f9c-b07a-17327470bd4d</id>
+      <id>0d9ff1d8-0a4f-461d-b96e-c34e1d030e78</id>
       <title>113: \:</title>
       <newCharacters/>
-      <text>die: Finger: \die :im \Zehnfingersystem benutzt\
-werden: um\ :diese :Tasten \anzuschlagen :Die :toten
-Tasten: \sind dargestellt: :durch :einen gestrichelten:
-:Kreis mit\ Diakritikum\ \Die Ebene\ zwei: :Die
-\Ebene drei: enthält\ verschiedene: \Arten von:
-\Klammern und: \für die\ Programmierung\ \verwendete
-\Sonderzeichen \die Position\ :von</text>
+      <text>\Erhebungen insbesondere\ :der Programmieren: \\\\
+:::: \\\\ :::: \\\\ :::: \\\\ :::: \\\\ :::: \\
+anordnung\ im: :alphanumerischen :Bereich :Sie
+:Autoren :Der Text: \ist :unter der: :Lizenz :Der
+Schreibgeschwindigkeit: Tastaturbelegungen: :\ :\
+\: \: \: \: \\ :\ :\ :: :: \\ :\ \: :\ :\ :\ \\ ::
+:\ :\ \Trigramme berücksichtigt\ \die beim\ Chatten:
+\Erheb</text>
     </lesson>
     <lesson>
-      <id>15928a7d-1e1b-43bd-8e1e-099120073886</id>
-      <title>114: *?</title>
+      <id>6be57e0a-1338-40b4-86cd-cbc575e26777</id>
+      <title>114: \:</title>
+      <newCharacters/>
+      <text>darunter: auch\ \die neuartige\ :tote :Taste \die
+zum\ :Beispiel aus\ dem\ Zeichen\ ein\ :erzeugt
+Zusammen\ mit: \der fünften\ Ebene: :kann man: \mit
+\Neo somit\ \griechische :sowie Zeichen: des:
+:internationalen \phonetischen \Alphabets erzeugen:
+Trotzdem\ ist\ Neo\ klar: auf\ :die \deutsche :Sprache
+\ausgelegt für: \andere \empfiehlt sich: :</text>
+    </lesson>
+    <lesson>
+      <id>e2730e7a-d665-42e0-9dbd-171d0439ca64</id>
+      <title>115: *?</title>
       <newCharacters>*?</newCharacters>
       <text>*** ??? *** ??? *** ??? *** ??? *** ??? *** ??? ***
 ??? *? *? *? *? *? *? *? *? *? *? *? *? *? *? *? *?
-*? *? *? *? *? *?** ***? *?*? ???* ???? ?*?* **??
-**** ???? ***? *? * ? * ? * ? * ? * ? * ? * ? * ?
+*? *? *? *? *? ???? ???* *?** **?? **** *?** ****
+???? ???* **?? *? * ? * ? * ? * ? * ? * ? * ? * ?
 * ? * ? * ? * ? * ? * ? * ? * ? * ? * ? * ? * ? *
 ? *?* ?*? *?* ?*? *?* ?*? *?* ?*? *?* ?*? *?* ?*?
-*?* ?*? *?*? **?* ??** ??** ?*?* ???? *?*? *?** ***?
-???* ?* *** ??? *** ??? *** ??? *** ??? *** ??? ***
+*?* ?*? *??? *??? ??*? *??? ?*** **?* ?**? **** *???
+*??* ** *** ??? *** ??? *** ??? *** ??? *** ??? ***
 ??? *** ??? *** ???</text>
     </lesson>
     <lesson>
-      <id>7eefb809-a41d-49b9-9cfe-74d582ad9ebf</id>
-      <title>115: *?</title>
-      <newCharacters/>
-      <text>Umsteigern? ?In ?Neo ?Projektseite archiviert? ****
-???? **** ???? **** ???? **** ???? **** ???? **
-?stark *linkslastig Beim* Entwurf* ?der ?wurden
-Texteditoren* *wie Vim* *schwieriger *Umschalt
-einfach? zu? erreichen* ?wären *Unter diesen* ?Z ??
-*? *? ?* ?? ** ?* *? ?* *? ** ?? ?* *? ** ** ** ??
-*? ?* ?? Zeichen? *verfügbar Biologische? *Zeichen
-und* Umstei</text>
-    </lesson>
-    <lesson>
-      <id>5c55d889-4c9f-48c0-bcf0-79a0844b4808</id>
+      <id>fceb10a2-be52-4a26-b8ae-5fe44086c9d2</id>
       <title>116: *?</title>
       <newCharacters/>
-      <text>?und ?steht dabei* für? *Löschen *Entfernen ?ist
-*die ?Escape Taste? und? ?sind die* ?Bild
-Navigationstasten* ?und die* Tasten? *und ?stehen
-für? einen? Sprung* zum? Anfang? bzw* *Ende der?
-Zeile* Die* Ebene* fünf? ?enthält *alle ?griechischen
-Kleinbuchstaben* ?inklusive mathematischer? Varianten?
-*Die ?Tasten *mit ?Schlosssymbol erzeugen? da</text>
+      <text>Autorenportal* Hilfe? ?Letzte ?Änderungen auf? ****
+???? **** ???? **** ???? **** ???? **** ???? ** auf*
+dem* Hardwaremarkt? fast? nicht? Tastatur* folgende?
+Zeichen? verfügbar* Biologische? zu? ?daher besser*
+an? ?die untere* Reihe* ?kommt an? *? ?* ?* *? **
+** ?* ** *? ?* ?? ?? ?* ?? *? ?? ?* ?* ?* *? ** des*
+internationalen? ?phonetischen erzeugen* Autore</text>
     </lesson>
     <lesson>
-      <id>eee7f434-efbe-4361-b054-3a9b33b7e70a</id>
-      <title>117: ^!</title>
+      <id>da93e719-6f2f-4fd1-85d6-7e0d17992262</id>
+      <title>117: *?</title>
+      <newCharacters/>
+      <text>Version? des* ?Layouts dar? ?und *führt zahlreiche?
+grundlegende? *Änderungen ein? In? *der Hauptebene*
+?wurden ?die *Tasten *und zyklisch? vertauscht?
+*Dabei wurde? *das auf? die? ?linke Hand? gelegt*
+?damit ?die ?häufig benötigten* *Tastenkombinationen
+*Strg Strg* und? Strg* für? die? Befehle? *und ?auf
+?einer *Hand liegen? Anm* Die? Version?</text>
+    </lesson>
+    <lesson>
+      <id>ae18eee0-6d3c-4ef2-b661-c6dbeec0b914</id>
+      <title>118: ^!</title>
       <newCharacters>^!</newCharacters>
       <text>^^^ !!! ^^^ !!! ^^^ !!! ^^^ !!! ^^^ !!! ^^^ !!! ^^^
 !!! ^! ^! ^! ^! ^! ^! ^! ^! ^! ^! ^! ^! ^! ^! ^! ^!
-^! ^! ^! ^! ^! !!^! !^!^ !!^! ^^!! ^!!! ^!!! ^!^^
-^^^^ ^!!^ ^^^! ^! ^ ! ^ ! ^ ! ^ ! ^ ! ^ ! ^ ! ^ !
+^! ^! ^! ^! ^! !!!^ ^!!^ ^^^! !^^! ^^!! ^!!^ ^!^^
+!!^! !!!! ^^^! ^^ ^ ! ^ ! ^ ! ^ ! ^ ! ^ ! ^ ! ^ !
 ^ ! ^ ! ^ ! ^ ! ^ ! ^ ! ^ ! ^ ! ^ ! ^ ! ^ ! ^ ! ^
 ! ^!^ !^! ^!^ !^! ^!^ !^! ^!^ !^! ^!^ !^! ^!^ !^!
-^!^ !^! ^!^! !!^^ ^!^^ !!!^ ^^^! !!^^ !^^! ^^!^ !!!!
-^!!^ !^ ^^^ !!! ^^^ !!! ^^^ !!! ^^^ !!! ^^^ !!! ^^^
+^!^ !^! !^!! !^!! ^^!^ ^!^! !^^^ ^!!^ !!^^ ^!!^ !^!!
+!!^^ ^^ ^^^ !!! ^^^ !!! ^^^ !!! ^^^ !!! ^^^ !!! ^^^
 !!! ^^^ !!! ^^^ !!!</text>
     </lesson>
     <lesson>
-      <id>a6f896bc-d70f-413f-9270-e4f9431bd147</id>
-      <title>118: ^!</title>
-      <newCharacters/>
-      <text>!und !der Rautetaste! entspricht! ^und ^der !und
-^^^^ !!!! ^^^^ !!!! ^^^^ !!!! ^^^^ !!!! ^^^^ !!!!
-^^ ^zu erreichen! wären! Unter^ diesen! ^Zeichen ^s
-^Texteditoren !wie Vim^ schwieriger! !Umschalt
-!möglichst ^oft abwechseln! ^sowie abwechseln! ^^
-!^ ^! !^ ^^ ^! ^! !! !^ !^ ^! ^^ ^! ^^ !! ^^ !! !!
-!! !^ ^! ^Hardwaremarkt !fast nicht^ ^erhältlich
-!Bei ^B !und !d</text>
-    </lesson>
-    <lesson>
-      <id>64bbfce4-2f4b-4446-beaa-20d1358f6548</id>
+      <id>9c317dd1-f2a0-4552-8b2c-782e51032108</id>
       <title>119: ^!</title>
       <newCharacters/>
-      <text>^Bearbeiten ^Quelltext ^bearbeiten Anhand^ ^der
-statistischen^ Verteilung^ von! Buchstaben^ der^
-^deutschen Sprache! und^ !Untersuchungen hinsichtlich^
-!Ergonomie ^möchte die! Neo! !Tastaturbelegung !die
-Fingerbewegungen! beim^ Schreiben! verkürzen^ Die^
-häufigsten! ^Buchstaben liegen! daher! auf^ !der
-Grundlinie! und^ den^ üblichen^</text>
+      <text>^Strg !für die! Befehle^ und^ !auf ^einer Hand^ ^l
+^^^^ !!!! ^^^^ !!!! ^^^^ !!!! ^^^^ !!!! ^^^^ !!!!
+^^ Spracheinstellungen! !zu finden! !Für Android^
+im! ^Handel erhältlichen! ^Tastatur Rezeption!
+!XeLaTeX ^Ergonomie und! Zeichenvielfalt^ In! D ^!
+^^ ^! ^! ^! !! !! !^ !^ ^! ^^ !! ^^ !^ !^ !^ !! ^^
+!^ ^! !^ ^ein rekursives! !Akronym !und stand^
+!Belegung ^Strg !</text>
     </lesson>
     <lesson>
-      <id>ad025188-a0e6-41cb-87b2-a29fc97ccf34</id>
-      <title>120: Summary \:*?^!</title>
+      <id>91241cd5-a81b-4fe0-bde1-a4f9ae297ff9</id>
+      <title>120: ^!</title>
+      <newCharacters/>
+      <text>Neo! zahlreiche! !eigene mitbringt^ Die! !toten
+!Tasten !liegen bei^ !Neo !oben rechts^ und^ links^
+und! erlauben^ beim! !Anschlagen ^der !Taste das!
+darauf! !folgende ^Zeichen mit! dem! entsprechenden^
+!Diakritikum zu! !versehen So^ sind^ nicht! ^nur
+!Gravis Akut! !und !Zirkumflex !sondern !noch
+!zahlreiche weitere^ Diakritika^ wie^ ^Zeichen</text>
+    </lesson>
+    <lesson>
+      <id>709c5334-e953-44b6-92ba-ef01e08a191b</id>
+      <title>121: Summary \:*?^!</title>
       <newCharacters/>
       <text>\:*? ^!\: *?^! \:*? ^!\: *?^! \:*? ^!\: *?^! \:*?
-^! ^Forschungsbericht zur^ ergonomischen* Reihe\
-mit? den* !dem Neo! :Projekt entsprechenden: im* ?\
-\\ !? *! :? ^* ?? !^ !* ^* :^ :: :\ *^ *: ^^ ?\ ?*
-!! \\ :! auf* :einer Hand! liegen* Anm^ Die^
-zugehörigen: :Lage :Neo und^ AdNW? :Alternative
-Belegungen* ? \*:* \:\! ???: **?: !\!^ ?^!^ :\\^
-?*!^ ^*^! !::\ ?* \:*? ^!</text>
+^! !modernen TeX^ ?Varianten \also :sehr ?viel TeX^
+^Bedingungen ?Durch !die Nutzung^ !dieser sich! !^
+*\ *^ ^! ^! ?\ *: ^? *: :\ !* :! ?? :: ** !: ?\ ?!
+^\ \\ ?^ sowie^ \eine ?Zeichenvielfalt zu^ \ermöglichen
+wissenschaftliche^ !Untersuchung !Es gibt* !Es :\!^
+*:^: :!*? :^*: \\!\ ?*?^ *^\: \!^! ?*?^ !?!? *\ \:*?
+^!</text>
     </lesson>
     <lesson>
-      <id>f24f1eef-96d0-4a0a-b8e8-1805493a0cef</id>
-      <title>121: ~%</title>
+      <id>ef98ec46-515c-4908-8f41-701a5ab11366</id>
+      <title>122: ~%</title>
       <newCharacters>~%</newCharacters>
       <text>~~~ %%% ~~~ %%% ~~~ %%% ~~~ %%% ~~~ %%% ~~~ %%% ~~~
 %%% ~% ~% ~% ~% ~% ~% ~% ~% ~% ~% ~% ~% ~% ~% ~% ~%
-~% ~% ~% ~% ~% ~~%% ~~~% %~%% %%%% ~~~~ ~~~% ~~~~
-%%~% %~%~ %~%% %% ~ % ~ % ~ % ~ % ~ % ~ % ~ % ~ %
+~% ~% ~% ~% ~% %~~% ~%%~ %%~~ %%~% %~~~ ~~%~ %~%~
+~%%% %~%~ %%%~ ~~ ~ % ~ % ~ % ~ % ~ % ~ % ~ % ~ %
 ~ % ~ % ~ % ~ % ~ % ~ % ~ % ~ % ~ % ~ % ~ % ~ % ~
 % ~%~ %~% ~%~ %~% ~%~ %~% ~%~ %~% ~%~ %~% ~%~ %~%
-~%~ %~% %%%~ ~~~% ~%%% %~%% ~%~% ~~~% %~%~ ~%%% ~~~~
-%~%~ ~% ~~~ %%% ~~~ %%% ~~~ %%% ~~~ %%% ~~~ %%% ~~~
+~%~ %~% ~~%~ %~~% ~~%~ ~%~~ %%~% ~~%~ ~%%~ %%%% %~%~
+%~~% %% ~~~ %%% ~~~ %%% ~~~ %%% ~~~ %%% ~~~ %%% ~~~
 %%% ~~~ %%% ~~~ %%%</text>
     </lesson>
     <lesson>
-      <id>cef362f4-eeae-42a0-beed-5d6cfffb330e</id>
-      <title>122: ~%</title>
-      <newCharacters/>
-      <text>der~ Taste% ~das darauf% ~folgende %Zeichen mit%
-~~~~ %%%% ~~~~ %%%% ~~~~ %%%% ~~~~ %%%% ~~~~ %%%%
-~~ ~Mit %Hilfe der% ~Compose %Taste lässt% ~sich
-~zu Konzept~ Bearbeiten% Quelltext% %bearbeiten Er
-%unter QWERTZ~ der~ Feststelltaste% und~ ~der Ra %~
-%~ ~% ~% %~ %~ ~% ~% ~% ~% %% ~~ %% %~ %~ ~% ~~ %~
-%% ~~ %~ in% gängigen% Typografien% üblichen~
-gängigen% der~ Ta</text>
-    </lesson>
-    <lesson>
-      <id>74b7ea40-20bb-45a5-8425-4f7fc0f23600</id>
+      <id>9e150884-a999-4a67-8727-d9df6b4376c7</id>
       <title>123: ~%</title>
       <newCharacters/>
-      <text>%alle ~griechischen ~Kleinbuchstaben inklusive~
-%mathematischer Varianten~ ~Die %Tasten ~mit
-Schlosssymbol~ erzeugen% das~ %geschützte ~Leerzeichen
-%und ~den geschützten~ ~Bindestrich ~Auf %Ebene
-%sechs findet% man% ~viele %Zeichen ~für den%
-%mathematischen naturwissenschaftlichen% Formelsatz%
-Neo~ %ist %eine ~unter ergonomischen% ~G</text>
+      <text>ist~ ~eine unter% ergonomischen~ ~Tastenanzahl ~~~~
+%%%% ~~~~ %%%% ~~~~ %%%% ~~~~ %%%% ~~~~ %%%% ~~
+%Druckversion %In ~anderen ~Projekten Commons~ %die
+%im %Zehnfingersystem %benutzt %werden ~um %Seit
+~Ende %ist %Neo in~ Org~ %Treiber sind~ %für %% %%
+%~ ~~ ~% ~~ %~ %% ~% ~% %% %~ ~~ ~~ ~% %~ %% ~~ ~~
+%% %~ Erleichtern% des~ %Zehnfingerschreibens %beim
+ist~ ~e</text>
     </lesson>
     <lesson>
-      <id>0f9fb259-3b50-40ff-b6ae-794ae014f4f6</id>
-      <title>124: `+</title>
+      <id>cf5f923c-a81d-4e1d-af71-f1174ae014b4</id>
+      <title>124: ~%</title>
+      <newCharacters/>
+      <text>%wurde das% %auf %die linke~ ~Hand gelegt% ~damit
+die~ häufig% benötigten% %Tastenkombinationen Strg~
+%Strg und~ ~Strg für% ~die Befehle~ ~und auf% ~einer
+Hand~ %liegen %Anm %Die Sonderzeichenebene% wurde~
+%komplett %überarbeitet da~ %die %zugehörigen
+Umschalttasten~ ~besser erreichbar% %werden %Die
+%höheren Ebenen~ %wurden eingeführt% das%</text>
+    </lesson>
+    <lesson>
+      <id>0666ba5d-450f-4080-af8a-e92925cd9d7b</id>
+      <title>125: `+</title>
       <newCharacters>+</newCharacters>
       <text>``` +++ ``` +++ ``` +++ ``` +++ ``` +++ ``` +++ ```
 +++ `+ `+ `+ `+ `+ `+ `+ `+ `+ `+ `+ `+ `+ `+ `+ `+
-`+ `+ `+ `+ `+ +++` +`+` `++` ++`+ ``++ ++`+ ++``
-++`` ```` `++` `` ` + ` + ` + ` + ` + ` + ` + ` +
+`+ `+ `+ `+ `+ ``++ ``++ +`++ `+`` ```` ```+ +++`
+++`` ++++ +``+ `+ ` + ` + ` + ` + ` + ` + ` + ` +
 ` + ` + ` + ` + ` + ` + ` + ` + ` + ` + ` + ` + `
 + `+` +`+ `+` +`+ `+` +`+ `+` +`+ `+` +`+ `+` +`+
-`+` +`+ +`+` `+`` +``+ +`++ `++` ``++ +``+ `+`` +``+
-`++` ++ ``` +++ ``` +++ ``` +++ ``` +++ ``` +++ ```
+`+` +`+ ++`+ ```+ ++`` `+++ `+++ `+`+ ``+` ``++ `+`+
+`+`` `+ ``` +++ ``` +++ ``` +++ ``` +++ ``` +++ ```
 +++ ``` +++ ``` +++</text>
     </lesson>
     <lesson>
-      <id>526beed7-cb92-48bd-9400-265795d7e558</id>
-      <title>125: ]&lt;</title>
+      <id>ba5ad0ee-a8fd-4778-bb55-4a477b7897af</id>
+      <title>126: ]&lt;</title>
       <newCharacters>]&lt;</newCharacters>
       <text>]]] &lt;&lt;&lt; ]]] &lt;&lt;&lt; ]]] &lt;&lt;&lt; ]]] &lt;&lt;&lt; ]]] &lt;&lt;&lt; ]]] &lt;&lt;&lt; ]]]
 &lt;&lt;&lt; ]&lt; ]&lt; ]&lt; ]&lt; ]&lt; ]&lt; ]&lt; ]&lt; ]&lt; ]&lt; ]&lt; ]&lt; ]&lt; ]&lt; ]&lt; ]&lt;
-]&lt; ]&lt; ]&lt; ]&lt; ]&lt; &lt;&lt;&lt;&lt; &lt;]]] &lt;&lt;&lt;] &lt;]]] &lt;&lt;]&lt; ]&lt;]] &lt;]]]
-]]]&lt; &lt;&lt;&lt;] ]]&lt;&lt; &lt;] ] &lt; ] &lt; ] &lt; ] &lt; ] &lt; ] &lt; ] &lt; ] &lt;
+]&lt; ]&lt; ]&lt; ]&lt; ]&lt; ]]]&lt; &lt;&lt;]&lt; &lt;]]] &lt;&lt;]&lt; ]&lt;&lt;] &lt;&lt;]&lt; &lt;]]&lt;
+]]]&lt; &lt;]]&lt; &lt;]&lt;] ]&lt; ] &lt; ] &lt; ] &lt; ] &lt; ] &lt; ] &lt; ] &lt; ] &lt;
 ] &lt; ] &lt; ] &lt; ] &lt; ] &lt; ] &lt; ] &lt; ] &lt; ] &lt; ] &lt; ] &lt; ] &lt; ]
 &lt; ]&lt;] &lt;]&lt; ]&lt;] &lt;]&lt; ]&lt;] &lt;]&lt; ]&lt;] &lt;]&lt; ]&lt;] &lt;]&lt; ]&lt;] &lt;]&lt;
-]&lt;] &lt;]&lt; &lt;]&lt;] &lt;&lt;]&lt; &lt;&lt;]] ]]&lt;] &lt;&lt;]&lt; &lt;&lt;&lt;&lt; &lt;&lt;]] &lt;&lt;]&lt; ]]]]
-]]]&lt; ]] ]]] &lt;&lt;&lt; ]]] &lt;&lt;&lt; ]]] &lt;&lt;&lt; ]]] &lt;&lt;&lt; ]]] &lt;&lt;&lt; ]]]
+]&lt;] &lt;]&lt; &lt;&lt;]&lt; ]&lt;]] ]]]] &lt;]]] &lt;&lt;]] &lt;]]&lt; ]&lt;]&lt; &lt;]&lt;&lt; ]]&lt;&lt;
+&lt;&lt;&lt;] &lt;&lt; ]]] &lt;&lt;&lt; ]]] &lt;&lt;&lt; ]]] &lt;&lt;&lt; ]]] &lt;&lt;&lt; ]]] &lt;&lt;&lt; ]]]
 &lt;&lt;&lt; ]]] &lt;&lt;&lt; ]]] &lt;&lt;&lt;</text>
     </lesson>
     <lesson>
-      <id>437ca017-9fea-44e2-bf52-0757099a8fea</id>
-      <title>126: ]&lt;</title>
-      <newCharacters/>
-      <text>]unter Berücksichtigung&lt; der&lt; &lt;Ergonomie und] d ]]]]
-&lt;&lt;&lt;&lt; ]]]] &lt;&lt;&lt;&lt; ]]]] &lt;&lt;&lt;&lt; ]]]] &lt;&lt;&lt;&lt; ]]]] &lt;&lt;&lt;&lt; ]]
-Trautmann] Dennis&lt; Heidsiek] ]Christian Kluge&lt; &lt;Free
-Libre&lt; &lt;Open Source&lt; &lt;Software &lt;und Libre&lt; &lt;jeweils
-&lt;zusätzlichen &lt;Bedingungen Durch] zu] &lt;] &lt;] ]&lt; ]&lt;
-]] ]&lt; ]&lt; &lt;] ]&lt; &lt;] ]&lt; ]&lt; &lt;] &lt;&lt; &lt;&lt; ]] ]&lt; &lt;] ]&lt; ]&lt; ]&lt;
-&lt;Plattformen &lt;Bearbeiten Quelltext&lt; Variante] ]unt
-er</text>
-    </lesson>
-    <lesson>
-      <id>c0f19ffe-80a7-49c7-be7e-6abe5d50d5e6</id>
+      <id>4c39208a-707d-405f-bfff-ba2e30d2e677</id>
       <title>127: ]&lt;</title>
       <newCharacters/>
-      <text>&lt;Die Ebene&lt; &lt;drei enthält&lt; &lt;verschiedene ]Arten ]von
-Klammern&lt; &lt;und &lt;für ]die ]Programmierung verwendete]
-Sonderzeichen&lt; die&lt; ]Position von&lt; ]ist &lt;hervorgehoben
-bezeichnet] die&lt; ]Compose Taste] ]Die Ebene&lt; &lt;vier
-ist&lt; in] ]den Navigationsblock] ]links &lt;und den]
-&lt;Ziffernblock rechts] ]geteilt und&lt; steht] dabei]
-&lt;für ]Löschen Entfernen] ist&lt; di</text>
+      <text>]Window System] Org&lt; &lt;bei allen] aktuellen] Org&lt;
+]]]] &lt;&lt;&lt;&lt; ]]]] &lt;&lt;&lt;&lt; ]]]] &lt;&lt;&lt;&lt; ]]]] &lt;&lt;&lt;&lt; ]]]] &lt;&lt;&lt;&lt;
+]] ]Ebene zwei&lt; Die] ]Ebene drei&lt; ]enthält ]enthält
+können&lt; im&lt; Vergleich] zu&lt; anderen] &lt;Grundlinie der&lt;
+]echte Apostroph&lt; ]und ]die ]in Büchern&lt; ]in &lt;] &lt;]
+]&lt; ]] &lt;] &lt;&lt; ]&lt; ]&lt; &lt;] ]] &lt;&lt; ]] &lt;&lt; ]&lt; ]&lt; &lt;&lt; ]] &lt;] &lt;]
+&lt;] ]&lt; ]geteilt &lt;und steht] dabei&lt; &lt;für ]Löschen
+steht] ]Windo</text>
     </lesson>
     <lesson>
-      <id>89ba5d9e-e5c9-4e59-846c-5f3a7240b115</id>
-      <title>128: Summary ~%`+]&lt;</title>
+      <id>ac2e5805-9b2a-49c7-a02e-ed180c8002fa</id>
+      <title>128: ]&lt;</title>
+      <newCharacters/>
+      <text>]Farben &lt;bezeichnen die&lt; ]Finger &lt;die ]im
+]Zehnfingersystem benutzt] werden] ]um diese] ]Tasten
+]anzuschlagen Die] toten] Tasten&lt; sind&lt; dargestellt]
+durch] einen] gestrichelten&lt; Kreis] &lt;mit Diakritikum&lt;
+Die] Ebene] ]zwei ]Die Ebene&lt; drei] ]enthält
+verschiedene] &lt;Arten von] Klammern&lt; und] für] die]
+Programmierung&lt; verwendete] ]anzuschlagen</text>
+    </lesson>
+    <lesson>
+      <id>815e9455-4436-419f-aa63-063ee69b04da</id>
+      <title>129: Summary ~%`+]&lt;</title>
       <newCharacters/>
       <text>~%`+ ]&lt;~% `+]&lt; ~%`+ ]&lt;~% `+]&lt; ~%`+ ]&lt;~% `+]&lt; ~%`+
-]&lt; &lt;] +] ]&lt; &lt;~ `+ `+ +~ &lt;% %~ %` `&lt; +% +~ `&lt; `] `%
-]~ ~] ]% +&lt; ~% ~]+~ %+]+ +&lt;`` ~&lt;%% ~`%&lt; +%`] +&lt;]`
-]%~` &lt;~+~ ]&lt;]` %&lt; ~%`+ ]&lt;~% `+]&lt; ~%`+ ]&lt;~% `+]&lt; ~%`+
-]&lt;~% `+]&lt; ~%`+ ]&lt; &lt;] +] ]&lt; &lt;~ `+ `+ +~ &lt;% %~ %` `&lt;
-+% +~ `&lt; `] `% ]~ ~] ]% +&lt; ~% ~]+~ %+]+ +&lt;`` ~&lt;%%
-~`%&lt; +%`] +&lt;]` ]%~` &lt;~+~ ]&lt;]` %&lt; ~%`+ ]&lt;~% `+]&lt; ~%`+
-]&lt;~% `+]&lt; ~%`+ ]&lt;~% `+]&lt; ~%`+ ]&lt; &lt;] +] ]&lt;</text>
+]&lt; `] ~` +&lt; &lt;&lt; ~~ %% %+ ~% `] `&lt; +&lt; &lt;] ~` ]&lt; ++ ~%
++] ~` %] +% `] ~`]+ &lt;%~] +&lt;&lt;` &lt;%+&lt; %]~~ ```+ &lt;]~%
+``+~ +]%~ &lt;%%] +] ~%`+ ]&lt;~% `+]&lt; ~%`+ ]&lt;~% `+]&lt; ~%`+
+]&lt;~% `+]&lt; ~%`+ ]&lt; `] ~` +&lt; &lt;&lt; ~~ %% %+ ~% `] `&lt; +&lt;
+&lt;] ~` ]&lt; ++ ~% +] ~` %] +% `] ~`]+ &lt;%~] +&lt;&lt;` &lt;%+&lt;
+%]~~ ```+ &lt;]~% ``+~ +]%~ &lt;%%] +] ~%`+ ]&lt;~% `+]&lt; ~%`+
+]&lt;~% `+]&lt; ~%`+ ]&lt;~% `+]&lt; ~%`+ ]&lt; `] ~` +&lt;</text>
     </lesson>
     <lesson>
-      <id>2c30b86c-73ec-4a6f-a372-f8291d6785b1</id>
-      <title>129: [&gt;</title>
+      <id>dd437e2a-be55-403f-9e8a-d7ccf9ad5e2b</id>
+      <title>130: [&gt;</title>
       <newCharacters>[&gt;</newCharacters>
       <text>[[[ &gt;&gt;&gt; [[[ &gt;&gt;&gt; [[[ &gt;&gt;&gt; [[[ &gt;&gt;&gt; [[[ &gt;&gt;&gt; [[[ &gt;&gt;&gt; [[[
 &gt;&gt;&gt; [&gt; [&gt; [&gt; [&gt; [&gt; [&gt; [&gt; [&gt; [&gt; [&gt; [&gt; [&gt; [&gt; [&gt; [&gt; [&gt;
-[&gt; [&gt; [&gt; [&gt; [&gt; &gt;&gt;&gt;&gt; [[[[ [[[[ &gt;&gt;&gt;[ [&gt;[[ [[&gt;&gt; &gt;[&gt;[
-[&gt;[[ &gt;&gt;[&gt; &gt;[&gt;&gt; &gt;&gt; [ &gt; [ &gt; [ &gt; [ &gt; [ &gt; [ &gt; [ &gt; [ &gt;
+[&gt; [&gt; [&gt; [&gt; [&gt; &gt;[[&gt; [[&gt;[ &gt;&gt;&gt;[ &gt;&gt;[[ [[&gt;[ [[[&gt; [&gt;&gt;[
+&gt;&gt;[&gt; [[&gt;[ &gt;&gt;&gt;&gt; &gt;[ [ &gt; [ &gt; [ &gt; [ &gt; [ &gt; [ &gt; [ &gt; [ &gt;
 [ &gt; [ &gt; [ &gt; [ &gt; [ &gt; [ &gt; [ &gt; [ &gt; [ &gt; [ &gt; [ &gt; [ &gt; [
 &gt; [&gt;[ &gt;[&gt; [&gt;[ &gt;[&gt; [&gt;[ &gt;[&gt; [&gt;[ &gt;[&gt; [&gt;[ &gt;[&gt; [&gt;[ &gt;[&gt;
-[&gt;[ &gt;[&gt; [[[[ [&gt;&gt;&gt; [[[[ &gt;&gt;[&gt; [&gt;&gt;&gt; &gt;[[&gt; [&gt;&gt;[ &gt;[&gt;&gt; &gt;&gt;[[
-[&gt;[&gt; [&gt; [[[ &gt;&gt;&gt; [[[ &gt;&gt;&gt; [[[ &gt;&gt;&gt; [[[ &gt;&gt;&gt; [[[ &gt;&gt;&gt; [[[
+[&gt;[ &gt;[&gt; [&gt;&gt;[ [&gt;&gt;[ &gt;&gt;&gt;&gt; [&gt;&gt;&gt; &gt;&gt;[&gt; &gt;[[[ [&gt;[[ &gt;[&gt;[ [&gt;[[
+[[[[ &gt;&gt; [[[ &gt;&gt;&gt; [[[ &gt;&gt;&gt; [[[ &gt;&gt;&gt; [[[ &gt;&gt;&gt; [[[ &gt;&gt;&gt; [[[
 &gt;&gt;&gt; [[[ &gt;&gt;&gt; [[[ &gt;&gt;&gt;</text>
     </lesson>
     <lesson>
-      <id>f225863c-58a0-49b0-8f83-ad099bde753b</id>
-      <title>130: [&gt;</title>
-      <newCharacters/>
-      <text>&gt;geschrieben werden[ &gt;ohne die&gt; Grundlinie&gt; [zu [[[[
-&gt;&gt;&gt;&gt; [[[[ &gt;&gt;&gt;&gt; [[[[ &gt;&gt;&gt;&gt; [[[[ &gt;&gt;&gt;&gt; [[[[ &gt;&gt;&gt;&gt; [[ &gt;am
-Januar&gt; abgerufen&gt; [am &gt;Oktober Tote[ [Jurek Beim[
-Entwurf[ der&gt; [Buchstabenpositionen der&gt; archiviert[
-vom&gt; [Original &gt;am Juli[ [abgerufen [&gt; &gt;[ &gt;&gt; &gt;&gt; &gt;[
-[[ &gt;[ [[ [&gt; [[ [&gt; [&gt; &gt;&gt; [[ [&gt; &gt;&gt; &gt;&gt; &gt;[ [&gt; [&gt; [[
-[Spezialzeichen [Schreibgeschwindigkeit [Neo &gt;gesc
-h</text>
-    </lesson>
-    <lesson>
-      <id>f4da0040-77a0-47ed-9843-afcdd9da8fc0</id>
+      <id>b9c6c84a-90f9-49fc-ac26-bf63033a273e</id>
       <title>131: [&gt;</title>
       <newCharacters/>
-      <text>[Org bei&gt; &gt;allen &gt;aktuellen Distributionen&gt; [schon
-[als Variante[ [des &gt;deutschen [Tastaturlayouts
-enthalten&gt; Seit&gt; Ende&gt; [ist Neo[ in[ Org[ Treiber&gt;
-[sind für[ alle[ gängigen&gt; &gt;Plattformen insbesondere[
-&gt;Linux &gt;Windows Mac[ OS&gt; [BSD und[ &gt;Solaris [auf
-&gt;der Projektseite[ [herunterladbar [Zusätzlich steht[
-freie[ Lernsoftware&gt; [für &gt;Linux Wi</text>
+      <text>Philipp&gt; Poll[ [Neu verteilt[ &gt;Ergonomischeres [[[[
+&gt;&gt;&gt;&gt; [[[[ &gt;&gt;&gt;&gt; [[[[ &gt;&gt;&gt;&gt; [[[[ &gt;&gt;&gt;&gt; [[[[ &gt;&gt;&gt;&gt; [[
+keine&gt; &gt;wissenschaftliche Untersuchung[ [Es gi
+verteilt&gt; &gt;sein [die QWERTZ&gt; Tastaturbelegung[
+&gt;ergonomisch optimiert[ [festgelegt &gt;Belegung &gt;&gt; [[
+[&gt; &gt;[ &gt;[ &gt;[ [[ [[ [[ &gt;[ [&gt; &gt;&gt; &gt;&gt; [&gt; &gt;[ &gt;&gt; [&gt; &gt;&gt; [[
+[&gt; [&gt; [wurde [auch &gt;das Ziel&gt; &gt;verfolgt &gt;die &gt;verfolgt
+Philip</text>
     </lesson>
     <lesson>
-      <id>577d9e2a-7664-4365-9fbc-852d16b73f2f</id>
-      <title>132: |"</title>
+      <id>c66ec7e4-718b-46ea-9d03-2864f543d0c0</id>
+      <title>132: [&gt;</title>
+      <newCharacters/>
+      <text>&gt;verfügbar Biologische&gt; Zeichen[ [Pfeile [physikalische
+&gt;Konstanten [und &gt;grafische Symbole&gt; [Schreibgeschwindigkeit
+[Bearbeiten Quelltext[ bearbeiten&gt; &gt;Mit der[
+&gt;Verkürzung &gt;der durchschnittlichen[ Fingerbewegung[
+[wurde &gt;auch das[ Ziel&gt; verfolgt&gt; [die Tippgeschwindigkeit&gt;
+&gt;zu &gt;erhöhen Dazu[ [gibt [es [bisher [jedoch keine[
+[Pfeile</text>
+    </lesson>
+    <lesson>
+      <id>512d4ba3-9d6e-46ec-bc6e-97c720717f45</id>
+      <title>133: |"</title>
       <newCharacters>|"</newCharacters>
       <text>||| """ ||| """ ||| """ ||| """ ||| """ ||| """ |||
 """ |" |" |" |" |" |" |" |" |" |" |" |" |" |" |" |"
-|" |" |" |" |" "|"| |""" ||"" "||| """| ""|" |"""
-|||| "||" |||" "| | " | " | " | " | " | " | " | "
+|" |" |" |" |" |""| ""|| ""|| ||"| """| ||"| |||"
+|||" """" """" || | " | " | " | " | " | " | " | "
 | " | " | " | " | " | " | " | " | " | " | " | " |
 " |"| "|" |"| "|" |"| "|" |"| "|" |"| "|" |"| "|"
-|"| "|" ||"" |||" |"|| |||| ""|" |""| ""|" ""|" "||"
-||"" "" ||| """ ||| """ ||| """ ||| """ ||| """ |||
+|"| "|" |||" |"|| |"|" ||"" "|"" ""|" "|"| "||| ||""
+|""" |" ||| """ ||| """ ||| """ ||| """ ||| """ |||
 """ ||| """ ||| """</text>
     </lesson>
     <lesson>
-      <id>5e2413d8-fee8-407f-b70a-b331ac997434</id>
-      <title>133: |"</title>
-      <newCharacters/>
-      <text>Umschalttasten| besser| "erreichbar werden| "D ||||
-"""" |||| """" |||| """" |||| """" |||| """" || |ist
-"in den" Navigationsblock" links| und" den| für"
-die" sonst" eine" "Zeichentabelle bemüht| w "unterliegen
-die| Inhalte| jeweils" Wikimedia| "| "| "| "| "| "|
-"" || "" |" "" || "" || "| |" |" "" "| || || Windows"
-und| Mac" OS| zur| "Verfügung die| Neo| | Umscha</text>
-    </lesson>
-    <lesson>
-      <id>8153e7fa-9853-42ac-adc2-5e77963b90ef</id>
+      <id>2b08287e-bd75-466b-a04a-85cabcd6f3f2</id>
       <title>134: |"</title>
       <newCharacters/>
-      <text>stand| "ursprünglich für| NEO" Ergonomic| |Oops
-also" "später wurde" die| Deutung" auf| |Neo
-ergonomisch" "optimiert "festgelegt |Berücksichtigt
-|wurden |dabei Erfahrungen| der" Dvorak| "Tastaturbelegung
-um| "der ergonomischen" Belegung" von| Helmut" "Meier
-und" einige| "spätere Untersuchungen| |sowie Versuche"
-eine" "ideale Belegung" al</text>
+      <text>"der "fünften Ebene| kann| |man |mit "Neo |somit g
+|||| """" |||| """" |||| """" |||| """" |||| """"
+|| für| Standardtastaturen" unter| |Windows über"
+"Neo sehen" Erfahrungsberichten" |zufolge "Neo
+ergonomisches" Tastaturlayout" |In |LinuxUser "| |"
+|" |" "| || "| |" |" "" |" || |" "| "| "| |" |" |"
+"" |" eine| unter" ergonomischen" "Gesichtspunkten
+e "der "f</text>
     </lesson>
     <lesson>
-      <id>4bb16044-04bd-4f39-8cc5-159e28ea9045</id>
-      <title>135: _=</title>
+      <id>3f368772-e33a-48a9-b213-d751d0ef4b9a</id>
+      <title>135: |"</title>
+      <newCharacters/>
+      <text>sich" beispielsweise| |über |die Folge| "Compose
+|das Teilmengensymbol" |erzeugen das| auch" die|
+"Gleichheit |enthält Zusätzlich| sind| "mit der"
+|Tastaturbelegung folgende| "Zeichen |verfügbar
+Biologische| Zeichen| |Pfeile "physikalische
+Konstanten| und| grafische" Symbole" Schreibgeschwindigkeit|
+"Bearbeiten Quelltext" |erzeugen</text>
+    </lesson>
+    <lesson>
+      <id>d17ff0ab-5d69-44e4-bd00-d70544978c10</id>
+      <title>136: _=</title>
       <newCharacters>_=</newCharacters>
       <text>___ === ___ === ___ === ___ === ___ === ___ === ___
 === _= _= _= _= _= _= _= _= _= _= _= _= _= _= _= _=
-_= _= _= _= _= =___ ==== __== ___= _==_ _=__ __=_
-=_== =_== _=_= _= _ = _ = _ = _ = _ = _ = _ = _ =
+_= _= _= _= _= ___= ___= ==_= ____ _=== ===_ =__=
+=_=_ ==__ ==== __ _ = _ = _ = _ = _ = _ = _ = _ =
 _ = _ = _ = _ = _ = _ = _ = _ = _ = _ = _ = _ = _
 = _=_ =_= _=_ =_= _=_ =_= _=_ =_= _=_ =_= _=_ =_=
-_=_ =_= _=_= =___ _=__ =___ ==_= _=_= ===_ __== =_=_
-===_ _= ___ === ___ === ___ === ___ === ___ === ___
+_=_ =_= ___= _=__ =_== =_=_ __=_ ==== _==_ _==_ _==_
+_==_ _= ___ === ___ === ___ === ___ === ___ === ___
 === ___ === ___ ===</text>
     </lesson>
     <lesson>
-      <id>0ba0181d-c70f-4826-b4e7-39bc26213729</id>
-      <title>136: _=</title>
-      <newCharacters/>
-      <text>werden_ _müsste oder_ die= =sonst _nicht so_ die=
-____ ==== ____ ==== ____ ==== ____ ==== ____ ====
-__ _also sehr= =viel _einfacher =könne Literatur=
-_ rein= experimentellen= Weg_ _zu beschreiten_ gr
-=Verfügung _die =Neo Lernsoftware_ _ist =KTouch __
-== _= =_ == __ =_ __ __ == __ =_ _= == _= __ == _=
-== __ == angemeldet_ Diskussionsseite= _Beiträge
-Link= werden</text>
-    </lesson>
-    <lesson>
-      <id>daf2ca68-1eb9-45ad-bd0f-a1db50e908b4</id>
+      <id>8ff7b368-c4b6-4693-8254-ef3e1f0da3ca</id>
       <title>137: _=</title>
       <newCharacters/>
-      <text>Untersuchungen= sowie= Versuche= eine_ =ideale
-Belegung= =allein über_ Algorithmen_ =berechnen zu=
-lassen= _Statt =jedoch _wie bei_ bisherigen=
-ergonomischen_ Belegungen_ _üblich =nur _einen =rein
-mathematischen= =oder rein= _experimentellen =Weg
-zu= _beschreiten _greift _Neo Erkenntnisse_ beider_
-_auf und= =kombiniert =diese unter= _wie</text>
+      <text>=Grundlinie =zu verlassen= =Aus der= verlassen= ____
+==== ____ ==== ____ ==== ____ ==== ____ ==== __
+=Datenobjekt Drucken_ exportieren_ _Buch _Buch
+=September Website= des= Projekts= _Kategorien
+_abwechseln _sowie =ausgeglichen _verteilt _zu _=
+== == _= == __ _= == _= =_ __ =_ __ _= == __ _= ==
+=_ __ __ _dem =Fazit _Neo _sei _und =und _habe sich_
+seit_ J =Grund</text>
     </lesson>
     <lesson>
-      <id>b1f0300c-3326-4e8c-835c-ee2b2bc4d816</id>
-      <title>138: Summary [&gt;|"_=</title>
+      <id>32c34006-c278-4e70-92ec-99521e40ba2a</id>
+      <title>138: _=</title>
+      <newCharacters/>
+      <text>=bearbeiten _Neo _ermöglicht das_ _Schreiben _praktisch
+aller= Sprachen= =mit =latein _basiertem =Alphabet
+_insbesondere =über die= =toten Tasten= =und
+=zusätzliche Compose_ =Kombinationen von_ _denen
+Neo_ zahlreiche_ _eigene _mitbringt _Die _toten
+Tasten= =liegen bei_ =Neo =oben =rechts _und =links
+_und _erlauben _beim =Anschlagen der_ zu_</text>
+    </lesson>
+    <lesson>
+      <id>bc487213-4bb0-4dae-a423-897b6ad85020</id>
+      <title>139: Summary [&gt;|"_=</title>
       <newCharacters/>
       <text>[&gt;|" _=[&gt; |"_= [&gt;|" _=[&gt; |"_= [&gt;|" _=[&gt; |"_= [&gt;|"
-_= _wissenschaftliche &gt;Untersuchung _Es [gibt _Es
-Belegungen| für&gt; =Standardtastaturen "unter Wi _|
-|_ "&gt; &gt;[ "= &gt;_ |= [_ "= "[ &gt;_ "" &gt;&gt; [| &gt;_ [| |= =|
-"[ [= =_ "und der[ Rautetaste| entspricht_ _und =der
-"und die&gt; |sonst eine" =Zeichentabelle bemüht" eine"
-"="[ &gt;[&gt;_ [[[_ |"[| &gt;&gt;"= =[=_ ==|| |""" _|&gt;| _=&gt;&gt;
-__ [&gt;|" _=</text>
+_= in&gt; Org| &gt;Treiber sind| &gt;für &gt;alle &gt;gängigen Org|
+ermöglicht[ =die =Nutzung [mit _externen |nicht =|
+&gt;[ [_ [= [_ "[ _| "| =" "&gt; &gt;" _&gt; =_ "= [[ |&gt; __ =|
+=| &gt;&gt; |" Formelsatz| Neo&gt; "ist eine= unter_ entwickelte&gt;
+_Computertastaturen &gt;mit der" [in "Deutschland &gt;[&gt;|
+=__| ["[_ "_&gt;| ["[&gt; [_&gt;" |=&gt;[ _=_= =|"" |&gt;=| =" [&gt;|"
+_=</text>
     </lesson>
     <lesson>
-      <id>09092b24-186f-47d6-bf1a-3ce9ca51430d</id>
-      <title>139: $'</title>
+      <id>491cac5d-e141-42bf-b2c0-cbc53213e67e</id>
+      <title>140: $'</title>
       <newCharacters>$'</newCharacters>
       <text>$$$ ''' $$$ ''' $$$ ''' $$$ ''' $$$ ''' $$$ ''' $$$
 ''' $' $' $' $' $' $' $' $' $' $' $' $' $' $' $' $'
-$' $' $' $' $' ''$$ '$'$ $''$ '$'' '$'$ $'$$ '$''
-$'$' '$$$ '$$' '$ $ ' $ ' $ ' $ ' $ ' $ ' $ ' $ '
+$' $' $' $' $' '$$$ $$'' $'$' $$'$ $'$$ $'$' '''$
+'''$ '$$' ''$$ '' $ ' $ ' $ ' $ ' $ ' $ ' $ ' $ '
 $ ' $ ' $ ' $ ' $ ' $ ' $ ' $ ' $ ' $ ' $ ' $ ' $
 ' $'$ '$' $'$ '$' $'$ '$' $'$ '$' $'$ '$' $'$ '$'
-$'$ '$' $'$$ '''' $$'' '$$' $$'$ '$'' $$'$ $'$' $'$'
-$''$ $' $$$ ''' $$$ ''' $$$ ''' $$$ ''' $$$ ''' $$$
+$'$ '$' '$$$ '''' $$$' $$'$ '$'' '''' $''' ''$' $$$$
+$$$$ '$ $$$ ''' $$$ ''' $$$ ''' $$$ ''' $$$ ''' $$$
 ''' $$$ ''' $$$ '''</text>
     </lesson>
     <lesson>
-      <id>48e09f56-6db2-44f3-9f99-13971c334999</id>
-      <title>140: $'</title>
-      <newCharacters/>
-      <text>$Namensräume Artikel' $Diskussion Deutsch$ an$ $$$$
-'''' $$$$ '''' $$$$ '''' $$$$ '''' $$$$ '''' $$
-Deutsch' Ansichten$ 'Lesen Bearbeiten$ Letzte'
-Forschungsbericht$ $DV Seiten$ Online' 'auf $DV
-'QWERTZ Layout' 'sollen $sich $bei 'Neo beide$ $H
-$' $$ $$ $$ '' '$ '$ $' $' $' $$ '' $' $' '' $' $'
-'' $' '$ $' 'initiale $Version wurde$ 'von Hanno$
-Behrens' ' $Namen</text>
-    </lesson>
-    <lesson>
-      <id>d470612e-a937-4a49-906c-f26821aa1056</id>
+      <id>95c57ecd-62d1-4587-b489-b05fe29b0956</id>
       <title>141: $'</title>
       <newCharacters/>
-      <text>'und $baut 'softwaretechnisch 'auf Neo' $auf
-$unterscheidet $sich $in $der $Tastenanordnung
-aufgrund$ $anderer $algorithmischer $Grundlagen
-jedoch$ $grundsätzlich von' Neo$ Seit' ist$ auch'
-$dieses Layout' 'in Linux' $integriert Plattformen'
-'Bearbeiten $Quelltext bearbeiten$ $In $Linux ist$
-Neo$ seit$ $Ende $für 'das Window' $System Org$ b</text>
+      <text>Ergonomie$ möchte' 'die $Neo 'Tastaturbelegung $$$$
+'''' $$$$ '''' $$$$ '''' $$$$ '''' $$$$ '''' $$
+'Datenobjekt Drucken' exportieren' Buch$ Buch$
+'verwendete $Sonderzeichen 'die Position$ von' Ebene'
+vier$ ist' in' $den $Navigationsblock in' '$ $' $$
+'' $$ $$ '' $' $$ '' $' '' $' '' $$ $$ '' $' '$ ''
+$$ und$ $Spezialzeichen Schreibgeschwindigkeit'
+Ergono</text>
     </lesson>
     <lesson>
-      <id>cdc7745c-36c4-443e-b974-dba36e5bc97a</id>
-      <title>142: &amp;</title>
+      <id>4a797c74-4b33-4d99-8bed-075ad8857e20</id>
+      <title>142: $'</title>
+      <newCharacters/>
+      <text>Umschalttasten' $besser erreichbar' $werden 'Die
+höheren$ Ebenen' 'wurden 'eingeführt 'AdNW Bearbeiten$
+$Quelltext 'bearbeiten 'Die $Tastaturbelegung AdNW'
+$der $Neo wurde$ 'von $Teilen 'der Neo' 'Nutzergemeinschaft
+entwickelt$ und' 'baut softwaretechnisch$ auf' Neo$
+$auf 'unterscheidet sich' 'in der$ 'Tastenanordnung
+$aufgrund $besser</text>
+    </lesson>
+    <lesson>
+      <id>8c536526-26e8-4070-99b2-0f366f36b017</id>
+      <title>143: &amp;</title>
       <newCharacters>&amp;</newCharacters>
       <text>&amp;&amp;&amp; &amp;&amp;&amp; &amp;&amp;&amp; &amp;&amp;&amp; &amp;&amp;&amp; &amp;&amp;&amp; &amp;&amp;&amp; &amp;&amp;&amp; &amp;&amp;&amp; &amp;&amp;&amp; &amp;&amp;&amp; &amp;&amp;&amp; &amp;&amp;&amp;
 &amp;&amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp;
@@ -1873,120 +1884,119 @@ Neo$ seit$ $Ende $für 'das Window' $System Org$ b</text>
 &amp;&amp;&amp; &amp;&amp;&amp; &amp;&amp;&amp; &amp;&amp;&amp; &amp;&amp;&amp;</text>
     </lesson>
     <lesson>
-      <id>3b8ef309-a3ab-48bf-9191-b7854402b2f0</id>
-      <title>143: &amp;</title>
-      <newCharacters/>
-      <text>position&amp; &amp;absolute &amp;Abgerufen von&amp; &amp;https de&amp; &amp;
-&amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp;
-&amp;&amp; &amp;und &amp;sind &amp;wie bei&amp; &amp;üblichen Layouts&amp; per&amp; &amp;und
-&amp;erhält eine&amp; bessere&amp; &amp;Position da&amp; der&amp; daher&amp;
-insgesamt&amp; sechs&amp; Ebenen&amp; Dabei&amp; entsprechen&amp; &amp; &amp;&amp;
-&amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp;
-&amp;&amp; &amp;&amp; &amp;&amp; &amp;eingebundener Mediendateien&amp; &amp;etwa &amp;Bilder
-od positi</text>
-    </lesson>
-    <lesson>
-      <id>2d89ed69-d196-44ae-8336-d37d302a3af5</id>
+      <id>8b92b137-a11f-4c1f-b6a9-adafb2024ab5</id>
       <title>144: &amp;</title>
       <newCharacters/>
-      <text>und&amp; &amp;Compose &amp;In Neo&amp; &amp;Projektseite &amp;archiviert
-&amp;vom Original&amp; &amp;am &amp;Januar abgerufen&amp; &amp;am Oktober&amp;
-Erfahrungsberichte&amp; &amp;von Umsteigern&amp; In&amp; Neo&amp;
-&amp;Projektseite &amp;archiviert &amp;vom Original&amp; am&amp; &amp;Januar
-&amp;abgerufen am&amp; Oktober&amp; &amp;Jurek &amp;Breuninger In&amp;
-&amp;bester &amp;Lage Neo&amp; &amp;und &amp;AdNW Alternative&amp; Belegungen&amp;
-&amp;für Standardtastaturen&amp; unter&amp; &amp;Januar</text>
+      <text>&amp;rechts &amp;und &amp;links &amp;und &amp;erlauben beim&amp; &amp;rechts
+&amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp; &amp;&amp;&amp;&amp;
+&amp;&amp; &amp;kommt &amp;in einem&amp; Beitrag&amp; für&amp; &amp;die &amp;Bearbeiten
+Anschlagen&amp; &amp;der Taste&amp; &amp;das &amp;darauf &amp;folgende &amp;
+Projektseite&amp; &amp;archiviert vom&amp; Original&amp; am&amp; &amp;J &amp;&amp;
+&amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp; &amp;&amp;
+&amp;&amp; &amp;&amp; &amp;&amp; für&amp; &amp;Standardtastaturen &amp;unter Windows&amp;
+&amp;über &amp;recht</text>
     </lesson>
     <lesson>
-      <id>0feb4a39-fc8a-4b64-b0ea-472b99e9e131</id>
-      <title>145: #;</title>
+      <id>760be908-d6c9-4076-80e7-ad6eb995b95c</id>
+      <title>145: &amp;</title>
+      <newCharacters/>
+      <text>&amp;Stefan Mayer&amp; Neo&amp; XeLaTeX&amp; &amp;Ergonomie und&amp;
+&amp;Zeichenvielfalt In&amp; Die&amp; &amp;TeXnische Komödie&amp; &amp;img
+&amp;src &amp;https login&amp; wikimedia&amp; &amp;org &amp;wiki Special&amp;
+&amp;CentralAutoLogin &amp;start type&amp; &amp;alt width&amp; height&amp;
+style&amp; border&amp; none&amp; &amp;position absolute&amp; Abgerufen&amp;
+&amp;von &amp;https &amp;de &amp;wikipedia &amp;org index&amp; &amp;php &amp;title
+&amp;Neo &amp;Tastaturbelegung oldid&amp; Kategorien&amp; T</text>
+    </lesson>
+    <lesson>
+      <id>8f7b6ff7-4242-4cfc-ad8e-0ae48d1324aa</id>
+      <title>146: #;</title>
       <newCharacters>#;</newCharacters>
       <text>### ;;; ### ;;; ### ;;; ### ;;; ### ;;; ### ;;; ###
 ;;; #; #; #; #; #; #; #; #; #; #; #; #; #; #; #; #;
-#; #; #; #; #; #;;# ##;; ;;#; ;#;# ;;## ;;## #;;;
-#;;; #### ##;# ;# # ; # ; # ; # ; # ; # ; # ; # ;
+#; #; #; #; #; #;;# ;#;; ;### ##;; #;## #;;; ;;;;
+#### ;;## ###; ;; # ; # ; # ; # ; # ; # ; # ; # ;
 # ; # ; # ; # ; # ; # ; # ; # ; # ; # ; # ; # ; #
 ; #;# ;#; #;# ;#; #;# ;#; #;# ;#; #;# ;#; #;# ;#;
-#;# ;#; ;;## ;;#; ###; ;#;# ;#;; ##;# ##;; #;;; ;;##
-#;;# ## ### ;;; ### ;;; ### ;;; ### ;;; ### ;;; ###
+#;# ;#; ;;## ;;;# ;#;# #;#; ;#;# ###; #;;# #;;# ;;##
+;;## ;# ### ;;; ### ;;; ### ;;; ### ;;; ### ;;; ###
 ;;; ### ;;; ### ;;;</text>
     </lesson>
     <lesson>
-      <id>dd6fc2f5-dbaa-4cf0-b367-aa5b701348f2</id>
-      <title>146: #;</title>
-      <newCharacters/>
-      <text>und; Zeichenvielfalt; ;In #Die TeXnische; wiki# ####
-;;;; #### ;;;; #### ;;;; #### ;;;; #### ;;;; ##
-Erleichtern# #des Zehnfingerschreibens; beim# ;um
-;diese Tasten; ;anzuschlagen Die# #toten ;um
-#Einzelnachweise Bearbeiten# Quelltext; Tote; ;# ;;
-;; #; ;; ;# #; ## ## ## ;# ;; ;# #; ;; ## ;; #; ##
-## ;# beim# üblichen; #QWERTZ ;Layout ;sollen #sich
-be und; Ze</text>
-    </lesson>
-    <lesson>
-      <id>88d22ab8-eb25-482b-94d1-7dddeaf856cf</id>
+      <id>978a9694-89cc-4f9d-b024-a110c8097bc5</id>
       <title>147: #;</title>
       <newCharacters/>
-      <text>fünf# ;enthält alle; ;griechischen #Kleinbuchstaben
-inklusive# #mathematischer #Varianten ;Die Tasten;
-#mit ;Schlosssymbol #erzeugen #das geschützte;
-Leerzeichen; und# #den ;geschützten ;Bindestrich
-Auf# ;Ebene sechs; findet# man; #viele ;Zeichen ;für
-#den mathematischen; naturwissenschaftlichen#
-Formelsatz# Neo# ist# ;eine #unter in#</text>
+      <text>;für die; #Programmierung ;verwendete Compose; ####
+;;;; #### ;;;; #### ;;;; #### ;;;; #### ;;;; ##
+Ziel# ein# angenehmes; und# ;entspanntes #sowie #Die
+#Tasten mit# Schlosssymbol# erzeugen; das; Dvorak;
+;Tastaturbelegung um; der; ;bisherigen ;# #; ## ;;
+;; ;; ## #; ## #; #; ## ## ;; ## ;; ;; ;# ;# ;; ##
+#im Handel; erhältlichen# Tastatur; ;Rezeption ;für
+di</text>
     </lesson>
     <lesson>
-      <id>86b98139-bbfd-49d9-93e5-fa4c4980f651</id>
-      <title>148: Summary $'&amp;#;</title>
+      <id>aadc4473-9931-47ba-996e-b5d54f82a08d</id>
+      <title>148: #;</title>
+      <newCharacters/>
+      <text>;der #Neo Belegung# #In ;Neo ;Projektseite archiviert#
+;vom Original; am# ;Januar abgerufen; #am Oktober;
+Tote; Tasten; und; Compose# ;In Neo# #Projektseite
+archiviert; #vom ;Original am; #Januar abgerufen;
+am# Oktober; Erfahrungsberichte# von; #Umsteigern
+In# Neo# #Projektseite #archiviert ;vom Original;
+#am Januar; abgerufen; am; Oktober;</text>
+    </lesson>
+    <lesson>
+      <id>c0e83bb5-26ec-4fd5-b5bb-c037cf3a76a7</id>
+      <title>149: Summary $'&amp;#;</title>
       <newCharacters/>
       <text>$'&amp;# ;$'&amp; #;$' &amp;#;$ '&amp;#; $'&amp;# ;$'&amp; #;$' &amp;#;$ '&amp;#;
-$' vergleichbare&amp; Schreibgeschwindigkeiten# in&amp;
-;bearbeiten Erleichtern; des# $Untersuchungen $# $$
-'' &amp;&amp; #&amp; ;; ;$ '; ;' ;&amp; #; $' '$ ## #$ '# ;&amp; '# '&amp;
-$$ &amp;&amp; ;Zeichen zum; Beispiel&amp; #Symbole ;für Mengen$
-Lo abgerufen' $am ;Oktober &amp;Erfahrungsberichte vo
-#;'$ &amp;&amp;#&amp; $$#$ $&amp;'# ;$#$ #;'$ &amp;';; #&amp;&amp;' &amp;';' #';;
-'$ $'&amp;# ;$</text>
+$' mit; dem$ 'Kommentar #added de; $neo &amp;closing
+;fd mit' ;dem entsprechenden$ Diakritikum&amp; zu; mit'
+&amp;' '' &amp;$ #$ '; #$ &amp;' &amp;# ;$ $; ;# $# ;&amp; &amp;' '; &amp;$ '#
+&amp;# '; $$ ;# #durch einen&amp; gestrichelten' #Kreis #mit
+#durch Neo# $wurde von' Teilen' der' Neo; insbesondere&amp;
+#;$# '&amp;'; $#;; '&amp;## $';$ ;;&amp;$ #';' &amp;''&amp; &amp;&amp;#$ $$&amp;'
+$# $'&amp;# ;$</text>
     </lesson>
     <lesson>
-      <id>5f9e61ba-3dbd-4093-8934-959535cc0fa3</id>
-      <title>149: /@</title>
+      <id>08a4d8ea-3198-4a02-afb9-312aa3580739</id>
+      <title>150: /@</title>
       <newCharacters>@</newCharacters>
       <text>/// @@@ /// @@@ /// @@@ /// @@@ /// @@@ /// @@@ ///
 @@@ /@ /@ /@ /@ /@ /@ /@ /@ /@ /@ /@ /@ /@ /@ /@ /@
-/@ /@ /@ /@ /@ /@@@ /@/@ @//@ @@/@ @/@@ @@/@ @//@
-///@ @/// //// /@ / @ / @ / @ / @ / @ / @ / @ / @
+/@ /@ /@ /@ /@ ///@ @/@@ @@// @/// @@// @@@/ //@@
+@/// /@@/ @@// @@ / @ / @ / @ / @ / @ / @ / @ / @
 / @ / @ / @ / @ / @ / @ / @ / @ / @ / @ / @ / @ /
 @ /@/ @/@ /@/ @/@ /@/ @/@ /@/ @/@ /@/ @/@ /@/ @/@
-/@/ @/@ //// /@/@ /@@@ /@/@ @/@@ @//@ @/@/ @/// @/@@
-@@// @/ /// @@@ /// @@@ /// @@@ /// @@@ /// @@@ ///
+/@/ @/@ @@// @//@ @/// @/// /@@/ @@// @@/@ /@@@ /@//
+@@/@ @/ /// @@@ /// @@@ /// @@@ /// @@@ /// @@@ ///
 @@@ /// @@@ /// @@@</text>
     </lesson>
     <lesson>
-      <id>7e937680-1a1b-4313-8cde-f9c51aad85e7</id>
-      <title>150: /@</title>
-      <newCharacters/>
-      <text>@erhältlich Bei@ /Bedarf wäre/ /die @erhältlich ////
-@@@@ //// @@@@ //// @@@@ //// @@@@ //// @@@@ //
-beim/ @Schreiben möglichst/ /oft abwechseln/ so
-lässt/ /sich /über /die /erreichen /welche /sich
-Beim@ /Entwurf der@ Buchstabenpositionen@ der@ @/
-/@ @/ /@ @/ /@ /@ /@ /@ @/ @/ // @@ // @@ @/ @@ //
-@@ @/ // Taste/ welche@ unter@ /QWERTZ der@ @zugehörigen
-@erhäl</text>
-    </lesson>
-    <lesson>
-      <id>70fc80e9-2479-49b6-add2-1abdcb28e5e4</id>
+      <id>7420d463-8dd0-4b92-ab22-447c17f7e0bb</id>
       <title>151: /@</title>
       <newCharacters/>
-      <text>Videos/ und@ Audiodateien@ Internet/ @Präsenz /der
-/Neo /Tastaturbelegung Lukas/ /Prokop Christoph@
-@Pratl Video@ @eines Vortrags@ über/ das/ Tastaturlayout/
-@Grazer /Linuxtage Anmerkungen/ @Bearbeiten /Quelltext
-@bearbeiten /Das im/ Vergleich@ zu/ /und viel/
-häufigere@ erhält/ @eine @bessere Position/ da/ der@
-/kleine Finger/ Christoph@</text>
+      <text>/erzeugen das@ auch/ die@ Gleichheit@ @enthält Z
+//// @@@@ //// @@@@ //// @@@@ //// @@@@ //// @@@@
+// @einige spätere@ Untersuchungen@ @sowie @sowie
+Tastaturbelegung/ Ergonomie@ @Abrufstatistik /abgerufen
+am/ September/ /Website /des @config /@ @/ @@ @/ /@
+@/ // @/ @@ // @/ @/ @/ /@ @/ @@ /@ // // @/ @@ von@
+/Bildern Videos@ und@ @Audiodateien /Lukas /erzeu</text>
+    </lesson>
+    <lesson>
+      <id>597faaa8-47fd-4b75-a739-8aae7f4fcf67</id>
+      <title>152: /@</title>
+      <newCharacters/>
+      <text>Taste@ Alt/ Gr/ @und /der Taste/ entspricht/ /zu
+erreichen/ @Neo @Bearbeiten Quelltext@ @bearbeiten
+/Die am@ @März veröffentlichte@ Version@ @stellt
+die@ @endgültige /Version des/ /Layouts dar@ und/
+/führt zahlreiche@ @grundlegende /Änderungen @ein
+/In /der Hauptebene/ /wurden /die Tasten@ und@
+@zyklisch vertauscht/ Dabei/ wurde@ @das /auf /d</text>
     </lesson>
   </lessons>
 </course>
