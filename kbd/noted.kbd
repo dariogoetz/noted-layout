@@ -1,6 +1,6 @@
 # $FreeBSD: src/share/syscons/keymaps/german.iso.acc.kbd,v 1.1 2003/06/19 08:34:38 murray Exp $
 #
-# Noted Layout (v0.1.0) based on neo.kbd (v0.1)
+# Noted Layout (v0.1.1) based on neo.kbd (v0.1)
 #
 #                                                         alt
 # scan                       cntrl          alt    alt   cntrl lock
@@ -22,17 +22,17 @@
   013   dacu   dgra   nop    nop    179    180    nop    nop     O
   014   bs     bs     del    del    bs     bs     del    del     O
   015   ht     btab   nop    nop    ht     btab   nop    nop     O
-  016   'z'    'X'    can    can    '@'    '@'    can    can     C
-  017   'y'    'V'    syn    syn    '_'    '_'    syn    syn     C
-  018   'u'    'L'    ff     ff     '['    '['    ff     ff      C
-  019   'a'    'C'    etx    etx    ']'    ']'    etx    etx     C
-  020   'q'    'W'    etb    etb    '^'    '^'    etb    etb     C
-  021   'p'    'K'    vt     vt     '!'    '!'    vt     vt      C
-  022   'b'    'H'    bs     bs     '<'    '<'    bs     bs      C
-  023   'm'    'G'    bel    bel    '>'    '>'    bel    bel     C
-  024   'l'    'F'    ack    ack    '='    '='    ack    ack     C
-  025   'f'    'Q'    dc1    dc1    '&'    '&'    nul    nul     C
-  026   'j'    nop    nop    nop    252    220    esc    nop     C
+  016   'z'    'Z'    can    can    '@'    '@'    can    can     C
+  017   'y'    'Y'    syn    syn    '_'    '_'    syn    syn     C
+  018   'u'    'U'    ff     ff     '['    '['    ff     ff      C
+  019   'a'    'A'    etx    etx    ']'    ']'    etx    etx     C
+  020   'q'    'Q'    etb    etb    '^'    '^'    etb    etb     C
+  021   'p'    'P'    vt     vt     '!'    '!'    vt     vt      C
+  022   'b'    'B'    bs     bs     '<'    '<'    bs     bs      C
+  023   'm'    'M'    bel    bel    '>'    '>'    bel    bel     C
+  024   'l'    'L'    ack    ack    '='    '='    ack    ack     C
+  025   'f'    'F'    dc1    dc1    '&'    '&'    nul    nul     C
+  026   'j'    'J'    nop    nop    252    220    esc    nop     C
   027   223    nop    nop    nop    252    220    esc    nop     C
 # Use this line for second row after NOTED's M3
 #   027   dtil   '*'    nop    nop    duml   duml  nop    nop     O
