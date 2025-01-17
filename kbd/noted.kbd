@@ -1,6 +1,6 @@
 # $FreeBSD: src/share/syscons/keymaps/german.iso.acc.kbd,v 1.1 2003/06/19 08:34:38 murray Exp $
 #
-# Noted Layout (v0.2.2) based on neo.kbd (v0.1)
+# Noted Layout (v0.3.1) based on neo.kbd (v0.1)
 #
 #                                                         alt
 # scan                       cntrl          alt    alt   cntrl lock
@@ -47,20 +47,22 @@
   038   'r'    'R'    dc4    dc4    '-'    '-'    dc2    dc2     C
   039   'h'    'H'    eot    eot    ':'    ':'    eot    eot     C
   040   dtil   '*'    nop    nop    duml   duml   nop    nop     O
-  # 040       'Y'    em     em     '@'    '@'    nop    nop     C
   041   dcir   176    rs     rs     '^'    176    em     em      O
   042   lshift lshift lshift lshift lshift lshift lshift lshift  O
   043   ralt   ralt   ralt   ralt   ralt   ralt   ralt   ralt    O
-  044   252    220    nop    nop    '#'    '#'    nop    nop     C
-  045   246    214    nop    nop    '$'    '$'    nop    nop     C
-  046   228    196    etx    etx    '|'    '|'    etx    etx     C
-  047   'p'    'P'    dle    dle    '~'    '~'    dle    dle     C
-  048   'z'    'Z'    sub    sub    '`'    '`'    sub    sub     C
-  049   'b'    'B'    stx    stx    '+'    '+'    stx    stx     C
-  050   'm'    'M'    cr     cr     '%'    '%'    cr     cr      C
+  044   'v'    'V'    nop    nop    '#'    '#'    nop    nop     C
+  045   'x'    'X'    nop    nop    '$'    '$'    nop    nop     C
+  046   252    220    etx    etx    '|'    '|'    etx    etx     C
+  # 044   252    220    nop    nop    '#'    '#'    nop    nop     C
+  # 045   246    214    nop    nop    '$'    '$'    nop    nop     C
+  # 046   228    196    etx    etx    '|'    '|'    etx    etx     C
+  047   228    196    dle    dle    '~'    '~'    dle    dle     C
+  048   246    214    sub    sub    '`'    '`'    sub    sub     C
+  049   'w'    'W'    stx    stx    '+'    '+'    stx    stx     C
+  050   'g'    'G'    cr     cr     '%'    '%'    cr     cr      C
   051   ','    ';'    nop    nop    '"'    '"'    nop    nop     O
   052   '.'    ':'    nop    nop    '''    '''    nop    nop     O
-  053   'j'    'J'    nl     nl     ';'    ';'    nl     nl      O
+  053   'k'    'K'    nl     nl     ';'    ';'    nl     nl      O
   054   rshift rshift rshift rshift rshift rshift rshift rshift  O
   055   '*'    '*'    '*'    '*'    '*'    '*'    '*'    '*'     O
   056   lalt   lalt   lalt   lalt   lalt   lalt   lalt   lalt    O
