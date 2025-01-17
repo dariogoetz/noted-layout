@@ -1,6 +1,6 @@
 # $FreeBSD: src/share/syscons/keymaps/german.iso.acc.kbd,v 1.1 2003/06/19 08:34:38 murray Exp $
 #
-# Noted Layout (v0.2.0) based on neo.kbd (v0.1)
+# Noted Layout (v0.2.2) based on neo.kbd (v0.1)
 #
 #                                                         alt
 # scan                       cntrl          alt    alt   cntrl lock
@@ -36,16 +36,16 @@
   027   223    nop    nop    nop    252    220    esc    nop     C
   028   cr     cr     nl     nl     cr     cr     nl     nl      O
   029   lctrl  lctrl  lctrl  lctrl  lctrl  lctrl  lctrl  lctrl   O
-  030   'c'    'U'    nak    nak    '\'    '\'    nak    nak     C
-  031   's'    'I'    ht     ht     '/'    '/'    ht     ht      C
-  032   'i'    'A'    soh    soh    '{'    '{'    soh    soh     C
+  030   'c'    'C'    nak    nak    '\'    '\'    nak    nak     C
+  031   's'    'S'    ht     ht     '/'    '/'    ht     ht      C
+  032   'i'    'I'    soh    soh    '{'    '{'    soh    soh     C
   033   'e'    'E'    enq    enq    '}'    '}'    enq    enq     C
   034   'o'    'O'    si     si    '*'    '*'     si     si      C
-  035   'd'    'S'    dc3    dc3    '?'    '?'    dc3    dc3     C
-  036   't'    'N'    so     so     '('    '('    so     so      C
-  037   'n'    'R'    dc2    dc2    ')'    ')'    vt     vt      C
-  038   'r'    'T'    dc4    dc4    '-'    '-'    dc2    dc2     C
-  039   'h'    'D'    eot    eot    ':'    ':'    eot    eot     C
+  035   'd'    'D'    dc3    dc3    '?'    '?'    dc3    dc3     C
+  036   't'    'T'    so     so     '('    '('    so     so      C
+  037   'n'    'N'    dc2    dc2    ')'    ')'    vt     vt      C
+  038   'r'    'R'    dc4    dc4    '-'    '-'    dc2    dc2     C
+  039   'h'    'H'    eot    eot    ':'    ':'    eot    eot     C
   040   dtil   '*'    nop    nop    duml   duml   nop    nop     O
   # 040       'Y'    em     em     '@'    '@'    nop    nop     C
   041   dcir   176    rs     rs     '^'    176    em     em      O
