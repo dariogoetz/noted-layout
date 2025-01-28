@@ -148,6 +148,36 @@
         There exist no drivers for MacOS, currently.
       </p>
 
+      <p>
+        FreeBSD supports <em>Noted</em> layout whether you are using X or the console (VT or syscons). Using X, 
+        the Linux instructions mostly apply.
+      </p>
+      <p>
+        Regarding usage on FreeBSD's console, the following is an excerpt from 
+       <a href="https://www.neo-layout.org/Einrichtung/BSD/">Setup Neo > BSD Systems</a> (be mindful to replace 
+       any mentions of neo.kbd with 
+       <a href="https://github.com/dariogoetz/noted-layout/blob/main/kbd/noted.kbd">noted.kbd.</a>).
+       <br>
+
+        As mentioned in the <strong>NOTE</strong>: <em>This driver is not intended as a complete replacement, however 
+       it will make basic system administration possible using level 1–3 without switching to X.</em>
+      </p>
+      <p>
+        For FreeBSD on the console, the <a href="https://github.com/dariogoetz/noted-layout/blob/main/kbd/noted.kbd">noted.kbd</a> 
+        driver file must be loaded with the following commands:
+            <ol>
+	          <li><pre>$ kbdcontrol -l noted</pre></li>
+                  <li>To use the layout permanently, as a root user, copy (or move) the file to the registry for keymaps:
+                        <ul>
+                              <li>For VT: <pre># cp noted.kbd /usr/share/vt/keymaps/</pre></li>
+                              <li>Or below Syscons: <pre># cp noted.kbd /usr/share/syscons/keymaps/</pre></li>
+                        </ul>
+                   </li>
+                  <li>Then <pre>sysrc keymap="noted"</pre></li>
+            </ol>
+
+      </p>
+
       </p>
     </section>
 

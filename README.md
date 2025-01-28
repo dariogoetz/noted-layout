@@ -13,6 +13,10 @@ The design of the <em>Noted</em> layout was supported by a newly developed <a hr
 ## Layout on Ergonomic Keyboards (crkbd or Cantor)
 ![Noted Layout](/images/crkbd/noted-1-tkl.path.svg)
 
+## Installation
+
+Instructions for Linux/Windows/BSD can be found under the *Installation* section of the <a href="https://dariogoetz.github.io/noted-layout/">introduction page</a>.
+
 ## Troubleshooting
 
 ### The layout file is not working under Debian Bookworm
