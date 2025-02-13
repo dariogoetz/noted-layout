@@ -152,6 +152,35 @@
       <p>
         Treiber für MacOS sind aktuell noch nicht vorhanden.
       </p>
+
+      <p>
+        FreeBSD unterstützt das <em>Noted</em> Layout sowohl unter X als auch in der Konsole (VT oder syscons). Im Falle von X 
+        gelten im Wesentlichen die obigen Schritte für Linux.
+      </p>
+      <p>
+        Für die Verwendung in der FreeBSD Konsole kann die Anleitung unter
+       <a href="https://www.neo-layout.org/Einrichtung/BSD/">Setup Neo > BSD Systeme</a> verwendet werden. Dabei müssen 
+       jeweils Referenzen auf die neo.kbd durch
+       <a href="https://github.com/dariogoetz/noted-layout/blob/main/kbd/noted.kbd">noted.kbd.</a> ersetzt werden.
+       <br>
+
+       Wie im <strong>Hinweis</strong> zu sehen gilt: <em>Dieser Treiber ist also nicht als vollständiger Ersatz gedacht,
+       sondern nur um grundlegende Systemadministration durch Ebene 1–3 möglich zu machen, ohne in X zu wechseln.</em>
+      </p>
+      <p>
+        Für FreeBSD an der Konsole muss die Treiberdatei <a href="https://github.com/dariogoetz/noted-layout/blob/main/kbd/noted.kbd">noted.kbd</a> 
+        mit folgendem Befehl geladen werden:
+        <ol>
+	        <li><pre>$ kbdcontrol -l noted</pre></li>
+          <li>Um das Layout permanent zu verwenden, lohnt es sich als root-Benutzer die Datei noted.kbd in das Verzeichnis für Keymaps zu plazieren:
+            <ul>
+              <li>Oder unter VT: <pre># cp noted.kbd /usr/share/vt/keymaps/</pre></li>
+              <li>Oder unter Syscons: <pre># cp noted.kbd /usr/share/syscons/keymaps/</pre></li>
+            </ul>
+           </li>
+          <li>Dann <pre>sysrc keymap="noted"</pre></li>
+        </ol>
+      </p>
     </section>
 
     <h2>Heatmap</h2>
