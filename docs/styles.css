@@ -6,6 +6,11 @@ html {
     color: #EEE;
 }
 
+div {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
 .lang-link-box {
   position: absolute;
   top: 0;

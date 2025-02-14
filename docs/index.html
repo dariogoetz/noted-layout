@@ -49,7 +49,7 @@
   <article>
     <h2>Description</h2>
     <section>
-      <p>
+      <div>
         <em>Noted</em> is an alternate keyboard layout that aims to allow efficient and comfortable
         typing both in German and English.
         It is now a <a href="https://www.neo-layout.org/Layouts/noted/">member</a>
@@ -57,83 +57,82 @@
         keyboard layouts and aims to improve upon them. It shares the third and fourth layers with those
         layouts and updates the fifth and sixth layer according to the character ordering on the first layer
         (see <a href="https://github.com/dariogoetz/noted-layout/tree/main/images">here</a>).
-      </p>
-      <p>
+      </div>
+      <div>
         The design of the <em>Noted</em> layout was supported by a newly developed
         <a href="https://github.com/dariogoetz/keyboard_layout_optimizer">optimizer</a>
         based on a mixed-language corpus (60% German, 40% English).
-      </p>
+      </div>
     </section>
 
     <h2>Goals</h2>
     <section>
-      <p>
+      <div>
         The <em>Noted</em> layout's goal is to allow comfortable typing of German and English
         texts (in particular on ISO keyboards) by
-      <ul>
-        <li>placing frequent characters on well-reachable keys,</li>
-        <li>avoiding uncomfortable sequences of keys,</li>
-        <li>achieving a pleasant "rolling" typing rhythm (hand changes every two keys),</li>
-        <li>keeping the shortcut keys "cvxz" on the left hand and close to the Ctrl-key
-          (so that the right hand remains free to control the mouse),</li>
-        <li>keeping punctuation symbols ",." on the familiar (QWERTZ) positions,</li>
-        <li>properly accounting for the shift keys in the development of the layout
-          (shift keys are being held until the modified key is released).</li>
-      </ul>
-      </p>
-      <p>
+        <ul>
+          <li>placing frequent characters on well-reachable keys,</li>
+          <li>avoiding uncomfortable sequences of keys,</li>
+          <li>achieving a pleasant "rolling" typing rhythm (hand changes every two keys),</li>
+          <li>keeping the shortcut keys "cvxz" on the left hand and close to the Ctrl-key
+            (so that the right hand remains free to control the mouse),</li>
+          <li>keeping punctuation symbols ",." on the familiar (QWERTZ) positions,</li>
+          <li>properly accounting for the shift keys in the development of the layout
+            (shift keys are being held until the modified key is released).</li>
+        </ul>
+      </div>
+      <div>
         What "uncomfortaple sequence" and "pleasant typing rhythm" means, exactly, is often hard
         to define and in parts depends on personal preference.
         The <em>Noted</em> Layout considers a set of evaluation criteria, for instance the "number of finger repeats",
         that shall quantify these "soft" goals.
-      </p>
-      <p>
+      </div>
+      <div>
         These metrics and evaluation criteria are generally not new and were already employed
         in the development of multiple other keyboard layouts.
         For the <em>Noted</em> Layout, however, some of them were extended and further differentiated.
-      </p>
-      <p>
+      </div>
+      <div>
         The <em>Noted</em> layout tries to avoid finger repeats on weaker fingers (e.g., the pinky finger)
         more than on stronger fingers (e.g., the middle or index finger). Also, lateral finger repeats
         (for instance, of the index finger in the center column) shall rather be avoided than their vertical
         counterparts and finger repeats that curl the finger are (slightly) preferred over those that stretch
         the finger. Finally, repeats across multiple rows are worse than those across only one (or no) row.
-      </p>
-      <p>
+      </div>
+      <div>
         The evaluation of consecutive same-hand keypresses that are not finger repeats is differentiated
         by
-      <ul>
-        <li>which fingers are involved (for instance, a sequence from middle to index finger is to be
-          preferred over a sequence from middle to ring finger),</li>
-        <li>how many rows are crossed,</li>
-        <li>whether a press of a lower key on a short finger follows the press of a upper key on a long finger,</li>
-        <li>whether one of the keys draws the hand out of its home position.</li>
-      </ul>
-      </p>
-      <p>
+        <ul>
+          <li>which fingers are involved (for instance, a sequence from middle to index finger is to be
+            preferred over a sequence from middle to ring finger),</li>
+          <li>how many rows are crossed,</li>
+          <li>whether a press of a lower key on a short finger follows the press of a upper key on a long finger,</li>
+          <li>whether one of the keys draws the hand out of its home position.</li>
+        </ul>
+      </div>
+      <div>
         For the design of the <em>Noted</em> layout, a new
         <a href="https://github.com/dariogoetz/keyboard_layout_optimizer">keyboard layout optimizer</a> has been
         developed,
         which is based on the <a href="https://hg.sr.ht/~arnebab/evolve-keyboard-layout">optimizer of Arne
           Babenhauserheide (ArneBab)</a>
         that already contained variants of some of the metrics and was used for the design of the <em>Mine</em> layout.
-      </p>
+      </div>
     </section>
 
     <h2>Installation</h2>
     <section>
-      <p>
+      <div>
         For using the <em>Noted</em> layout in Windows, the usage of <a
           href="https://www.neo-layout.org/Einrichtung/reneo/">ReNeo</a>
         is recommended. A corresponding configuration file can be downloaded <a
           href="https://raw.githubusercontent.com/dariogoetz/noted-layout/main/reneo/layouts.json">here</a>.
-      </p>
-      <p>
+      </div>
+      <div>
         In Linux, the <em>Noted</em> layout is contained in the usual linux keyboard mapping package
         <a href="https://www.freedesktop.org/wiki/Software/XKeyboardConfig/">xkeyboard-config</a> starting version 2.44
         and is available on Ubuntu systems since mid 2024. For other systems, there is the option to add the <em>Noted</em>
-        layout to the xkeyboard-config directory (usually under
-        <pre>/usr/share/X11/xkb/symbols</pre>) and then activate it with <pre>setxkbmap noted</pre>. The corresponding
+        layout to the xkeyboard-config directory (usually under <pre>/usr/share/X11/xkb/symbols</pre>) and then activate it with <pre>setxkbmap noted</pre>. The corresponding
         configuration file can be found
         <a href="https://raw.githubusercontent.com/dariogoetz/noted-layout/main/xkb/noted">here</a>
         (for <em>xkeyboard-config</em> with versions earlier than 2.39,
@@ -144,16 +143,16 @@
 
         More details about the installation under Linux can be found on the <a
           href="https://www.neo-layout.org/Einrichtung/Linux/">page of the Neo project</a>.
-      </p>
-      <p>
+      </div>
+      <div>
         There exist no drivers for MacOS, currently.
-      </p>
+      </div>
 
-      <p>
+      <div>
         FreeBSD supports the <em>Noted</em> layout whether you are using X or the console (VT or syscons). Using X, 
         the Linux instructions mostly apply.
-      </p>
-      <p>
+      </div>
+      <div>
         Regarding usage on FreeBSD's console, the following is an excerpt from 
        <a href="https://www.neo-layout.org/Einrichtung/BSD/">Setup Neo > BSD Systems</a> (be mindful to replace 
        any mentions of neo.kbd with 
@@ -162,8 +161,8 @@
 
         As mentioned in the <strong>NOTE</strong>: <em>This driver is not intended as a complete replacement, however 
        it will make basic system administration possible using level 1–3 without switching to X.</em>
-      </p>
-      <p>
+      </div>
+      <div>
         For FreeBSD on the console, the <a href="https://github.com/dariogoetz/noted-layout/blob/main/kbd/noted.kbd">noted.kbd</a> 
         driver file must be loaded with the following commands:
         <ol>
@@ -176,7 +175,7 @@
            </li>
            <li>Then <pre>sysrc keymap="noted"</pre></li>
         </ol>
-      </p>
+      </div>
     </section>
 
     <h2>Heatmap</h2>
@@ -194,15 +193,15 @@
 
     <h2>Comparison with other German Layouts</h2>
     <section>
-      <p>
+      <div>
         Well-known representatives of alternate keyboard layouts for the German language on ISO keyboards are layouts of
         the Neo family:
         <em><a href="https://www.neo-layout.org/Layouts/neo/">Neo2</a></em>,
         <em><a href="https://www.neo-layout.org/Layouts/bone/">Bone</a></em>,
         <em><a href="https://www.neo-layout.org/Layouts/mine/">Mine</a></em>
         and <em><a href="http://www.adnw.de/index.php?n=Main.SeitlicheNachbaranschl%c3%a4ge">KOY</a></em>.
-      </p>
-      <p>
+      </div>
+      <div>
         Of those layouts, the <em>Noted</em> layout is most similar to the <em>Mine</em> Layout. It uses the same
         vowel block, the same positions for the shortcut keys "cvxz" and "h" and "k" on the right pinky.
         In contrast to <em>Mine</em>, the letter "s" is located on the left home-row instead of the "r". This
@@ -210,10 +209,10 @@
         is frequent in German.
         Furthermore, the consonants on the right hand are arranged differently to increase typing effort and avoid
         the notorious index finger "mpf" (appearing in German words such as "impfen" and "empfinden").
-      </p>
+      </div>
 
       <h3>Shortcuts and Punctuation</h3>
-      <p>
+      <div>
         Both <em>Mine</em> and <em>Neo2</em> place the shortcut keys "cvxz" on the left hand in reach of the Ctrl key.
         This allows using these shortcuts while leaving the right hand free to use the mouse.
         While the <em>Bone</em> layout puts the "x" on the left hand, it is located far from the Ctrl key.
@@ -221,91 +220,91 @@
         more cumbersome. Moreover, the locations of the keys for period and comma not the "usual" ones for the
         <em>KOY</em>
         layout.
-      </p>
+      </div>
 
       <h3>Performance</h3>
-      <p>
+      <div>
         The total cost evaluated by the optimizer is composed as the sum of costs from various metrics.
         The main metrics are
 
-      <ul>
-        <li><b>Key Costs</b>
-          <br>How frequent are easy to reach keys used?
-        </li>
-        <li><b>Finger Repeats</b>
-          <br>How often are keys used consecutively by the same finger?
-          This is weighted by the fingers' strengths and the direction of the movement.
-        </li>
-        <li><b>Movement Pattern</b>
-          <br>How often do "uncomfortable" sequences on the same hand appear?
-          Here, both the employed fingers (and their lengths) as well as the number of crossed rows play a role.
-        </li>
-      </ul>
-      Moreover, there is a series of secondary metrics that have a lesser impact on the overall result:
-      <ul>
-        <li><b>Finger Balance</b>
-          <br>Are the fingers appropriatedly loaded?
-        </li>
-        <li><b>Hand Balance</b>
-          <br>Are the hands equally loaded?
-        </li>
-        <li><b>No Handswitch after Unbalancing Key</b>
-          <br>The key following a key that draw the hand away from the home position should lie on the other hand.
-        </li>
-        <li><b>No Handswitch in Trigram</b>
-          <br>How often are three consecutive keys on the same hand used (and do they contain a direction change)?
-        </li>
-        <li><b>Irregularity</b>
-          <br>How often do two uncomfortable bigrams appear consecutively?
-        </li>
-        <li><b>Secondary Bigrams</b>
-          <br>How often are the first and third key of a trigram in an uncomfortable constellation?
-        </li>
-        <li><b>In- and Outward Rolls</b>
-          <br>How often is there exactly one change of hands in a trigram (this supports a pleasent "rolling" typing
-          rhythm)?
-        </li>
-      </ul>
-      </p>
+        <ul>
+          <li><b>Key Costs</b>
+            <br>How frequent are easy to reach keys used?
+          </li>
+          <li><b>Finger Repeats</b>
+            <br>How often are keys used consecutively by the same finger?
+            This is weighted by the fingers' strengths and the direction of the movement.
+          </li>
+          <li><b>Movement Pattern</b>
+            <br>How often do "uncomfortable" sequences on the same hand appear?
+            Here, both the employed fingers (and their lengths) as well as the number of crossed rows play a role.
+          </li>
+        </ul>
+        Moreover, there is a series of secondary metrics that have a lesser impact on the overall result:
+        <ul>
+          <li><b>Finger Balance</b>
+            <br>Are the fingers appropriatedly loaded?
+          </li>
+          <li><b>Hand Balance</b>
+            <br>Are the hands equally loaded?
+          </li>
+          <li><b>No Handswitch after Unbalancing Key</b>
+            <br>The key following a key that draw the hand away from the home position should lie on the other hand.
+          </li>
+          <li><b>No Handswitch in Trigram</b>
+            <br>How often are three consecutive keys on the same hand used (and do they contain a direction change)?
+          </li>
+          <li><b>Irregularity</b>
+            <br>How often do two uncomfortable bigrams appear consecutively?
+          </li>
+          <li><b>Secondary Bigrams</b>
+            <br>How often are the first and third key of a trigram in an uncomfortable constellation?
+          </li>
+          <li><b>In- and Outward Rolls</b>
+            <br>How often is there exactly one change of hands in a trigram (this supports a pleasent "rolling" typing
+            rhythm)?
+          </li>
+        </ul>
+      </div>
 
       <img src="assets/comparison_barchart_relative.png" alt="Comparison with modern layouts of the Neo family"
         width="90%" class="center" style="display:block; border-radius: 3px;" />
 
-      <p>
+      <div>
         Looking at the various optimization metrics for a German-English corpus, one notices first of all that the
         "modern"
         Layouts are able to strongly reduce the number of finger repeats with respect to their predecessor
         <em>Neo2</em>.
         The following analyses therefore exclude <em>Neo2</em> in order to prevent distorting the scales.
-      </p>
-      <p>
+      </div>
+      <div>
         The bar chart shows relative costs for the individual metrics with respect to the <em>Noted</em> layout.
         Positive values (bars pointing upwards) mean higher cost and therefore lower performance while negative values
         (bars pointing down)
         mean better performance. The <em>KOY</em> layout is depicted in orange color, <em>Bone</em> in magenta, and
         <em>Mine</em> in dark blue.
-      </p>
-      <p>
+      </div>
+      <div>
         Among the "modern" variants, the <em>Noted</em> layout achieves lowest costs with the two main metrics "Finger
         Repeats" and
         "Movement Pattern" (uncomfortable sequences on one hand).
-      </p>
-      <p>
+      </div>
+      <div>
         The <em>KOY</em> layout distributes most frequent letters better to well-reachable keys than the other layouts,
         while, however, compromising finger repeats and uncomfortable sequences on one hand (in large parts due to the
         shift key
         as will be seen below).
-      </p>
-      <p>
+      </div>
+      <div>
         The <em>KOY</em> layout has fewest trigrams without hand changes, the <em>Mine</em> layout has the most.
         The <em>Noted</em> layout lies between the two.
-      </p>
-      <p>
+      </div>
+      <div>
         Both the <em>Noted</em> and the <em>Bone</em> layouts roll equally to the inside and the outside.
         The <em>KOY</em> layout tends to roll inwards whereas the <em>Mine</em> layout rolls outwards.
         Many people favor inwards rolling movements, but this is certainly a point of personal preference.
-      </p>
-      <p>
+      </div>
+      <div>
         The overall result for the mixed-language German-Englisch corpus shows the following picture:
       <table class="center" style="width: 90%;">
         <thead>
@@ -332,22 +331,22 @@
         </tbody>
       </table>
       <br>
-      </p>
+      </div>
     </section>
 
     <h3>Performance in Pure German and English Corpora</h3>
     <section>
-      <p>
+      <div>
         Considering the analyses for pure German and English corpora, one observes that the <em>Noted</em> layout
         performs
         similarly well in both German and English with a slight preference for German.
-      </p>
-      <p>
+      </div>
+      <div>
         For the <em>Mine</em> layout and more clearly for the <em>Bone</em> layout, the tendency to German is stronger.
         This reaches so far that the <em>Bone</em> layout achieves better performance in German than the <em>KOY</em>
         layout.
-      </p>
-      <p>
+      </div>
+      <div>
         The <em>KOY</em> layout on the other hand shows better performance in the English corpus than in the German one
         (even better than the <em>Noted</em> layout).
         It achieves this partly due to the vowel block being better suited for English,
@@ -355,8 +354,8 @@
         on the other layouts.
         Another factor might be that the <em>KOY</em> layout suffers from many finger repeats with the left shift key,
         which is less frequently used in the English language.
-      </p>
-      <p>
+      </div>
+      <div>
       <table class="center" style="width: 90%;">
         <thead>
           <th class="blank" width="20%"> </th>
@@ -391,12 +390,12 @@
         </tbody>
       </table>
       <br>
-      </p>
+      </div>
     </section>
 
     <h3>Influence of the Shift Key</h3>
     <section>
-      <p>
+      <div>
         The explicit consideration of the shift key has had a noticable influence on the design of the <em>Noted</em>
         layout.
         The same may be said about both the <em>Bone</em> and <em>Mine</em> layouts that were developed with ArneBab's
@@ -404,8 +403,8 @@
         also considers the effects of the shift key.
         The jump in total costs when excluding the effects of the shift keys therefore is not very high for these
         layouts.
-      </p>
-      <p>
+      </div>
+      <div>
         The <em>KOY</em> layout on the other hand has to cope with a rather high number of finger repeats and
         uncomfortable movements
         with the left shift key. In the English language sentences starting with "Th" (e.g., "The", "This", "That") lead
@@ -415,8 +414,8 @@
         In the German language combinations with "a" (e.g., "Das", "Was", "Dann") and "o" (e.g., "Wo" or "So") lead to
         uncomfortable
         movements for the left pinky finger.
-      </p>
-      <p>
+      </div>
+      <div>
         Ignoring the effects of the shift key (this can be achieved, for instance, by placing shift on a thumb key),
         one observes a clear gain for the <em>KOY</em> layout:
       <table class="center" style="width: 90%;">
@@ -444,12 +443,12 @@
         </tbody>
       </table>
       <br>
-      </p>
+      </div>
     </section>
 
     <h3>Influence of Line-Breaks</h3>
     <section>
-      <p>
+      <div>
         A large part of the costs of the "Movement Pattern" metric for <em>Noted</em> (and in the same amount for
         <em>Mine</em> and <em>Bone</em>)
         is due to the bigram composed of "period" (or "comma") and "enter" (a line-break). Excluding line-breaks from
@@ -482,40 +481,40 @@
         </tbody>
       </table>
       <br>
-      </p>
+      </div>
     </section>
 
     <h3>Keyboards with Thumb-Keys</h3>
     <section>
-      <p>
+      <div>
         Even though the <em>Noted</em> layout was not explicitly optimized for thumb keys, it still performs
         well for such hardware solutions:
-      </p>
-      <p>
+      </div>
+      <div>
         Using keyboards with thumb-keys (or corresponding software solutions) one can avert the (negative) effects
         of the shift and enter keys by placing those on the thumb-keys.
         Using thumb-shift allows the <em>KOY</em> layout to achieve better performance (see above), whereas
         using thumb-enter allows <em>Noted</em>, <em>Mine</em>, and <em>Bone</em> to gain similar improvements (see
         above).
-      </p>
+      </div>
     </section>
 
     <h2>Comparison with English Alternate Layouts</h2>
     <section>
-      <p>
+      <div>
         Besides the German layouts of the Neo family, there is a large number of alternate keyboard layouts in
         the English-speaking community (e.g., on <a href="https://discord.gg/sxTV2G5Acg">discord</a>
         or <a href="https://www.reddit.com/r/KeyboardLayouts/">reddit</a>).
         These are commonly developed without explicit consideration of the shift keys and often also exclude
         the effects of line-breaks.
-      </p>
-      <p>
+      </div>
+      <div>
         Here, a comparison with the <em>Noted</em> layout shall be performed exemplarily with the
         <a href="https://github.com/Apsu/Canary">Canary</a>
         and <a href="https://o-x-e-y.github.io/layouts/sturdy/index.html">Sturdy</a>
         layouts which are well-regarded in the English-speaking communities.
-      </p>
-      <p>
+      </div>
+      <div>
         It is easy to see that both <em>Canary</em> and <em>Sturdy</em> were primarily developed for the English
         language.
         Both layouts can not compete with the modern layouts of the Neo family when typing German texts.
@@ -568,7 +567,7 @@
         </tbody>
       </table>
 
-      </p>
+      </div>
     </section>
 
 
